@@ -111,3 +111,27 @@ Crispus, resolute, replied, “Yes, if this garment relates to this matter, we m
 “Beware, young man,” the soldier warned. “The storm often conceals the truth, and dangers lurk in the shadows. Be cautious.”
 
 Crispus, connecting his thoughts to the garment, responded, “Let us proceed to the purple cloth, and perhaps the truth will reveal itself.”
+
+## Chapter V: Hidden Traces
+
+Crispus, holding the purple cloth in his hand and gazing intently at it, murmured, “I believe this cloth is a clue. It didn’t simply fall here in the Campus Martius by accident; it’s a garment of dignity, one that could only be found in a senator’s household.”
+
+“What are you thinking, then?” I asked, a bit unsettled.
+
+“Something significant. Perhaps this cloth was torn from the robe of some senator. Fabricius, a shrewd senator and confidant of Romulus, might provide us with valuable information. Let’s go.”
+
+Fabricius was a keen and serious man who had long held important senatorial offices. He was rumored to have often shared secret plans with Romulus, and some suspected he had an influential, hidden hand in political affairs. So, we made our way to Fabricius’s house.
+
+Upon our arrival, Crispus sought out a servant and, with careful questioning, began speaking to him—indirectly, so as not to arouse suspicion. He asked him about the day of the storm and the tumult that had occurred, then probed further, attempting to determine if anything hidden might lie within the house.
+
+At first, the servant was evasive, but eventually, something Crispus said seemed to touch a nerve. “As you say, sir,” said the servant, hesitating slightly, “there are... matters that remain concealed. Fabricius often receives guests here, but only at certain hours, and always in silence and secrecy. What happens inside, no one knows—except Fabricius himself.”
+
+Crispus, his expression indicating he had learned enough, turned to me and murmured, “Much in this house remains hidden, things the servant himself may not even know, yet he has told me enough... I deduce something remarkable, Flavius. I suspect a hidden place—a crypt, perhaps—where Romulus concealed himself, or perhaps lies hidden still.”
+
+“A crypt?” I exclaimed, astonished. “How could you have understood this from the servant’s vague words?”
+
+Crispus smiled and said, “It’s quite simple. The servant admitted, albeit reluctantly, that Fabricius often receives guests in secrecy and in a specific location, without any noise. Such meetings aren’t held in publicly known places. Therefore, I conclude that a hidden location must exist.”
+
+“But what shall we do? Can we find this crypt?” I asked, still incredulous.
+
+“Of course,” Crispus replied, his eyes gleaming. “The servant said enough for me to believe a crypt is concealed within the inner parts of this house. Tomorrow, if fate favors us, we shall continue our investigation.”

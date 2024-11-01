@@ -111,3 +111,28 @@ Crispus, cum animo firmo, respondit, “Ita, cum hoc vestimentum huc pertineat, 
 “Cave, iuvenis,” miles admonuit. “Tempestas saepe veritatem occultat, et in tenebris pericula latent. Cautus esto.”
 
 Crispus, mentes suas in vestimentum coniungens, “Ad purpureum panno pergamus, et fortasse veritas se revelabit,” respondit.
+
+## Caput V: Vestigia Occulta
+
+Crispus, purpureum pannum in manu tenens et oculos in eum defixus, submurmuravit, “Hoc pannum indicium esse reor. Non simpliciter hic in Campus Martius delapsus est; est vestimentum dignitatis, quod solum in domibus senatorum inveniri solet.”
+
+“Quid ergo censes?” quaesivi, paulum perturbatus.
+
+“Aliquid magnum. Fortasse hunc pannum quis e vestitu alicuius senatoris abripuit. Fabricius senator, homo callidus et familiaris Romuli, nobis investigationem perutilem praebere poterit. Eamus.”
+
+Fabricius erat vir acer ac gravis, qui magni momenti munera senatoria iam diu obtinuerat. Fama erat eum cum Romulo consilia arcana saepe communicare, et nonnulli suspicabantur eum partem occultam in rebus publicis habere. Ad domum Fabricii igitur iter fecimus.
+
+Cum advenissemus, Crispus, servum quaerens, quaestionibus perspicacibus eum alloqui coepit, sed indirecte, ne suspiciones excitaret. Interrogavit eum de die tempestatis et de tumultu; deinde etiam altius perscrutatus est, explorans utrum quidpiam secretum intus latere posset.
+
+Servus primo circumlocutionibus utebatur, sed tandem aliquid animo Crispum tetigit. “Ut dicis, domine,” inquit servus, paulum haesitans, “res sunt... quae reconditae manent. Fabricius saepe hic hospites excipit, sed certis horis et sine ullo rumore aut clamore. Quid interius fiat, nemo scit, nisi Fabricius ipse.”
+
+Crispus, vultu indicio satis obtento, se convertit et submurmuravit, “Multa in hac domo latent quae servus ipse fortasse nescit, sed satis indicavit... Praeclarum deduxi, Flavi. Occultum locum esse suspicor—cryptam fortasse—ubi Romulus delituit aut latet.”
+
+“Crypta?” exclamo, plane percussus. “Quomodo hoc potuisti intellegere ex verbis incertis servi?”
+
+Crispus subridens dixit, “Est prorsus simplex. Servus reticenter admisit Fabricium saepe hospites clam excipere, et certo loco, sine omni tumultu. Tales conventus in locis palam notis non habentur. Quam ob rem concludendum est locum latere.”
+
+“Sed quid agemus? Possumusne cryptam invenire?” quaesivi, adhuc incredulus.
+
+“Plane,” inquit Crispus, oculis ardentibus. “Mihi satis dixit ut fidem haberem cryptam interiore domo delitescere. Cras, si fatum favet, investigare pergamus.”
+
