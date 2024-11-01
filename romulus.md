@@ -41,3 +41,27 @@ Lucius, vultu tristissimo, respondit, “Ego in parte non eram, sed audio multa.
 Cum Crispus haec audivit, animus eius plenius formabatur. Diligentiam et cogitationem suam collocavit in eius investigatione. Haec omnia indicabant se in obscurum aliquid transire; cum vestigia quaedam adducere vellent, tamen veritas ipsa manebat latens, obscura et inaccessibilis.
 
 Postquam multa indagavit, Crispus sedit sub umbra arboris et, in animo cogitans, consideravit quid iustum esset. “Flavi,” inquit, “non solum incredibilem fabulam hoc adducit; remissio sapienti potius profertur. Veritas hic delitescere videtur, et ego eo spectabo, nequiquam.”
+
+## Caput III: Valerius et Veritas
+
+Postquam Crispus investigationem suam in Campus Martius pervenerat, confestim in animo eius consilium ortum est. “Flavi,” inquit, “credibile videtur loqui cum Valerio, senatore. Eius testimonium de ascensu Romuli potest adiuvari in hoc quaerendo. Sensus aliquis a nobis intellegitur.”
+
+Igitur ad domum Valerii profecti sumus. Locus erat pulcher, cum statuis et ornamentis qui gloriam Romani populi illustrabant. Cum intravimus, Valerius, senex et gravis, nos cum animo benevolo suscepit. “Salvete, amici! Quid ad me venistis?”
+
+Crispus, vultu sereno, respondit, “Senator, cum audierimus de ascensu Romuli, non possumus non quaerere veritatem. Multa de hoc rumoribus circumferuntur. Visne nobis loqui de hoc?”
+
+Valerius, cum aureis oculis scintillantibus, subridens, inquit, “Quid est quod te sollicitat, Crispus? Quod omnia haec rumores sunt, sed veritas est in aeternum. Romulus, ipse Deus, ad astra ascendit, ut populo Romano favor eternus afferatur. Non debetis in dubiis versari.”
+
+“Sed senator,” inquit Crispus, leviter probing, “nonne dicere potes, quam ob rem nemo eum vidit ascendentem? Tales res saepe multi observant, sed nullum testem habemus, nisi solum verbum tuum.”
+
+Valerius, faciem suam inclinans, respondit, “Quod est, Crispus, non omnem veritatem oportet scire. Hoc mysterium divinum est. Omnia omnia providet, et Romulus noster, nunc in caelo, nos observat et protegium nobis praestat.”
+
+Crispus, sedens et vultu attentissimo, perspicue sensit argumenta Valerii fieri plus ex aequo. “Sed mihi,” inquit, “diligentissime, quod visus non adducunt testimonium, quamvis illud in caelum ascenderit. Populus tuus merito interrogare debet et non credere in mysteria quae in tenebris latent.”
+
+Valerius, oculis rigoribus, persuasit, “Crispe, non debes in ambiguo morari. Ascensio Romuli est rem divinam, et qui contra hoc loquuntur, adversariis invidiae, maledictionibus involvuntur.”
+
+Cum audivisset haec, Crispus vultum suum tollens, ad me se vertit et, cum murmure, dixit, “Flavi, aliquid hic non convenit. Valerius suum sermonem pro veritate praebet, sed rationes eius non sustinent investigationem. Nonne vides quid in occulto fiat?”
+
+Ego, nonnihil confusus, submiseri, “Sed si senatus hoc affirmat, fortasse veritas in hoc consistit.”
+
+“Non est veritas, quae ostentatur,” Crispus respondit. “Omnes qui veritatem quaerunt in caelo, periculum constituunt, et oculi senatus, te non dolent, nihil veritatis illorum efferent. Fortasse eius verba sunt incertae, et res quae nobis praeparantur ex altero sunt. Multa in tenebris latent.”

@@ -41,3 +41,27 @@ Lucius, with a very sad expression, replied, “I was not part of it, but I hear
 When Crispus heard this, his spirit became more resolute. He placed diligence and thought into his investigation. All these signs indicated that something obscure was being concealed; while some traces seemed to lead us, the truth itself remained hidden, dark and inaccessible.
 
 After much inquiry, Crispus sat beneath the shade of a tree and, contemplating in his mind, considered what was just. “Flavi,” he said, “this brings not only an incredible tale; rather, wisdom yields a better release. The truth seems to hide here, and I shall watch over it, perhaps in vain.”
+
+## Chapter III: Valerius and the Truth
+
+After Crispus had reached his investigation in Campus Martius, a plan quickly formed in his mind. “Flavi,” he said, “it seems reasonable to speak with Valerius, the senator. His testimony about Romulus’s ascension could aid us in this inquiry. Some sense must be gleaned from this.”
+
+So we set out for Valerius’s house. The place was beautiful, adorned with statues and ornaments that illustrated the glory of the Roman people. When we entered, Valerius, an elderly and serious man, welcomed us with a kindly spirit. “Greetings, friends! What brings you to me?”
+
+Crispus, with a serene face, replied, “Senator, having heard about Romulus’s ascension, we cannot help but seek the truth. Many rumors circulate about this matter. Will you speak to us about it?”
+
+Valerius, with shining golden eyes, smiled and said, “What troubles you, Crispus? All these are mere rumors, but the truth is eternal. Romulus, a god himself, ascended to the stars, so that eternal favor might be granted to the Roman people. You should not dwell in doubts.”
+
+“But senator,” Crispus interjected, gently probing, “can you not say why no one saw him ascend? Such events are often witnessed by many, yet we have no witness, except your word alone.”
+
+Valerius, tilting his face slightly, replied, “Crispus, not every truth must be known. This is a divine mystery. All things are provided for, and our Romulus, now in heaven, watches over us and grants us protection.”
+
+Crispus, sitting with an attentive face, clearly felt Valerius’s arguments were becoming less sound. “But to me,” he said, “most diligently, what is seen does not yield testimony, even though he has ascended to heaven. Your people ought to question this and not believe in mysteries that lie hidden in darkness.”
+
+Valerius, with a stern look, insisted, “Crispus, you must not linger in ambiguity. The ascension of Romulus is a divine matter, and those who speak against it are enveloped in envy and curses from adversaries.”
+
+Upon hearing this, Crispus raised his face, turned to me, and said softly, “Flavi, something here does not fit. Valerius presents his speech as truth, but his reasons do not withstand investigation. Do you not see what is happening in the shadows?”
+
+I, somewhat confused, murmured, “But if the senate affirms this, perhaps the truth lies within it.”
+
+“It is not the truth that is presented,” Crispus replied. “All who seek the truth in heaven risk danger, and the eyes of the senate, it seems, do not care; they bring forth no truth at all. Perhaps his words are uncertain, and the matters prepared for us come from the other side. Much lies hidden in darkness.”
