@@ -1,4 +1,4 @@
-# Romuli Mysterium Ultimum
+# ROMVLI MYSTERIVM VLTIMVM
 
 ## Caput I: Rumor et Dubium
 
@@ -75,3 +75,39 @@ Postquam nos ab Valerio discessimus, Crispus vultum suum tollens, ad me se verti
 “Et ego te sequar,” inquam, fidem Crispus habens.
 
 “Optime,” Crispus respondit, “una veritatem in luce ponemus.”
+
+## Caput IV: Miles Veteris et Tempestas
+
+Dum Crispus ex domo Valerii discedit, animum suum ad alia verba coniungit. In Campus Martius ambulans, oculos per loca circumfert, spe ductus ut alios testes inveniret. Ad arborem sub qua milites olim consederant, veterem militem, cuius caput canum erat et corpus vires bellicas ostendebat, animadvertit.
+
+“Salve, miles,” inquit Crispus, ad eum accedens. “Audivi de tempestate quae nuper in hoc loco evenit. Visne mihi narrare quid vidisti?”
+
+Miles, oculis plenis memoriam, susurravit, “Ita vero, iuvenis. Tempestas haec terribilis fuit. Non vidi omnia, sed sonitus proelii et clamores audivi, dum nubes atræ super nos ingruerent.”
+
+Crispus, animum suum colligens, inquit, “Proelia audivisti? Quid putas factum sit?”
+
+“Certum est,” miles respondit, “ex experientia mea in proeliis, cum ventus sic turbat et caeli tonitrua in horto resonant, saepe pugnæ fiunt. Ego potius credam, quod hoc sit, quam rerum naturalium eventus. Aliquod violentum hic accidit.”
+
+“Sed quid vidisti?” Crispus interpellavit, conans magis cognoscere.
+
+“Non multa,” miles confitens inquit. “Sed lucem fulgurantium tunc vidi, et admodum commota omnia erant. Populus in tumultu fugiebat, et ego solo iacebam, quaerens refugium. Fulgura videre potui, et cum unum concussum pervenit, sonitus horribilis audivi. Quidquid accidit, non potuit esse sine contentione.”
+
+“Tempestas quidem terribilis,” inquit Crispus, contemplans. “Sed numquam visum est homines pugnantes?”
+
+“Non directe,” miles respondit, “sed in tumultu, sonitus et clamor tum fiebant. Ego, vir veteris, non fallor; aliquid in tenebris actum est.”
+
+Crispus, verba eius meditans, se vertit ad me. “Flavi, quod dicit miles non est sine veritate. Tempestas magis de proelio et contentione videtur quam de natura ipsa.”
+
+“Verum est,” inquam. “Sed quid potes, Crispus, ex his rebus colligere?”
+
+“Multa sunt signa quae non audita, et miles hanc suspicionem solam detulit. Tempestatis non solum natura, sed aliquid maius hic inest. Debemus in quaerendo pergere,” Crispus respondit, et mox cogitavit de purpureo panno, quem in Campus Martius repererat.
+
+“Memento,” inquit, “illud purpureum vestimentum, quod prope locum ascensionis inveneramus. Illud vestimentum non est simplex; fortasse indicium veritatis.”
+
+Miles, aurem advergens, “Quod vestimentum?” inquit. “Potestne esse signum? Certum est quod res in tenebris delitiscit.”
+
+Crispus, cum animo firmo, respondit, “Ita, cum hoc vestimentum huc pertineat, debemus inquirere quid possit significare. Non cessabo, donec veritas appareat.”
+
+“Cave, iuvenis,” miles admonuit. “Tempestas saepe veritatem occultat, et in tenebris pericula latent. Cautus esto.”
+
+Crispus, mentes suas in vestimentum coniungens, “Ad purpureum panno pergamus, et fortasse veritas se revelabit,” respondit.

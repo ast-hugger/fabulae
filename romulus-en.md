@@ -75,3 +75,39 @@ After we left Valerius, Crispus raised his face, turned to me, and, softly murmu
 “And I will follow you,” I said, placing my trust in Crispus.
 
 “Very well,” Crispus replied, “together we will bring the truth into the light.”
+
+## Chapter IV: The Old Soldier and the Storm
+
+As Crispus left the house of Valerius, he directed his thoughts toward other matters. Walking in the Campus Martius, he scanned the area, hoping to find other witnesses. He noticed an old soldier sitting under the trees where soldiers had once gathered, his hair gray and his body showing the signs of many battles.
+
+“Greetings, soldier,” Crispus said, approaching him. “I heard about the storm that recently occurred in this place. Will you tell me what you saw?”
+
+The soldier, his eyes filled with memory, murmured, “Indeed, young man. This storm was terrible. I did not see everything, but I heard the sounds of battle and cries as dark clouds gathered above us.”
+
+Crispus, gathering his thoughts, replied, “Did you hear battles? What do you think happened?”
+
+“Surely,” the soldier responded. “From my experience in battles, when the wind stirs violently and the thunder resounds in the garden, fights often break out. I would rather believe that this was the case than a natural event. Something violent occurred here.”
+
+“But what did you see?” Crispus interjected, trying to learn more.
+
+“Not much,” the soldier admitted. “But I saw flashes of lightning, and everything was greatly disturbed. The people were fleeing in chaos, and I lay alone, seeking refuge. I could see the lightning, and when one struck, I heard a horrible noise. Whatever happened could not be without conflict.”
+
+“The storm was indeed terrible,” Crispus said, contemplating. “But did you never see men fighting?”
+
+“Not directly,” the soldier replied, “but amidst the turmoil, there were sounds and shouts of battle. I, an old man, do not err; something happened in the darkness.”
+
+Crispus, reflecting on his words, turned to me. “Flavius, what the soldier says is not without truth. The storm seems more about battle and conflict than about nature itself.”
+
+“Indeed,” I said. “But what can you, Crispus, gather from these things?”
+
+“There are many signs that have not been heard, and the soldier has only revealed this suspicion. The storm is not only natural; something greater is hidden here. We must continue to inquire,” Crispus replied, and soon thought of the purple cloth he had found in the Campus Martius.
+
+“Remember,” he said, “that purple garment we discovered near the site of the ascension. That garment is not simple; perhaps it is a clue to the truth.”
+
+The soldier, leaning in, asked, “What garment? Could it be a sign? It is certain that something lies hidden in the darkness.”
+
+Crispus, resolute, replied, “Yes, if this garment relates to this matter, we must investigate what it might signify. I will not cease until the truth is revealed.”
+
+“Beware, young man,” the soldier warned. “The storm often conceals the truth, and dangers lurk in the shadows. Be cautious.”
+
+Crispus, connecting his thoughts to the garment, responded, “Let us proceed to the purple cloth, and perhaps the truth will reveal itself.”
