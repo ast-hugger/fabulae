@@ -15,3 +15,29 @@ Ego paulum dubitabundus respondi: “Hoc, mihi quidem videtur, signum divinitati
 His verbis Crispus me anxium reddidit; quod senatus ipse tam stabiliter, tam uno tempore, et tam unanimiter hanc fabulam populo nuntiasset, quidem suscipere cogitavit in populi animis quidam dubitationes extinxisse. Sed Crispus rem adhuc subridet.
 
 Cum paulisper siluissem, Crispus addidit, voce paulum graviore: “Hoc, Flavi, quod tam firmiter in populo persuasum est, mihi quidem magis quam Maris visum astutiam senatoriam sonat. Si res quae dicuntur potius latentem rationem sequitur, forte nos ipsi in arcana veritatis deducemur.”
+
+## Caput II: Investigationis Initium
+
+Postea, cum aurora novum diem exoriente, Crispus et ego, nunc repletis suspicione et curis, ad Campus Martius profecti sumus. Hic locus, spatii latissimi et pulcherrimi, erat plenus historia et gloriosis factis. Hic, olim, exercitus Romanus se congregabat ad ludos et celebrationes, et in medio eius templa deorum conspicuae se extollent. Arborum umbrae et aëris dulcis fragrantia, tamen nunc in corde nostro dubium et anxietatem creabant.
+
+Ad locum, ubi Romulus, secundum rumor, in caelum ascendit, pervenimus. Terra erat herbis et floribus, sed neque nubes neque caeli portus quae ascensionem suam declararet visibile erat. Nihil ibi ostendebat, sed solum pulchritudo naturae erat, quae et vultus allectabat et animum inquietum faciebat.
+
+Crispus, vultu sereno et oculis acutis, ad terram se inclinavit, vestigia et vestigia in humum scrutando. "Si hic factum est, Flavi," inquit, "fortasse vestigia aliquae personae aut quaedam indicia nobis revelabunt." Vultum eius in terra fixum esse vidi, et praeparatus eram in longis observationibus.
+
+Locus circumdatus erat magnis arboribus, et ventus leviter inter ramis frondibus sonabat. Crispus per iter ad locum reliquiae vestigia studebat, cum et ipse percipiebat nonnullas remissas foliorum et herbarum. Mox, ad terram nihilominus se inclinans, oculus eius captus est ab aliquo signum. Inter herbas et folia, vestigium pulchrae purpureae panni, in terra dimissum, apparent. “Flavi,” inquit, “hic aliquid a nobis retinetur. Vide quid hic sit!”
+
+Itaque Crispus vestigium sequebatur, et iuxta ad parvam convallem, signa certaminis visibilium apparuerunt: ramus fractus, herbae conculcatae, et terra turbatum. “Hic certe aliquid grave accidit,” inquit Crispus, vultum eius summum tenens in suspicione.
+
+Dum latentes umbrae inter arbusta obvii erant, Crispus coepit interrogare passantes qui ad ludos et festivitates veniebant. Inter eos, iuvenis cui nomen erat Marcus, filius agricolae, ad nos accedens, et dixit, “Audivi quidem de ascensu Romuli, sed hoc inani clamoris et gaudii erat. Ego, cum astare in multitudine, nihil vidi praeter homines clamorantes.”
+
+Crispus, in hoc auditu, oculos suos levavit, et in animo eius celeriter cogitationes revolvuntur. “Dicit iuvenis,” inquit, “quod hoc tantum rumor potuit exclamari, quod nullum testem habuit. Fortasse aliquid in terra hanc fabulam a nobis abducit.” Interrogavit iuvenem de locis vicinis, et ad finem conversationis duxerat ad aquam quae per Campus Martius fluere solebat.
+
+Ibi, in ripa aquae, Crispus coepit diligenter spectare. Vestigia, plura ex herbis et nudarum terrae vestigia, ostendebant aliam rem. “Ibi,” inquit, “potes videre. Non solum vestigia, sed et signa quae terram lacrimam putabant. Fortasse hic aliquid relinqueretur.”
+
+Crispus deinde, per alios aditus, pervenit ad conspectum latum, ubi alii spectatores, qui cenaverant, ad celebrandum conventus aderant. Ibi audiens senem cui nomen erat Lucius, qui totam vitam in Campus Martius transierat, ad eum accedens, Crispus quaesivit, “Quid scis de ascensu Romuli? Visumne hoc aliquando?”
+
+Lucius, vultu tristissimo, respondit, “Ego in parte non eram, sed audio multa. Qui cum senatu pariter sunt, veritatem hanc in tenebris servant.”
+
+Cum Crispus haec audivit, animus eius plenius formabatur. Diligentiam et cogitationem suam collocavit in eius investigatione. Haec omnia indicabant se in obscurum aliquid transire; cum vestigia quaedam adducere vellent, tamen veritas ipsa manebat latens, obscura et inaccessibilis.
+
+Postquam multa indagavit, Crispus sedit sub umbra arboris et, in animo cogitans, consideravit quid iustum esset. “Flavi,” inquit, “non solum incredibilem fabulam hoc adducit; remissio sapienti potius profertur. Veritas hic delitescere videtur, et ego eo spectabo, nequiquam.”
