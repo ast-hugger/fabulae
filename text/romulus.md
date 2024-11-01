@@ -1,7 +1,3 @@
----
-layout: default
-title: Romuli Mysterium Ultimum
----
 
 # ROMVLI MYSTERIVM VLTIMVM
 
