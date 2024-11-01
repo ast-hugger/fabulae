@@ -130,7 +130,7 @@ Crispus, vultu indicio satis obtento, se convertit et submurmuravit, “Multa in
 
 “Crypta?” exclamo, plane percussus. “Quomodo hoc potuisti intellegere ex verbis incertis servi?”
 
-Crispus subridens dixit, “Elementarium, mi Flavi. Servus reticenter admisit Fabricium saepe hospites clam excipere et certo loco, sine ullo tumultu. Tales conventus in locis palam notis non habentur. Quam ob rem concludendum est locum latere. Non habet nisi unum sensum: cryptam habent quae extra conspectum sit.”
+Crispus subridens dixit, “Elementarium, mi care Flavi. Servus reticenter admisit Fabricium saepe hospites clam excipere et certo loco, sine ullo tumultu. Tales conventus in locis palam notis non habentur. Quam ob rem concludendum est locum latere. Non habet nisi unum sensum: cryptam habent quae extra conspectum sit.”
 
 “Sed quid agemus? Possumusne cryptam invenire?” quaesivi, adhuc incredulus.
 
