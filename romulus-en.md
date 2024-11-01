@@ -56,12 +56,22 @@ Valerius, with shining golden eyes, smiled and said, “What troubles you, Crisp
 
 Valerius, tilting his face slightly, replied, “Crispus, not every truth must be known. This is a divine mystery. All things are provided for, and our Romulus, now in heaven, watches over us and grants us protection.”
 
+I, hearing these words, felt my spirit growing in peace and faith in the senator. “Crispus,” I said, “Valerius is great and full of wisdom. His words seem to represent the truth. Why do you have these doubts?”
+
 Crispus, sitting with an attentive face, clearly felt Valerius’s arguments were becoming less sound. “But to me,” he said, “most diligently, what is seen does not yield testimony, even though he has ascended to heaven. Your people ought to question this and not believe in mysteries that lie hidden in darkness.”
 
 Valerius, with a stern look, insisted, “Crispus, you must not linger in ambiguity. The ascension of Romulus is a divine matter, and those who speak against it are enveloped in envy and curses from adversaries.”
 
-Upon hearing this, Crispus raised his face, turned to me, and said softly, “Flavi, something here does not fit. Valerius presents his speech as truth, but his reasons do not withstand investigation. Do you not see what is happening in the shadows?”
+After we left Valerius, Crispus raised his face, turned to me, and, softly murmuring, said, “Flavi, something here does not fit. Valerius presents his speech as truth, but his reasons do not withstand investigation.”
 
-I, somewhat confused, murmured, “But if the senate affirms this, perhaps the truth lies within it.”
+“What do you mean, Crispus?” I asked, somewhat confused. “Valerius is a great man, and his words seem to hold the truth.”
 
 “It is not the truth that is presented,” Crispus replied. “All who seek the truth in heaven risk danger, and the eyes of the senate, it seems, do not care; they bring forth no truth at all. Perhaps his words are uncertain, and the matters prepared for us come from the other side. Much lies hidden in darkness.”
+
+“What then is to be done?” I asked, anxious.
+
+“I have decided,” Crispus said, “to seek other witnesses. Perhaps someone else has heard about this and will reveal the truth.”
+
+“And I will follow you,” I said, placing my trust in Crispus.
+
+“Very well,” Crispus replied, “together we will bring the truth into the light.”
