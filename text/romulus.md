@@ -1,3 +1,8 @@
+---
+layout: default
+title: Romuli Mysterium Ultimum
+---
+
 # ROMVLI MYSTERIVM VLTIMVM
 
 ## Caput I: Rumor et Dubium
