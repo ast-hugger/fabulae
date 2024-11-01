@@ -130,8 +130,37 @@ Crispus, his expression indicating he had learned enough, turned to me and murmu
 
 “A crypt?” I exclaimed, astonished. “How could you have understood this from the servant’s vague words?”
 
-Crispus smiled and said, “It’s quite simple. The servant admitted, albeit reluctantly, that Fabricius often receives guests in secrecy and in a specific location, without any noise. Such meetings aren’t held in publicly known places. Therefore, I conclude that a hidden location must exist.”
+Crispus smiled and said, “Elementary, my dear Flavius. The servant admitted, albeit reluctantly, that Fabricius often receives guests in secrecy and in a specific location, without any noise. Such meetings aren’t held in publicly known places. Therefore, I conclude that a hidden location must exist.”
 
 “But what shall we do? Can we find this crypt?” I asked, still incredulous.
 
 “Of course,” Crispus replied, his eyes gleaming. “The servant said enough for me to believe a crypt is concealed within the inner parts of this house. Tomorrow, if fate favors us, we shall continue our investigation.”
+
+## Chapter VI: The Hidden Crypt
+
+In the dark night, as the moon cast a faint glow over the rooftops of the city, Crispus and I made our way back to Fabricius’s house. Only the murmurs of Rome’s night air reached us; all was wrapped in a deathly silence. Crispus, with sharp eyes and a keen mind, examined the exterior of the house carefully until he again inspected a hidden spot.
+
+"Flavius," Crispus whispered, "this part of the wall does not quite match the rest. Look here, on the side, where the texture of the stones differs, as if part of the wall were hastily constructed to conceal something behind it."
+
+Stepping closer, I noticed a fine, nearly invisible crack running along the wall. Crispus, exploring with his hand, pressed lightly against a particular stone, and we heard a faint sound of hidden mechanisms. Something shifted behind the wall.
+
+"Look," Crispus said with a smile. "A most hidden door."
+
+As the wall slowly swung open, it revealed a staircase descending into darkness below. We lit our lamps, casting a flickering glow into the depths. Crispus led the way, and I followed, my heart pounding with both excitement and fear. Slowly, we descended into the crypt hidden beneath Fabricius’s house.
+
+Below, the air was cold and unmoving, as though it held all the shadows of the city above. The walls of the crypt were adorned with symbols of ancient gods, mysterious and arcane figures. Crispus remarked that Romulus himself had likely been drawn to such mysteries; indeed, this place seemed to have existed since the very beginnings of Rome, a silent monument.
+
+At last, as the light from our lamps guided our steps, we came to another opening, where an archway of stone led to a small, concealed doorway. Dried bloodstains were visible on the steps, and a piece of purple cloth, like the one found earlier, clung to the threshold. Crispus gave a quick nod, signaling that we had found it.
+
+"Onward, Flavius," he said in a hushed voice, “in the middle of the night, we approach the very truth.”
+
+We crossed through the narrow doorway and entered a small, secret chamber. Crispus barely breathed as we beheld the figure of Romulus. He lay there, draped in a purple robe, his eyes closed, yet with a strangely serene expression, as if he were sunk in a profound sleep. His head was reclined, his hands folded, lying in a manner that suggested he was at rest, as if in final peace.
+
+What we saw was both sacred and terrible. I, almost overwhelmed, could scarcely speak. "Could he be… dead?”
+
+“Dead,” confirmed Crispus, his eyes fixed on the corpse. “Not taken by divine power, but by human hands… it seems, for some greater purpose.”
+
+A heavy silence filled our investigation. Then Crispus, slowly and reverently, bent down, touching the cloak of Romulus, as if silently consenting to a truth he had grasped.
+
+“This place,” he said, “is more of a testament than a grave. Some have acted to ensure that history remains veiled in mystery. For the safety of the Roman people, the truth shall remain here, buried.”
+

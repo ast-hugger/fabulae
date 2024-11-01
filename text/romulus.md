@@ -130,9 +130,60 @@ Crispus, vultu indicio satis obtento, se convertit et submurmuravit, “Multa in
 
 “Crypta?” exclamo, plane percussus. “Quomodo hoc potuisti intellegere ex verbis incertis servi?”
 
-Crispus subridens dixit, “Est prorsus simplex. Servus reticenter admisit Fabricium saepe hospites clam excipere, et certo loco, sine omni tumultu. Tales conventus in locis palam notis non habentur. Quam ob rem concludendum est locum latere.”
+Crispus subridens dixit, “Elementarium, mi Flavi. Servus reticenter admisit Fabricium saepe hospites clam excipere et certo loco, sine ullo tumultu. Tales conventus in locis palam notis non habentur. Quam ob rem concludendum est locum latere. Non habet nisi unum sensum: cryptam habent quae extra conspectum sit.”
 
 “Sed quid agemus? Possumusne cryptam invenire?” quaesivi, adhuc incredulus.
 
 “Plane,” inquit Crispus, oculis ardentibus. “Mihi satis dixit ut fidem haberem cryptam interiore domo delitescere. Cras, si fatum favet, investigare pergamus.”
 
+## Caput VI: Crypta Occulta
+
+Nocte obscura, cum luna tenuem lucem super urbis tecta diffunderet, ego et Crispus ad domum Fabricii iter fecimus. Vix murmura nocturnae Romae per auras perveniebant; omnia in silentium mortuum cadebant. Crispus, oculis acutis et animo vigilanti, circum domum quaerebat, donec locum secretum denuo inspexisset.
+
+"Flavi," sussurravit Crispus, "huic muri pars una parum convenit cum ceteris. Vide hic, in latere, ubi textura lapidum differt, quasi parietem extraneum cito constructum sit ad celandum aliud."
+
+Accedens propius, vidi brevem ac tenuem rimam per murum serpentem. Crispus, manu exploratoria, lapides palpabat. Subito unum lapidem leviter depulit, et—audivimus sonum latentem alicuius serramenti. Aliquid retro retrorsum movit.
+
+"Ecce," inquit Crispus, subridens. "Porta occultissima."
+
+Cum murus paulatim aperiretur, gradus lapidei descenderunt in tenebras inferas. Lucernas nostras accendimus, lumen vacillantem spargentes in profundum. Crispus se praemisit; ego eum sequebar, corde tumescente nec metu vacuo. Gradatim descendimus in cryptam quae sub domo Fabricii latuit.
+
+Infra, aer erat frigidus et immotus, ac tanquam olim inclusa esset omnis umbra ipsius urbis. Parietes cryptae symbolis antiquorum deorum ornati erant, figurae occultae atque arcanis significantes. Crispus aiebat talia mysteria Romulum allexisse; hic quidem locus videbatur ex originibus ipsius Romae ad haec tempora pervenisse, et quasi monumentum silentii erat.
+
+Tandem, lumen nostro iter faciente, aliud foramen conspeximus, ubi arcus lapideus ostium parvum et arcanum recludebat. Vestigia aridae sanguinis in gradibus conspicua erant, et frustulum purpurei panni, simile priori, ad ostium haerebat. Crispus signum datum capite confirmavit.
+
+“Perge, Flavi,” inquit, voce compressa, “in media nocte ipsam veritatem accedimus.”
+
+Per parvum foramen transivimus, ubi ad cameram parvam atque arcanam pervenimus. Vix halitum emisit Crispus, cum corporis Romuli aspectum percipiebamus. Longe iacebat ille, veste purpurea in corpus coniecta, oculis clausis sed vultu quodam modo quiescente, ut si somno profundo obrutus esset. Corpus eius capite reclinato ac manibus iunctis, tanquam in pace ultima fuisset, iacebat.
+
+Quod spectavimus, sacrum et terribile videbatur. Ego, mente paene turbata, vix loqui potui. “Numquid mortuus est…?”
+
+“Mortuus,” affirmavit Crispus, oculos in cadaver defixos. “Non divina vi raptus, sed ab hominibus… ut videtur, ad finem consilii maiorem impulsus.”
+
+Quies momenti nostram investigationem implebat. Tum Crispus, lente et reverenter, inclinatus est, tunicam Romuli tangens, quasi secreto sibi intellecto assentiens.
+
+“Hic locus,” dixit, “est testamentum potius quam sepulcrum. Agerent ipsi quidam ut historia quidem mysteriis tecta remaneret. Pro salute populi Romani, veritas hic subiecta manebit.”
+
+## Caput VII: Veritas Occulta
+
+Mane postero, cum primis lucis radiis, ego et Crispus ad domum Fabricii denuo accessimus. Hoc tempore, Crispus firmus ac determinatus videbatur; aliquid in animo suo erat quod explorare non desineret, utpote qui persuasus esset nos veritati iam adpropinquavisse. Fabricium, in atrio sedens, invenimus, vultu sereno sed anxietatem vix dissimulantem.
+
+“Fabrici,” incepit Crispus voce frigida, “veneramus ut veritatem sciremus. Romulus… mortuus est. In crypta infra domum tuam latet. Quid veritatem tam obstinate abscondis?”
+
+Fabricius, vultu paulum mutato, in Crispum oculos defixit. "Quid tu loqueris, Crispus?" dixit frigidus, sed subito in vultu eius suspicio timoris apparuit. "Quis te ad cryptam duxit? Istud est… impossibile. Nullum crimen est."
+
+Nondum Crispus responderat cum subito sonum levem ex horto audivimus. In umbris illis, figura emersit—erat Valerius, facie pallida sed constanti, qui in horti obscuritate delituerat. Cum ad nos accessisset, Fabricio deprecando annuit. “Veritas, Fabrici, aliquando revelanda est,” dixit voce gravi. “Crispus iam multa novit. Nec ego crediderim eum hominem temerarium esse qui cives suos fallat.”
+
+Crispus et ego taciti Valerium aspeximus, et post longum silentium, is animum suum nobis aperuit.
+
+“Crispus,” ait Valerius, “Romulus, dum patriam nostram sub specie regis benivolentiae regeret, nimium imperium sibi attribuebat. Leges, consilia, etiam aerarium suum putabat; decreta nostra ignotabantur, et civitas—Roma ipsa—fiebat sub pedibus unius viri. Qui libertatem nostram defenderet, nisi nos?”
+
+Fabricius oculos demisit et capite parum assentiente, verba Valerii confirmavit. “Romulus non rex erat, sed tyrannus futurus. Si illum non sustulimus, idem in nobis rempublicam Romamque totam corrumperet.”
+
+Crispus paulisper silens stetit, ponderans quae audiverat. Tandem, oculis gravibus ad Valerium conversus, rogavit, “Quid cives? Scisne quantum haec veritas eos perturbaret?”
+
+“Necesse est ut quidam sciant, Crispus,” respondit Valerius lente, “sed non populus. Populus fortunam divinam vult credere.”
+
+Crispus deinde mecum se avertit, vultu tranquillo sed intento. Ego eum timide interrogavi, “Ergo, quid agendum est? Utrum hoc indicare an celare?”
+
+Tunc Crispus voce sollemni dixit: “Hic locus—haec domus—monumentum sit Romuli, ac eius quod ei occurrit. Veritas huius rei, Flavi, periculum esset omnibus, et non iuvaret nisi inquietudinem propagaret. Propter salutem urbis, illud silentium perpetuum nobis servandum est.”
