@@ -177,7 +177,7 @@ Ego Flavius, attonitus, huc illuc aspectans verba senatorum et ingenium Crispum 
 
 Valerius, paulisper in silenti expectans, Crispum aspexit oculis intuentibus admirationem. “Tantum die nobis, Crispe—quomodo tu omnia haec novisti?”
 
-## Ultima Explicatio
+## Caput IX: Ultima Explicatio
 
 Crispus leniter arrisit et cepit narrare quid in crypta animadvertisset.
 
