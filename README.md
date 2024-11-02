@@ -7,7 +7,8 @@ _Stories Never Written_ is an attempt to use AI to produce Latin reading materia
 that could exist if thrillers and murder mystery were invented two thousand years ago.
 Reading material is the word. This is not great literature, and not even great Latin. 
 The text is left unaltered, minor grammatical mistakes, anachronisms, and AI hallucinations
-intact. ChatGPT can write, but it can't think.
+intact. ChatGPT can write (well, if you guide it as if it were a five year-old), 
+but it can't think.
 
 # Stories
 
