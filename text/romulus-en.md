@@ -70,7 +70,7 @@ Flavius looked at Crispus with excitement, but the old soldier addressed them ag
 
 ## Chapter V: The Purple Cloth
 
-Crispus, gazing intently at the fragment of purple cloth, slowly furrowed his brow. “This was certainly part of Romulus’s garment,” he said gravely, “but the question now is: how did it end up in this place?” Looking around as if piecing something together, he added, “Fabricius, a wise and distinguished senator, is often skilled at unraveling delicate political matters. It wouldn’t be surprising if he had learned something about these events, even about this so-called miracle. Shouldn’t we question him?”
+Crispus held the torn piece of purple cloth between his fingers, studying it intently. His gaze was steady, but a spark of intrigue shone in his eyes. "This cloth," he murmured, "if it truly belonged to Romulus, holds a story hidden beneath its threads. And if battle was indeed fought in that storm," he continued, "then Fabricius, as both senator and a high-ranking military commander, could be connected to it. Perhaps his house might contain the next clue."
 
 “But Fabricius, like many senators, seems to believe in the miracle itself,” I replied. “Why should we meet with him, unless we mean to question his faith in it?”
 

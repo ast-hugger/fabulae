@@ -71,7 +71,7 @@ Flavius sensu alacri Crispum respexit, sed veteranus eos iterum, quasi monens, a
 
 ## Caput V: Vestis Purpurea
 
-Crispus, frustulum purpureum diu spectans, sensim supercilia contraxit. “Hoc certe Romuli vestimenti pars fuit,” inquit graviter, “sed quaestio nunc est: quomodo in hunc locum pervenerit.” Circumspiciens quasi aliquid penitus conligeret, adiecit: “Fabricius, senator prudens et clarus, saepe ad res civiles subtiliter dirimendas aptus est. Non tam mirum esset, si quid de his eventibus, etiam de prodigiis istis, comperisset. Nonne oportet eum interrogarimus?”
+Crispus fragmentum purpurae inter digitos tenebat, attente inspiciens. Vultus eius compositus erat, sed in oculis ardebat scintilla quaedam curiositatis. "Haec purpura," murmurat, "si vere Romuli fuit, historiam in suis filis latentem habet. Et si pugna revera in illa tempestate gesta est," pergit, "tunc Fabricius, senator et dux militaris eminens, cum ea re coniunctus esse poterit. Forsitan domus eius proximum indicium teneat."
 
 “Sed Fabricius in prodigium ipsum, ut multi senatores, credidisse videtur,” respondi. “Cur nos cum eo convenire oportet, nisi de fide eius quaerere velimus?”
 
