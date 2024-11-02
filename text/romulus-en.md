@@ -152,13 +152,13 @@ Fabricius regarded us with a cold look as we approached. “Why have you come to
 
 Upon hearing this, Fabricius turned pale but quickly restored his countenance to one of hardness. Valerius, however, with burning eyes darting to Crispus, attempted to respond along with his associate, “We do not know what you are talking about. There is no—”
 
-Crispus cut sharply through their words: “Do not deny the facts. I know of the body concealed beneath the crypts—and nothing escapes your attention.” His voice struck the air like a thorn. Fabricius and Valerius, as if wounded, froze in place. Their faces barely concealed their fear.
+Crispus cut sharply through their words: “Do not deny the facts. I know of the body concealed beneath the crypts—nothing can hide from me.” His voice struck the air like a thorn. Fabricius and Valerius, as if wounded, froze in place. Their faces barely concealed their fear.
 
 Meanwhile, I, Flavius, was no less astonished; so much had transpired in these days that hidden truths had finally been revealed to us. Finally, Fabricius began, “That which lies beneath the earth… There is no need to speak of it—”
 
 Crispus, chillingly calm in a mysterious way, followed up: “And I will tell you even more. The name of the man who ‘ascended to the heavens’ from Campus Martius was not Romulus. Do you not know, senators?” Fabricius and Valerius looked at each other, astonished, while I could barely draw in the air in disbelief.
 
-“It was Remus,” Crispus said. “Remus, not Romulus, met his final fate in that place.” Fabricius and Valerius fell silent as if struck by a bolt of lightning.
+“Remus,” Crispus said. “Remus, not Romulus, met his final fate in that place.” Fabricius and Valerius fell silent as if struck by a bolt of lightning.
 
 ## Chapter VIII: The Hidden Truth
 
@@ -174,7 +174,7 @@ Valerius looked on with a secretive gaze, slowly revealing the truth. “Crispus
 
 I, Flavius, astonished, looked around, admiring the words of the senators and Crispus’s intelligence, barely able to contain myself. Fabricius, taking a deep breath, finally revealed: “Fortune favored us because we learned this in time, so that before his scheme reached full effectiveness, we could kill ‘Romulus’ in Campus Martius, or rather Remus, hidden beneath his brother’s guise.”
 
-Valerius, pausing briefly in silence, looked at Crispus with eyes filled with admiration. “Such a day for us, Crispus—how did you know all of this?”
+Valerius, pausing briefly in silence, looked at Crispus with eyes filled with admiration. “Such a day for us, Crispus—but how did you know all of this?”
 
 ## Chapter IX: The Final Explanation
 
