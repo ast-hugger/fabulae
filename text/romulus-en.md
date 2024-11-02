@@ -18,29 +18,17 @@ After a brief silence, Crispus added, in a slightly more serious tone, “This, 
 
 ## Chapter II: Traces in the Campus Martius
 
-Afterward, as dawn broke with the arrival of a new day, Crispus and I, now filled with suspicion and concern, set out to Campus Martius. This place, vast and beautiful, was full of history and glorious deeds. Here, once, the Roman army would gather for games and celebrations, and in its midst, the temples of the gods would rise prominently. The shade of the trees and the sweet fragrance of the air now stirred doubt and anxiety in our hearts.
+Early in the morning after the rumor of the prodigy had spread throughout Rome, Crispus and I made our way to the Campus Martius, where, as the story went, Romulus had been taken up into the heavens. The vast and famous Campus Martius lay serene in the dawn’s light, with the Tiber flowing gently along its banks, a silent witness to recent events. The quiet of the place lent a sense of mystery, but Crispus, with his sharp mind, brushed this aside.
 
-We arrived at the spot where Romulus, according to the rumor, ascended to the heavens. The ground was covered with grasses and flowers, but there were neither clouds nor heavenly portals visible that would indicate his ascension. Nothing was apparent there, only the beauty of nature, which both attracted and troubled our minds.
+“Rumors are rarely true,” Crispus murmured as we approached the site of the miracle. “But perhaps the place itself holds some significance, if we examine it carefully.”
 
-Crispus, with a serene expression and keen eyes, leaned down to examine the ground, scrutinizing the tracks and traces in the earth. “If this happened here, Flavi,” he said, “perhaps the traces of some person or certain signs will reveal themselves to us.” I saw his gaze fixed on the ground, and I was prepared for a long observation.
+In the area where Romulus was said to have vanished, Crispus cast his sharp eyes all around, searching for any trace. Pressed grass, broken bushes—it seemed as though some kind of struggle had taken place there not long ago. The signs were unclear, but Crispus examined each one. Still, I reflected aloud, almost in doubt, “Surely, my dear Crispus, you think there was a crowd of people here? Certainly, one would expect the traces of many people in such a spot.”
 
-The area was surrounded by large trees, and the wind softly rustled among the leafy branches. Crispus studied the remnants of the place as he perceived some scattered leaves and grasses. Soon, leaning closer to the ground, his eye was caught by something unusual. Among the grasses and leaves appeared a piece of beautiful purple cloth, discarded on the ground. “Look here, Flavi!” he exclaimed. “Something is being concealed from us. See what this is!”
+Crispus, however, raised a fragment of purple cloth he had found among the bushes and shook his head slightly. “Not all traces, Flavius, are alike. If Romulus truly had been taken up into the heavens, it would be strange for anything of this kind to be left behind. A miracle lifts up everything—bodies, garments, perhaps even souls.”
 
-Crispus followed the trace, and nearby in a small hollow, visible signs of a struggle appeared: a broken branch, trampled grasses, and disturbed earth. “Surely something serious happened here,” Crispus said, his expression reflecting suspicion.
+Slowly turning the purple fragment in his hands, Crispus smiled slightly. “Roman cloth,” he said, “royal purple, like the sort Romulus wore. Yet here it is, as if torn violently from the garment.”
 
-As hidden shadows lurked between the bushes, Crispus began to question passersby who were coming to the games and festivities. Among them was a youth named Marcus, the son of a farmer, who approached us and said, “I have indeed heard about the ascension of Romulus, but it was merely an empty clamor and joy. I stood in the crowd, yet saw nothing except people shouting.”
-
-Crispus, upon hearing this, raised his eyes, and thoughts quickly revolved in his mind. “The youth says,” he remarked, “that this could only be a rumor shouted forth, as there was no witness. Perhaps something in the ground leads us away from this tale.” He questioned the young man about nearby places, and by the end of the conversation, he directed him to the water that flowed through Campus Martius.
-
-There, on the riverbank, Crispus began to examine carefully. The traces, numerous from the grass and bare earth, revealed another matter. “There,” he said, “you can see. Not only the traces but also signs that seemed to weep upon the earth. Perhaps something was left behind here.”
-
-Crispus then moved through other paths and came to an open view where other spectators who had dined were gathering to celebrate. There, he heard from an old man named Lucius, who had spent his entire life in Campus Martius, and approaching him, Crispus asked, “What do you know about the ascension of Romulus? Did you see this happen?”
-
-Lucius, with a very sad expression, replied, “I was not part of it, but I hear many things. Those who are together with the Senate keep this truth hidden in darkness.”
-
-When Crispus heard this, his spirit became more resolute. He placed diligence and thought into his investigation. All these signs indicated that something obscure was being concealed; while some traces seemed to lead us, the truth itself remained hidden, dark and inaccessible.
-
-After much inquiry, Crispus sat beneath the shade of a tree and, contemplating in his mind, considered what was just. “Flavi,” he said, “this brings not only an incredible tale; rather, wisdom yields a better release. The truth seems to hide here, and I shall watch over it, perhaps in vain.”
+At his words, I was unsettled. Crispus’s observations increased my own doubts; the very prodigy that the people were already celebrating he had now keenly questioned.
 
 ## Chapter III: Senator Valerius
 

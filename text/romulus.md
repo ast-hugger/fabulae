@@ -19,29 +19,17 @@ Cum paulisper siluissem, Crispus addidit, voce paulum graviore: “Hoc, Flavi, q
 
 ## Caput II: Vestigia in Campo Martio
 
-Postea, cum aurora novum diem exoriente, Crispus et ego, nunc repletis suspicione et curis, ad Campus Martius profecti sumus. Hic locus, spatii latissimi et pulcherrimi, erat plenus historia et gloriosis factis. Hic, olim, exercitus Romanus se congregabat ad ludos et celebrationes, et in medio eius templa deorum conspicuae se extollent. Arborum umbrae et aëris dulcis fragrantia, tamen nunc in corde nostro dubium et anxietatem creabant.
+Mane postquam rumor de prodigio in omnes partes Romae pervaserat, ego et Crispus ad Campum Martium profecti sumus, ubi, ut fama ferebat, Romulus in caelum raptus erat. Campus Martius, vastus et illustris, sub aurorae luce serena iacebat, cum Tiberis leniter per ripas suas flueret, tacitus spectator eventuum recentium. Silentium loci nobis magnum dabat mysterium, sed Crispus, mentis solertis, id leviter excussit.
 
-Ad locum, ubi Romulus, secundum rumor, in caelum ascendit, pervenimus. Terra erat herbis et floribus, sed neque nubes neque caeli portus quae ascensionem suam declararet visibile erat. Nihil ibi ostendebat, sed solum pulchritudo naturae erat, quae et vultus allectabat et animum inquietum faciebat.
+“Rumores raro veri sunt,” Crispus submurmuravit, dum ad locum prodigii accedebamus. “At fortasse locus ipse aliquid significat, si diligenter inspicimus.”
 
-Crispus, vultu sereno et oculis acutis, ad terram se inclinavit, vestigia et vestigia in humum scrutando. "Si hic factum est, Flavi," inquit, "fortasse vestigia aliquae personae aut quaedam indicia nobis revelabunt." Vultum eius in terra fixum esse vidi, et praeparatus eram in longis observationibus.
+In area ubi Romulum evanuisse dicebant, Crispus oculos acutos circumtulit, vestigia vestigiorum quaerens. Herbae compressae, frutices disrupti, quasi aliquis tumultus ibi paulo ante gestus esset. Signa incerta erant, sed unum quodque Crispus observabat. Ego tamen mecum cogitabam et, quasi dubitans quaesivi, “Nonne existimas, mi Crispo, hic multitudinem hominum versatam esse? Certissime hic vestigia multorum inveniri possunt.”
 
-Locus circumdatus erat magnis arboribus, et ventus leviter inter ramis frondibus sonabat. Crispus per iter ad locum reliquiae vestigia studebat, cum et ipse percipiebat nonnullas remissas foliorum et herbarum. Mox, ad terram nihilominus se inclinans, oculus eius captus est ab aliquo signum. Inter herbas et folia, vestigium pulchrae purpureae panni, in terra dimissum, apparent. “Flavi,” inquit, “hic aliquid a nobis retinetur. Vide quid hic sit!”
+Crispus autem, purpurae frustulum quod inter frutices invenerat sublevans, leniter capite negavit. “Non omnia vestigia, Flavi, aequalia sunt. Si Romulus vere in caelum raptus esset, mirum esset aliquid eiusmodi relicti esse. Miraculum omnia attollit—corpora, vestimenta, fortasse etiam animas.”
 
-Itaque Crispus vestigium sequebatur, et iuxta ad parvam convallem, signa certaminis visibilium apparuerunt: ramus fractus, herbae conculcatae, et terra turbatum. “Hic certe aliquid grave accidit,” inquit Crispus, vultum eius summum tenens in suspicione.
+Frustum purpureum lente in manibus versans, Crispus subrisit. “Vestimentum Romanum,” inquit, “regium purpura, quale Romulus induebat. Sed hic invenitur, tanquam ab indumento violenter ablatum.”
 
-Dum latentes umbrae inter arbusta obvii erant, Crispus coepit interrogare passantes qui ad ludos et festivitates veniebant. Inter eos, iuvenis cui nomen erat Marcus, filius agricolae, ad nos accedens, et dixit, “Audivi quidem de ascensu Romuli, sed hoc inani clamoris et gaudii erat. Ego, cum astare in multitudine, nihil vidi praeter homines clamorantes.”
-
-Crispus, in hoc auditu, oculos suos levavit, et in animo eius celeriter cogitationes revolvuntur. “Dicit iuvenis,” inquit, “quod hoc tantum rumor potuit exclamari, quod nullum testem habuit. Fortasse aliquid in terra hanc fabulam a nobis abducit.” Interrogavit iuvenem de locis vicinis, et ad finem conversationis duxerat ad aquam quae per Campus Martius fluere solebat.
-
-Ibi, in ripa aquae, Crispus coepit diligenter spectare. Vestigia, plura ex herbis et nudarum terrae vestigia, ostendebant aliam rem. “Ibi,” inquit, “potes videre. Non solum vestigia, sed et signa quae terram lacrimam putabant. Fortasse hic aliquid relinqueretur.”
-
-Crispus deinde, per alios aditus, pervenit ad conspectum latum, ubi alii spectatores, qui cenaverant, ad celebrandum conventus aderant. Ibi audiens senem cui nomen erat Lucius, qui totam vitam in Campus Martius transierat, ad eum accedens, Crispus quaesivit, “Quid scis de ascensu Romuli? Visumne hoc aliquando?”
-
-Lucius, vultu tristissimo, respondit, “Ego in parte non eram, sed audio multa. Qui cum senatu pariter sunt, veritatem hanc in tenebris servant.”
-
-Cum Crispus haec audivit, animus eius plenius formabatur. Diligentiam et cogitationem suam collocavit in eius investigatione. Haec omnia indicabant se in obscurum aliquid transire; cum vestigia quaedam adducere vellent, tamen veritas ipsa manebat latens, obscura et inaccessibilis.
-
-Postquam multa indagavit, Crispus sedit sub umbra arboris et, in animo cogitans, consideravit quid iustum esset. “Flavi,” inquit, “non solum incredibilem fabulam hoc adducit; remissio sapienti potius profertur. Veritas hic delitescere videtur, et ego eo spectabo, nequiquam.”
+Ego, his auditis, animo commotus eram. Sermo Crispus omnia dubia augebat; ipse prodigium quod cives iam celebrabant quasi perspicaciter interrogarat.
 
 ## Caput III: Senator Valerius
 
