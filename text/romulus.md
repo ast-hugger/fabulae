@@ -75,7 +75,7 @@ Crispus fragmentum purpurae inter digitos tenebat, attente inspiciens. Vultus ei
 
 “Sed Fabricius in prodigium ipsum, ut multi senatores, credidisse videtur,” respondi. “Cur nos cum eo convenire oportet, nisi de fide eius quaerere velimus?”
 
-Crispus subrisit. “Non sum totus de fide miraculorum certus, Flavi. Potior est mihi non senatoris ipsius quaestio, sed alicui ex eius familiae loqui. Forsitan aliquid sciant de eventibus qui ad Romuli discessum praecesserunt. Ad eius domum eamus; forsitan reliquiae huius vestis illuc quoque deductae fuerint.”
+Crispus subrisit. “Non sum totus de fide miraculorum certus, Flavi. Potior est mihi non senatoris ipsius quaestio, sed alicui ex eius familiae loqui. Forsitan aliquid sciant de eventibus qui ad Romuli discessum praecesserunt.”
 
 Cum advenissemus, Crispus, servum quaerens, quaestionibus perspicacibus eum alloqui coepit, sed indirecte, ne suspiciones excitaret. Interrogavit eum de die tempestatis et de tumultu; deinde etiam altius perscrutatus est, explorans utrum quidpiam secretum intus latere posset.
 

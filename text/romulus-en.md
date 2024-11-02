@@ -74,7 +74,7 @@ Crispus held the torn piece of purple cloth between his fingers, studying it int
 
 “But Fabricius, like many senators, seems to believe in the miracle itself,” I replied. “Why should we meet with him, unless we mean to question his faith in it?”
 
-Crispus smiled. “I’m not entirely convinced about the truth of these miracles, Flavius. Instead of questioning the senator directly, I think it would be wise to speak with someone from his household. They might know something about what happened or perhaps even about the events leading up to Romulus’s disappearance. Let’s go to his house; perhaps the rest of this purple garment ended up there as well.”
+Crispus smiled. “I’m not entirely convinced about the truth of these miracles, Flavius. Instead of questioning the senator directly, I think it would be wise to speak with someone from his household. They might know something about what happened or perhaps even about the events leading up to Romulus’s disappearance.”
 
 Upon our arrival, Crispus sought out a servant and, with careful questioning, began speaking to him—indirectly, so as not to arouse suspicion. He asked him about the day of the storm and the tumult that had occurred, then probed further, attempting to determine if anything hidden might lie within the house.
 
