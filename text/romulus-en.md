@@ -32,65 +32,41 @@ At his words, I was unsettled. Crispus’s observations increased my own doubts;
 
 ## Chapter III: Senator Valerius
 
-After Crispus had reached his investigation in Campus Martius, a plan quickly formed in his mind. “Flavi,” he said, “it seems reasonable to speak with Valerius, the senator. His testimony about Romulus’s ascension could aid us in this inquiry. Some sense must be gleaned from this.”
+Crispus, with firm resolve, set out for the home of Valerius. This senator, being closest to Romulus, could surely know something about the recent events. After they exchanged greetings and sat in the atrium, Crispus began to explain his doubts about the rumors that had spread.
 
-So we set out for Valerius’s house. The place was beautiful, adorned with statues and ornaments that illustrated the glory of the Roman people. When we entered, Valerius, an elderly and serious man, welcomed us with a kindly spirit. “Greetings, friends! What brings you to me?”
+"The speed with which the rumor of Romulus's ascension swept through the city," said Crispus, "seems strange to me. The Senate granted credence to it so quickly, and the people believed it no less easily? Wasn't the matter worth investigating more deeply before being accepted?"
 
-Crispus, with a serene face, replied, “Senator, having heard about Romulus’s ascension, we cannot help but seek the truth. Many rumors circulate about this matter. Will you speak to us about it?”
+Valerius, however, looked at Crispus as if he were speaking of childish things. "Crispus," he said in a weighty tone, "the story you heard is not to be doubted. Our Romulus, the first king, blessed with divine favor, rose to the gods. The Republic was founded on his virtue, and this miracle grants him nothing less than the end he deserves." With this, Valerius seemed to consider the matter settled.
 
-Valerius, with shining golden eyes, smiled and said, “What troubles you, Crispus? All these are mere rumors, but the truth is eternal. Romulus, a god himself, ascended to the stars, so that eternal favor might be granted to the Roman people. You should not dwell in doubts.”
+But Crispus, undeterred, slowly produced the purple cloth he had found in the Campus Martius and held it up. "This," Crispus said, "was found on the very ground where Romulus is said to have been lifted to the heavens. If a miraculous ascension truly occurred, why was this garment, purple and torn, left behind?"
 
-“But senator,” Crispus interjected, gently probing, “can you not say why no one saw him ascend? Such events are often witnessed by many, yet we have no witness, except your word alone.”
+Valerius, however, gave a slight roll of his eyes and replied, "This? Nonsense, Crispus. You’re collecting the dust and scraps of the world. Not everything lying in the Campus Martius pertains to our king. That garment was probably discarded by some passerby.”
 
-Valerius, tilting his face slightly, replied, “Crispus, not every truth must be known. This is a divine mystery. All things are provided for, and our Romulus, now in heaven, watches over us and grants us protection.”
+Crispus and I, Flavius, left Valerius's house. Knowing Valerius to be a respected senator, I considered his words carefully and said, "Crispus, Valerius is a man of gravity. His arguments seem well-grounded, and this miraculous tale lacks nothing."
 
-I, hearing these words, felt my spirit growing in peace and faith in the senator. “Crispus,” I said, “Valerius is great and full of wisdom. His words seem to represent the truth. Why do you have these doubts?”
+But Crispus shook his head and replied, "I agree that Valerius is an upright man, but this purple cloth is no random scrap. I know much about Roman-made fabrics, and I’m certain that this piece comes from royal garments. Valerius's denial only makes it more suspicious."
 
-Crispus, sitting with an attentive face, clearly felt Valerius’s arguments were becoming less sound. “But to me,” he said, “most diligently, what is seen does not yield testimony, even though he has ascended to heaven. Your people ought to question this and not believe in mysteries that lie hidden in darkness.”
-
-Valerius, with a stern look, insisted, “Crispus, you must not linger in ambiguity. The ascension of Romulus is a divine matter, and those who speak against it are enveloped in envy and curses from adversaries.”
-
-After we left Valerius, Crispus raised his face, turned to me, and, softly murmuring, said, “Flavi, something here does not fit. Valerius presents his speech as truth, but his reasons do not withstand investigation.”
-
-“What do you mean, Crispus?” I asked, somewhat confused. “Valerius is a great man, and his words seem to hold the truth.”
-
-“It is not the truth that is presented,” Crispus replied. “All who seek the truth in heaven risk danger, and the eyes of the senate, it seems, do not care; they bring forth no truth at all. Perhaps his words are uncertain, and the matters prepared for us come from the other side. Much lies hidden in darkness.”
-
-“What then is to be done?” I asked, anxious.
-
-“I have decided,” Crispus said, “to seek other witnesses. Perhaps someone else has heard about this and will reveal the truth.”
-
-“And I will follow you,” I said, placing my trust in Crispus.
-
-“Very well,” Crispus replied, “together we will bring the truth into the light.”
+After reflecting for a moment, Crispus added, "Let’s return to the Campus Martius. Perhaps we’ll find a witness who can shed light on the matter."
 
 ## Chapter IV: The Veteran's Testimony
 
-As Crispus left the house of Valerius, he directed his thoughts toward other matters. Walking in the Campus Martius, he scanned the area, hoping to find other witnesses. He noticed an old soldier sitting under the trees where soldiers had once gathered, his hair gray and his body showing the signs of many battles.
+Crispus and Flavius arrived at the Campus Martius, where, while observing the disturbed ground, they happened to encounter an old soldier. Crispus approached him and offered a greeting.
 
-“Greetings, soldier,” Crispus said, approaching him. “I heard about the storm that recently occurred in this place. Will you tell me what you saw?”
+"Greetings, old man," Crispus said. "Rumor has it that you were present on the day when our king Romulus ascended to the heavens. Tell me, if it is so, what you saw."
 
-The soldier, his eyes filled with memory, murmured, “Indeed, young man. This storm was terrible. I did not see everything, but I heard the sounds of battle and cries as dark clouds gathered above us.”
+The old man, his face grave and showing the marks of experience, hesitated briefly before speaking. "Yes, I was there," he replied. "A violent storm suddenly arose. The sky was terrifying with thunder and lightning. The winds howled, but… that was not all."
 
-Crispus, gathering his thoughts, replied, “Did you hear battles? What do you think happened?”
+"Not only winds and thunder?" Crispus asked. "What else did you hear?"
 
-“Surely,” the soldier responded. “From my experience in battles, when the wind stirs violently and the thunder resounds in the garden, fights often break out. I would rather believe that this was the case than a natural event. Something violent occurred here.”
+The veteran fixed his gaze on Crispus with eyes full of experience and continued, "I heard the sound of turmoil, as if of a battle. I have fought in many battles, and my ears do not deceive me. There was a struggle during that storm."
 
-“The storm was indeed terrible,” Crispus said, contemplating. “But did you never see men fighting?”
+Crispus listened closely to the soldier's words. "Are you certain, my friend?" Crispus asked. "Is it possible that what you heard… was only wind and thunder?"
 
-“Not directly,” the soldier replied, “but amidst the turmoil, there were sounds and shouts of battle. I, an old man, do not err; something happened in the darkness.”
+The old man shook his head slightly. "No, young man," he replied. "I know battles well. The shouting, the clash of metal, the fear—they were all there. There was a fight, a true fight."
 
-“Indeed,” I said. “But what can you, Crispus, gather from these things?”
+Crispus thanked the old soldier with respect and, turning to him, said, "I thank you. What you have shared tells us much." Then Crispus turned from the veteran to Flavius. "Flavius," he said, "we have the evidence in our hands. This purple cloth—without a doubt, it will lead us to the truth."
 
-“There are many signs that have not been heard, and the soldier has only revealed this suspicion. The storm is not only natural; something greater is hidden here. We must continue to inquire,” Crispus replied, and soon thought of the purple cloth he had found in the Campus Martius.
-
-“Remember,” he said, “that purple garment we discovered near the site of the ascension. That garment is not simple; perhaps it is a clue to the truth.”
-
-The soldier, leaning in, asked, “What garment? Could it be a sign? It is certain that something lies hidden in the darkness.”
-
-Crispus, resolute, replied, “Yes, if this garment relates to this matter, we must investigate what it might signify. I will not cease until the truth is revealed.”
-
-“Beware, young man,” the soldier warned. “The storm often conceals the truth, and dangers lurk in the shadows. Be cautious.”
+Flavius looked at Crispus with excitement, but the old soldier addressed them again, as if giving a warning: "Beware, young man," he said. "The storm often conceals the truth, and dangers lurk in the shadows."
 
 ## Chapter V: The Purple Cloth
 

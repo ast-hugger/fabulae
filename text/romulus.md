@@ -33,65 +33,41 @@ Ego, his auditis, animo commotus eram. Sermo Crispus omnia dubia augebat; ipse p
 
 ## Caput III: Senator Valerius
 
-Postquam Crispus investigationem suam in Campus Martius pervenerat, consilium in animo eius ortum est. “Flavi,” inquit, “credibile videtur loqui cum Valerio, senatore. Eius testimonium de ascensu Romuli potest adiuvari in hoc quaerendo. Sensus aliquis a nobis intellegitur.”
+Crispus, firmo consilio ductus, ad domum Valerii se contulit. Hic senator, quippe qui Romulo proximus fuisset, sine dubio aliquid scire poterat de rebus quae proxime acciderant. Cum salutem mutuo dedissent et in atrio sederent, Crispus dubitationes suas de rumoribus divulgatis exponere coepit.
 
-Igitur ad domum Valerii profecti sumus. Locus erat pulcher, cum statuis et ornamentis qui gloriam Romani populi illustrabant. Cum intravimus, Valerius, senex et gravis, nos cum animo benevolo suscepit. “Salvete, amici! Quid ad me venistis?”
+“Celeritas, qua rumor de Romuli ascensione per urbem volavit,” inquit Crispus, “miram mihi videtur. Tam cito senatus fidem rumoribus tribuerit, et plebs non minus facile haec crediderit? Nonne res altius investiganda erat, antequam accepta fieret?”
 
-Crispus, vultu sereno, respondit, “Senator, cum audierimus de ascensu Romuli, non possumus non quaerere veritatem. Multa de hoc rumoribus circumferuntur. Visne nobis loqui de hoc?”
+Valerius autem, vultu composito, Crispum aspiciebat quasi puerilia loqueretur. “Crispe,” inquit voce gravitate, “historia haec, quam audivisti, nullo modo dubitanda est. Noster Romulus, primus rex, honore caelesti donatus, ad deos volavit. Res publica ipsius virtute fundata fuit, et hoc miraculum nihil nisi iustum finem ei tribuit.” His dictis, Valerius quasi rem absolutam esse putabat.
 
-Valerius, cum aureis oculis scintillantibus, subridens, inquit, “Quid est quod te sollicitat, Crispus? Quod omnia haec rumores sunt, sed veritas est in aeternum. Romulus, ipse Deus, ad astra ascendit, ut populo Romano favor eternus afferatur. Non debetis in dubiis versari.”
+Sed Crispus, nihilominus, pallium purpureum, quod in Campo Martio reppererat, lente extulit et ostendit. “Hoc,” inquit Crispus, “in ipsa arena inventum est, ubi Romulus ad caelos sublatus fuisse dicitur. Si vere ascensio mirifica facta est, cur hoc vestimentum, purpureum ac laceratum, illic reliquum fuit?”
 
-Crispus, leviter interrogans, inquit, “Sed senator, nonne dicere potes, quam ob rem nemo eum vidit ascendentem? Tales res saepe multi observant, sed nullum testem habemus, nisi solum verbum tuum.”
+Valerius tamen oculos leviter volvendo respondit: “Haec? Nugae, Crispe. Mundi pulverem et frusta undique colligis. Non omnia quae in Campo Martio iacent, ad regem nostrum spectant. Vestimentum istud fortasse ab aliquo viatore neglectum est.”
 
-Valerius, faciem suam inclinans, respondit, “Quod est, Crispus, non omnem veritatem oportet scire. Hoc mysterium divinum est. Omnia omnia providet, et Romulus noster, nunc in caelo, nos observat et protegium nobis praestat.”
+Crispus et ego, Flavius, domo Valerii discessimus. Ego, Valerium probum senatorem esse sciens, verba eius in animo versabam et dixi: “Crispe, Valerius vir gravis est. Argumenta eius recte ordinata videntur, et hoc fabulae miraculo nihil deest.”
 
-Ego, haec verba audientes, sensi in animo meo pacem et fidem in senatore augeri. “Crispe,” inquam, “Valerius magnus est et sapientiae plenus. Eius verba videntur veritatem repraesentare. Quare haec dubitationes habes?”
+Crispus autem caput quassans respondit: “Valerium probum esse concedo, sed purpura haec non frustulum fortuitum est. Multum de telis Romae factis novi, et certissime hoc fragmentum ex veste regia oritur. Si Valerius id negavit, suspicioni locus est.”
 
-Crispus, cum vultu attentissimo, inquit, “Sed mihi, diligentissime, quod visus non adducunt testimonium, quamvis illud in caelum ascenderit. Populus tuus merito interrogare debet et non credere in mysteria quae in tenebris latent.”
-
-Valerius, oculis rigoribus, persuasit, “Crispe, non debes in ambiguo morari. Ascensio Romuli est rem divinam, et qui contra hoc loquuntur, adversariis invidiae, maledictionibus involvuntur.”
-
-Postquam nos ab Valerio discessimus, Crispus vultum suum tollens, ad me se vertit et, cum murmure, dixit, “Flavi, aliquid hic non convenit. Valerius suum sermonem pro veritate praebet, sed rationes eius non sustinent investigationem.”
-
-“Quid vis dicere, Crispus?” inquam, nonnihil confusus. “Valerius vir magnus est, et eius verba videtur veritas.”
-
-“Non est veritas, quae ostentatur,” Crispus respondit. “Omnes qui veritatem quaerunt in caelo, periculum constituunt, et oculi senatus, te non dolent, nihil veritatis illorum efferent. Fortasse eius verba sunt incertae, et res quae nobis praeparantur ex altero sunt. Multa in tenebris latent.”
-
-“Quid igitur agendum est?” inquam, anxius.
-
-“Decido,” inquit Crispus, “ut alios testes quaeram. Fortasse aliquis alius de hoc audivit et veritatem revelabit.”
-
-“Et ego te sequar,” inquam, fidem Crispus habens.
-
-“Optime,” Crispus respondit, “una veritatem in luce ponemus.”
+Cum haec dixisset, Crispus in se paululum meditatus adiecit: “Iterum in Campum Martium pergamus. Testem forte inveniemus, qui nobis lucem praebeat.”
 
 ## Caput IV: Testimonium Veterani
 
-Dum Crispus ex domo Valerii discedit, animum suum ad alia verba coniungit. In Campus Martius ambulans, oculos per loca circumfert, spe ductus ut alios testes inveniret. Ad arborem sub qua milites olim consederant, veterem militem, cuius caput canum erat et corpus vires bellicas ostendebat, animadvertit.
+Crispus et Flavius ad Campum Martium pervenerunt, ubi, perterritis vestigiis observatis, quemdam militem senem forte invenerunt. Crispus ad eum accessit et salutavit.
 
-“Salve, miles,” inquit Crispus, ad eum accedens. “Audivi de tempestate quae nuper in hoc loco evenit. Visne mihi narrare quid vidisti?”
+"Salve, senex," inquit Crispus. "Fama est te interfuisse die illo quo rex noster Romulus ad caelos ascendit. Dic mihi, si ita est, quid videris."
 
-Miles, oculis plenis memoriam, susurravit, “Ita vero, iuvenis. Tempestas haec terribilis fuit. Non vidi omnia, sed sonitus proelii et clamores audivi, dum nubes atræ super nos ingruerent.”
+Senex, vultu gravis et experientiam ostentans, paulum reticuit antequam loqueretur. "Ita vero, adfui," respondit. "Tempestas vehemens subito coorta est. Caelum tonitribus et fulguribus horrendum factum est. Venti fremuerunt, sed… non hoc solum fuit."
 
-Crispus, animum suum colligens, inquit, “Proelia audivisti? Quid putas factum sit?”
+"Non solum venti et tonitrua?" Crispus quaesivit. "Quid aliud audivisti?"
 
-“Certum est,” miles respondit, “ex experientia mea in proeliis, cum ventus sic turbat et caeli tonitrua in horto resonant, saepe pugnæ fiunt. Ego potius credam, quod hoc sit, quam rerum naturalium eventus. Aliquod violentum hic accidit.”
+Veteranus, oculis experientiam plenis in Crispum defixis, addidit: "Audi vi tumultus, clangorem quasi pugnae. Mille proeliis interfui, et auribus non fallor. In illa tempestate certamen certum fuit."
 
-“Tempestas quidem terribilis,” inquit Crispus, contemplans. “Sed numquam visum est homines pugnantes?”
+Crispus ad verba militis intentus spectabat. "Esne certus, mi miles?" quaesivit Crispus. "Possibile est quod ea quae audisti… ventus et tonitrua solummodo fuerint?"
 
-“Non directe,” miles respondit, “sed in tumultu, sonitus et clamor tum fiebant. Ego, vir veteris, non fallor; aliquid in tenebris actum est.”
+Senex caput leniter movit. "Non, adulescens," respondit. "Ego proelia cognosco. Clamor, ferri pulsus, pavor—omnibus in locis audiebantur. Ibi certatio, ibi pugna fuit."
 
-“Verum est,” inquam. “Sed quid potes, Crispus, ex his rebus colligere?”
+Crispus grato animo senem salutavit, et eum alloquens dixit, "Gratias tibi ago. Haec res nobis non parum indicat." Tum Crispus a veterano ad Flavium se convertit. "Flavi," inquit Crispus, "indicia in manu habemus. Hoc purpureum vestimentum—sine dubio nos ad veritatem ducit."
 
-“Multa sunt signa quae non audita, et miles hanc suspicionem solam detulit. Tempestatis non solum natura, sed aliquid maius hic inest. Debemus in quaerendo pergere,” Crispus respondit, et mox cogitavit de purpureo panno, quem in Campus Martius repererat.
-
-“Memento,” inquit, “illud purpureum vestimentum, quod prope locum ascensionis inveneramus. Illud vestimentum non est simplex; fortasse indicium veritatis.”
-
-Miles, aurem advergens, “Quod vestimentum?” inquit. “Potestne esse signum? Certum est quod res in tenebris delitiscit.”
-
-Crispus, cum animo firmo, respondit, “Ita, cum hoc vestimentum huc pertineat, debemus inquirere quid possit significare. Non cessabo, donec veritas appareat.”
-
-“Cave, iuvenis,” miles admonuit. “Tempestas saepe veritatem occultat, et in tenebris pericula latent. Cautus esto.”
+Flavius sensu alacri Crispum respexit, sed veteranus eos iterum, quasi monens, allocutus est: "Cave, iuvenis," ait. "Tempestas saepe veritatem obscurat, et pericula umbris latent."
 
 ## Caput V: Vestis Purpurea
 
