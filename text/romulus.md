@@ -143,26 +143,48 @@ Quies momenti nostram investigationem implebat. Tum Crispus, lente et reverenter
 
 “Hic locus,” dixit, “est testamentum potius quam sepulcrum. Agerent ipsi quidam ut historia quidem mysteriis tecta remaneret. Pro salute populi Romani, veritas hic subiecta manebit.”
 
-## Caput VII: Veritas Ultima
+## Caput VII: In Domo Fabricii
 
-Mane postero, cum primis lucis radiis, ego et Crispus ad domum Fabricii denuo accessimus. Hoc tempore, Crispus firmus ac determinatus videbatur; aliquid in animo suo erat quod explorare non desineret, utpote qui persuasus esset nos veritati iam adpropinquavisse. Fabricium, in atrio sedens, invenimus, vultu sereno sed anxietatem vix dissimulantem.
+Crispus et ego, animi firmi, in domum Fabricii advenimus ut eum cum inventis nostris coram accusaremus. Ingressi atrium magnifica ornatum, Fabricium ipsum invenimus, et mirum in modum, ibi quoque senator Valerius praesens erat, vultu gravitate et fortitudine coniecto.
 
-“Fabrici,” incepit Crispus voce frigida, “veneramus ut veritatem sciremus. Romulus… mortuus est. In crypta infra domum tuam latet. Quid veritatem tam obstinate abscondis?”
+Fabricius advenientes nos vultu frigido intuitus est. “Cur ad meam domum venistis, Crispus?” interrogavit, aliquantum suspicax.
 
-Fabricius, vultu paulum mutato, in Crispum oculos defixit. "Quid tu loqueris, Crispus?" dixit frigidus, sed subito in vultu eius suspicio timoris apparuit. "Quis te ad cryptam duxit? Istud est… impossibile. Nullum crimen est."
+“Non dubium est quin scias, Fabrici,” respondit Crispus cum serenitate sinistra. “Veritatem novimus de eo quod sub cryptis reconditum est.”
 
-Nondum Crispus responderat cum subito sonum levem ex horto audivimus. In umbris illis, figura emersit—erat Valerius, facie pallida sed constanti, qui in horti obscuritate delituerat. Cum ad nos accessisset, Fabricio deprecando annuit. “Veritas, Fabrici, aliquando revelanda est,” dixit voce gravi. “Crispus iam multa novit. Nec credo eum esse talem virum qui veritatem temere prodat.”
+Cum audisset, Fabricius palluit, sed vultum ad duritiem confestim restituit. Valerius autem, huc illuc oculis ardentibus Crispum metiens, simul cum socius respondere conatus est, “Non scimus quid dicas. Nulla—”
 
-Crispus et ego taciti Valerium aspeximus, et post longum silentium, is animum suum nobis aperuit.
+Crispus per verba eorum severus incidit: “Nolite facta denegare. Corpus sub cryptis absconditum novi—et nihil latet.” Vox eius quasi aculeum per aerem perstrinxit. Fabricius et Valerius, quasi vulnerati, in loco haeserunt. Facies eorum timorem vix cohibebant.
 
-“Crispus,” ait Valerius, “Romulus, dum patriam nostram sub specie regis benivolentiae regeret, nimium imperium sibi attribuebat. Leges, consilia, etiam aerarium suum putabat; decreta nostra ignotabantur, et civitas—Roma ipsa—fiebat sub pedibus unius viri. Qui libertatem nostram defenderet, nisi nos?”
+Interea ego Flavius non minus stupefactus eram; tam multa in his diebus acta nobis tandem latentes veritates patefecerant. Fabricius denique coepit, “Id quod sub terra latet… Non necesse est de illo—”
 
-Fabricius oculos demisit et capite parum assentiente, verba Valerii confirmavit. “Romulus non rex erat, sed tyrannus futurus. Si illum non sustulimus, idem in nobis rempublicam Romamque totam corrumperet.”
+Crispus, nescio quo modo arcano frigidus, secutus est: “Et adhuc vobis etiam plus dixero. Nomen viri qui in Campo Martio ‘ad caelos ascendit’ haud Romulus erat. Nonne cognoscitis, senatores?” Fabricius et Valerius ad invicem se prospexerunt, stupefacti, dum ego paene incredulus aerem vix hauriebam.
 
-Crispus paulisper silens stetit, ponderans quae audiverat. Tandem, oculis gravibus ad Valerium conversus, rogavit, “Quid cives? Scisne quantum haec veritas eos perturbaret?”
+“Remus fuit,” inquit Crispus. “Remus, non Romulus, in illo loco ultimum fati diem sibi occurrit.” Fabricius et Valerius, quasi per ictum fulminis percussi, verbis obmutuerunt.
 
-“Necesse est ut quidam sciant, Crispus,” respondit Valerius lente, “sed non populus. Populus fortunam divinam vult credere.”
+## Caput VIII: Veritas Occulta
 
-Crispus deinde mecum se avertit, vultu tranquillo sed intento. Ego eum timide interrogavi, “Ergo, quid agendum est? Utrum hoc indicare an celare?”
+Fabricius et Valerius, animis paulatim revocatis, Crispum observaverunt quasi increduli, sed tandem, cognoscentes nihil latere posse ab ingenio eius acuto, veritatem reticere desierunt.
 
-Tunc Crispus voce sollemni dixit: “Hic locus—haec domus—monumentum sit Romuli, ac eius quod ei occurrit. Veritas huius rei, Flavi, periculum esset omnibus, et non iuvaret nisi inquietudinem propagaret. Propter salutem urbis, illud silentium perpetuum nobis servandum est.”
+“Crispe, verum dicis—nil te fallit,” inquit Fabricius, voce gravitate onusta. “Sed res aliter est quam multi credunt. Non Romulus Remum necavit; potius, exsilium ei imposuit.”
+
+Valerius, vultu conturbato, subiecit: “Fama illa quam ipse Romulus disseminavit, rem ita esse perhibebat ut adversarios suos terrorem inter suos imprimeret. Veritas autem hoc texit: Remus a civitate pulsus abiit, et nonnulli paene obliti erant eum fratrem Romuli fuisse.”
+
+Fabricius, animo intimo in verba intenta, continuavit: “Ante annum unum, tamen, Res mutabatur. Remus, qui per annos in exsilio latuerat, palatium fraternum clam ingressus est nocte incerta. Eo ipso die, fratricidio perpetrato, ipse Remus in locum Romuli successit. Nemo primo mutationem animadvertit, geminis enim essent facies quasi imagines in speculo inversae. Tamen, paulatim, aliquid sinistrum sentiebatur.”
+
+Valerius vultu secreto prospexit, veritatem in lucem tardius detegens. “Crispe, suspiciones apud senatum creverunt, rem incompositam nescientibus imperante. Tandem, compertum est, illum, sub nomine Romuli, consilia Etruscorum ad destruendam urbem nostram occulte perficere. Rex Etruscus, per illum Remum ut instrumentum perfidiae usus, capturam urbis disposuerat.”
+
+Ego Flavius, attonitus, huc illuc aspectans verba senatorum et ingenium Crispum admiratus, vix animum retinere poteram. Fabricius, profunde suspirans, ultima denique patefecit: “Fortuna nobis favit quod satis cito cognovimus, ut antequam planum suum ad summam efficaciam perveniret, ‘Romulum’ in Campo Martio occideremus, vel potius Remum, eum latente sub fraternis vestigiis.”
+
+Valerius, paulisper in silenti expectans, Crispum aspexit oculis intuentibus admirationem. “Tantum die nobis, Crispe—quomodo tu omnia haec novisti?”
+
+## Ultima Explicatio
+
+Crispus leniter arrisit et cepit narrare quid in crypta animadvertisset.
+
+“Dum corpus ‘Romuli’ examinabam,” inquit Crispus, “praesertim manus eius, rem novam vidi. Manus dextra nulla signa vulnerum habebat, nulla cicatrix eam asperabat. At manus sinistra non minus integra videbatur. Omnes enim scimus Romulum, virum bellicosum, vulnera in dextra manu saepe tulisse, cum pugnarent gladiis. Sinistra eius, clipeo protecta, nulla cicatrice usque intacta mansit. Hoc praecipue mihi certissimum fecit: hic non erat Romulus.”
+
+Ego Flavius, attonitus, verba eius mente volutavi, et tandem quaesivi, “Crispe, quid hoc sibi vult? Quae nunc fiunt cum hoc indicio?”
+
+Crispus, vultu serio, sed oculis sapientiam exprimens, paululum reticuit antequam loqueretur: “Non omnem veritatem in lucem proferre oportet, mi Flavi. Quid obstat quin plebs veritatem ignoret et pacem inveniat in fabula mirabilis ascensionis? Quid efficeret eisdem veritatem horribilem ostendere, nisi discordiam et desperationem? Non omnes in hoc rem tenebris absconditam videre possunt. Ne hoc dolori alium dolum adiiciamus; melius hoc silentio servetur.”
+
+Haec dicta, Crispus caput demisit, quasi pondus veritatis ipsum perterreret. Ego autem, qui naturam hominum simplicem et credulam noscerem, sensi se prudenter dixisse. Eramus nos, in hoc arcano conscii pauci, veritatis custodes, qui pacem civium suorum servare maluerant.

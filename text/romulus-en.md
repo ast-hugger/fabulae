@@ -142,26 +142,46 @@ A heavy silence filled our investigation. Then Crispus, slowly and reverently, b
 
 “This place,” he said, “is more of a testament than a grave. Some have acted to ensure that history remains veiled in mystery. For the safety of the Roman people, the truth shall remain here, buried.”
 
-## Chapter VII: The Final Truth
+## Chapter VII:  In the House of Fabricius
 
-Early the next morning, with the first light of dawn, Crispus and I returned to Fabricius’s house. This time, Crispus looked resolute and determined; something in his mind drove him on, as if he was convinced we were already near the truth. We found Fabricius seated in the atrium, his expression calm but betraying a hint of anxiety he could barely hide.
+As we entered the atrium of the house of Fabricius, I observed that both he and Senator Valerius were seated, engaged in a quiet discussion. They looked up in surprise when they saw us enter, but Crispus, with his usual calm, advanced and greeted them with respect, as if he were merely paying a friendly visit.
 
-“Fabricius,” Crispus began in a cool tone, “we have come to learn the truth. Romulus… is dead. He lies hidden in the crypt beneath your house. Why do you insist on concealing the truth?”
+Fabricius’s face was marked with an uneasy expression, while Valerius, though visibly taken aback, attempted to hide his surprise. Crispus, in his usual direct manner, spoke: "We come not to disturb your peace, but to share certain discoveries which we have recently made—discoveries that cannot be ignored."
 
-Fabricius’s face changed slightly, his eyes fixed intently on Crispus. "What are you saying, Crispus?" he replied coldly, but suddenly a flicker of fear crossed his face. "Who led you to the crypt? This is… impossible. There was no crime."
+Fabricius and Valerius exchanged a swift glance. "What discoveries do you mean, Crispus?" asked Valerius, his voice controlled but his brow tense.
 
-Crispus had not yet responded when suddenly we heard a faint sound from the garden. Out of the shadows, a figure emerged—it was Valerius, pale but steadfast, who had been hiding in the darkness of the garden. He stepped toward us and gave Fabricius a nod of appeal. “The truth, Fabricius, must come to light at some point,” he said gravely. “Crispus already knows much. Nor do I believe he is the sort of man who divulges truth rashly.”
+Calmly, Crispus responded, "We know about the crypt beneath the temple, and the one interred there. I believe, gentlemen, you already understand to whom I refer."
 
-Crispus and I watched Valerius in silence, and after a long pause, he revealed his heart to us.
+Both senators were silent, clearly troubled by Crispus's words. After a long pause, Fabricius managed to say, "Crispus, I don’t know what you think you’ve discovered, but perhaps it’s best not to delve into these matters."
 
-“Crispus,” Valerius said, “Romulus, while ruling our nation under the guise of a benevolent king, was amassing too much power for himself. Laws, policies, even the treasury he considered his own; our decrees were ignored, and the state—Rome itself—was coming under the feet of a single man. Who would defend our liberty, if not us?”
+Crispus, unfazed, replied, "There’s no need to deny it. I know even more than that. The name of the man who supposedly 'ascended' in the Campus Martius was not Romulus. Surely you know that, senators." Fabricius and Valerius looked at each other in astonishment, while I, nearly incredulous, could scarcely breathe.
 
-Fabricius lowered his gaze, nodding slightly in affirmation, supporting Valerius’s words. “Romulus was not a king; he was bound to become a tyrant. If we had not removed him, he would have corrupted the republic—and all of Rome—beneath him.”
+“It was Remus,” said Crispus. “Remus, not Romulus, who met his final day in that place.” Fabricius and Valerius, as if struck by a bolt of lightning, fell silent, speechless.
 
-Crispus stood silently for a moment, weighing what he had heard. Finally, turning to Valerius with a grave expression, he asked, “And the people? Do you realize how this truth would disturb them?”
+## Chapter VIII: The Hidden Truth
 
-“Some must know, Crispus,” Valerius replied slowly, “but not the people. They want to believe in a divine fate.”
+As Fabricius and Valerius gradually regained their composure, they observed Crispus with incredulous gazes, but eventually, recognizing that nothing could escape his sharp intellect, they ceased to withhold the truth.
 
-Crispus then turned to me, his face calm but intent. Timidly, I asked him, “So, what are we to do? Reveal it or hide it?”
+“Crispus, you speak the truth—nothing escapes you,” Fabricius said, his voice heavy with gravity. “But the matter is not as many believe. Romulus did not kill Remus; rather, he imposed exile upon him.”
 
-Then Crispus solemnly replied, “This place—this house—shall be Romulus’s monument, as well as to what befell him. The truth of this affair, Flavius, would endanger everyone, serving only to spread unrest. For the city’s safety, we must preserve that silence forever.”
+Valerius, with a troubled expression, added, “That rumor, which Romulus himself spread, reported the situation in such a way as to instill fear among his adversaries. The truth, however, lies hidden: Remus was driven from the city, and some had nearly forgotten that he was Romulus’s brother.”
+
+Fabricius, with deep focus on his words, continued: “Yet a year ago, things changed. Remus, who had been lurking in exile for years, secretly entered his brother's palace on an uncertain night. That very day, having committed fratricide, Remus took the place of Romulus. At first, no one noticed the change, for their faces were like reflections in an inverted mirror. However, gradually, something sinister was sensed.”
+
+Valerius looked on with a secretive gaze, slowly revealing the truth. “Crispus, suspicions grew within the Senate, while the matter remained disordered and unbeknownst to those in power. Eventually, it was discovered that he, under the name of Romulus, was secretly carrying out Etruscan plans to destroy our city. The Etruscan king, using Remus as an instrument of treachery, had plotted the city’s capture.”
+
+I, Flavius, astonished, looked around, admiring the words of the senators and Crispus’s intelligence, barely able to contain myself. Fabricius, taking a deep breath, finally revealed: “Fortune favored us because we learned this in time, so that before his scheme reached full effectiveness, we could kill ‘Romulus’ in Campus Martius, or rather Remus, hidden beneath his brother’s guise.”
+
+Valerius, pausing briefly in silence, looked at Crispus with eyes filled with admiration. “Such a day for us, Crispus—how did you know all of this?”
+
+## Chapter IX: The Final Explanation
+
+Crispus smiled slightly and began to explain what he had observed in the crypt.
+
+“While examining the body of ‘Romulus,’” Crispus said, “especially his hands, I noticed something unusual. His right hand bore no signs of wounds, no scar marked it. And the left hand appeared just as untouched. We all know that Romulus, a man of war, had often borne wounds on his right hand from wielding a sword in battle. His left hand, protected by a shield, had remained without a single scar. This was what assured me beyond doubt: this was not Romulus.”
+
+Stunned, I turned over his words in my mind and finally asked, “Crispus, what does this mean? What do we do now with this knowledge?”
+
+Crispus, with a serious expression and a look of wisdom in his eyes, paused briefly before speaking: “Not every truth should be brought to light, my dear Flavius. What harm is there if the common people remain unaware of the truth and find peace in the wondrous tale of ascension? What would it accomplish to reveal this terrible truth to them, other than discord and despair? Not everyone is able to see what is hidden in this darkness. Let us not add another burden to their sorrow; it is better that this be kept in silence.”
+
+Having said this, Crispus bowed his head, as though the weight of the truth itself caused him fear. I, knowing the simple and trusting nature of the people, felt that he had spoken wisely. We were now, among the few privy to this secret, the guardians of the truth, who had chosen to preserve the peace of our fellow citizens.
