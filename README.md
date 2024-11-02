@@ -1,14 +1,13 @@
-# Foreword
-
-Modern popular literary genres were not invented in the golden age of classical
-literature, and there were never a Roman Arthur Conan Doyle or Stephen King.
+During the golden age of classical literature, modern popular literary genres did not exist.
+There were never a Roman Arthur Conan Doyle or Stephen King.
 A student of Latin seeking extensive reading material is stuck with Gallic wars
 and lives of saints. But what if classical or mediaeval writers were more inventive?
 
 _Stories Never Written_ is an attempt to use AI to produce Latin reading material
-that would resonate better with the modern reader. Reading material is the word.
-This is not great literature, and not even great Latin. The text is left
-unaltered, minor grammatical mistakes and AI hallucinations intact.
+that could exist if thrillers and murder mystery were invented two thousand years ago.
+Reading material is the word. This is not great literature, and not even great Latin. 
+The text is left unaltered, minor grammatical mistakes, anachronisms, and AI hallucinations
+intact. ChatGPT can write, but it can't think.
 
 # Stories
 
