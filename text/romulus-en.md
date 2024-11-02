@@ -1,6 +1,6 @@
 # The Final Mystery of Romulus
 
-## Chapter I: The Departure of Romulus
+## Chapter I: Rumor and Doubt
 
 In the thirty-seventh year after the founding of the city, a wondrous rumor spread through all of Rome like wildfire: Romulus, founder and king of the city, had been taken by the god Mars, ascending into the heavens! The people, from the commoners to the senators, received this news in the streets and forums, some cheering in exultation, others shedding tears in reverence. The Senate itself confirmed this story with official declarations, asserting that Romulus had now become a god and would forever watch over his city.
 

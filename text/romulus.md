@@ -1,7 +1,7 @@
 
 # ROMVLI MYSTERIVM VLTIMVM
 
-## Caput I: Discessus Romuli
+## Caput I: Rumor et Dubium
 
 Anno trigesimo septimo ab urbe condita, nova fama per totam Romam quasi ignis flamma diffundebatur: Romulus, urbis conditor et rex, numine Martis raptus, in caelum ascenderat! Plebs, patresque conscripti, per vias et fora nuntium hunc excepere, alii exsultantes, alii lacrimis reverentiam suam ostendentes. Senatus ipse hanc fabulam confirmaverat, edicto et auctoritate, affirmans ipsum Romulum nunc deum factum esse, urbem suam aeternum tutaturum.
 
