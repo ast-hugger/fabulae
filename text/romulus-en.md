@@ -144,19 +144,21 @@ A heavy silence filled our investigation. Then Crispus, slowly and reverently, b
 
 ## Chapter VII:  In the House of Fabricius
 
-As we entered the atrium of the house of Fabricius, I observed that both he and Senator Valerius were seated, engaged in a quiet discussion. They looked up in surprise when they saw us enter, but Crispus, with his usual calm, advanced and greeted them with respect, as if he were merely paying a friendly visit.
+Crispus and I, our spirits firm, arrived at Fabricius’s house to confront him with our findings. Upon entering the magnificently adorned atrium, we found Fabricius himself, and strangely, Senator Valerius was also present, his expression serious and fortitude apparent.
 
-Fabricius’s face was marked with an uneasy expression, while Valerius, though visibly taken aback, attempted to hide his surprise. Crispus, in his usual direct manner, spoke: "We come not to disturb your peace, but to share certain discoveries which we have recently made—discoveries that cannot be ignored."
+Fabricius regarded us with a cold look as we approached. “Why have you come to my house, Crispus?” he asked, somewhat suspiciously.
 
-Fabricius and Valerius exchanged a swift glance. "What discoveries do you mean, Crispus?" asked Valerius, his voice controlled but his brow tense.
+“There is no doubt you know, Fabricius,” Crispus replied with a sinister calm. “We know the truth about what is concealed beneath the crypts.”
 
-Calmly, Crispus responded, "We know about the crypt beneath the temple, and the one interred there. I believe, gentlemen, you already understand to whom I refer."
+Upon hearing this, Fabricius turned pale but quickly restored his countenance to one of hardness. Valerius, however, with burning eyes darting to Crispus, attempted to respond along with his associate, “We do not know what you are talking about. There is no—”
 
-Both senators were silent, clearly troubled by Crispus's words. After a long pause, Fabricius managed to say, "Crispus, I don’t know what you think you’ve discovered, but perhaps it’s best not to delve into these matters."
+Crispus cut sharply through their words: “Do not deny the facts. I know of the body concealed beneath the crypts—and nothing escapes your attention.” His voice struck the air like a thorn. Fabricius and Valerius, as if wounded, froze in place. Their faces barely concealed their fear.
 
-Crispus, unfazed, replied, "There’s no need to deny it. I know even more than that. The name of the man who supposedly 'ascended' in the Campus Martius was not Romulus. Surely you know that, senators." Fabricius and Valerius looked at each other in astonishment, while I, nearly incredulous, could scarcely breathe.
+Meanwhile, I, Flavius, was no less astonished; so much had transpired in these days that hidden truths had finally been revealed to us. Finally, Fabricius began, “That which lies beneath the earth… There is no need to speak of it—”
 
-“It was Remus,” said Crispus. “Remus, not Romulus, who met his final day in that place.” Fabricius and Valerius, as if struck by a bolt of lightning, fell silent, speechless.
+Crispus, chillingly calm in a mysterious way, followed up: “And I will tell you even more. The name of the man who ‘ascended to the heavens’ from Campus Martius was not Romulus. Do you not know, senators?” Fabricius and Valerius looked at each other, astonished, while I could barely draw in the air in disbelief.
+
+“It was Remus,” Crispus said. “Remus, not Romulus, met his final fate in that place.” Fabricius and Valerius fell silent as if struck by a bolt of lightning.
 
 ## Chapter VIII: The Hidden Truth
 
