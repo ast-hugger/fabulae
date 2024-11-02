@@ -80,8 +80,6 @@ Crispus, gathering his thoughts, replied, “Did you hear battles? What do you t
 
 “Not directly,” the soldier replied, “but amidst the turmoil, there were sounds and shouts of battle. I, an old man, do not err; something happened in the darkness.”
 
-Crispus, reflecting on his words, turned to me. “Flavius, what the soldier says is not without truth. The storm seems more about battle and conflict than about nature itself.”
-
 “Indeed,” I said. “But what can you, Crispus, gather from these things?”
 
 “There are many signs that have not been heard, and the soldier has only revealed this suspicion. The storm is not only natural; something greater is hidden here. We must continue to inquire,” Crispus replied, and soon thought of the purple cloth he had found in the Campus Martius.
@@ -102,9 +100,7 @@ Crispus, gazing intently at the fragment of purple cloth, slowly furrowed his br
 
 “But Fabricius, like many senators, seems to believe in the miracle itself,” I replied. “Why should we meet with him, unless we mean to question his faith in it?”
 
-Crispus smiled. “I’m not entirely convinced about the truth of these miracles, Flavius. Fabricius, either by scrutinizing rumors or other evidence, may know something about what happened from other citizens. Let’s go to his house; perhaps this piece of purple cloth ended up there as well.”
-
-Fabricius was a keen and serious man who had long held important senatorial offices. He was rumored to have often shared secret plans with Romulus, and some suspected he had an influential, hidden hand in political affairs. So, we made our way to Fabricius’s house.
+Crispus smiled. “I’m not entirely convinced about the truth of these miracles, Flavius. Instead of questioning the senator directly, I think it would be wise to speak with someone from his household. They might know something about what happened or perhaps even about the events leading up to Romulus’s disappearance. Let’s go to his house; perhaps this piece of purple cloth ended up there as well.”
 
 Upon our arrival, Crispus sought out a servant and, with careful questioning, began speaking to him—indirectly, so as not to arouse suspicion. He asked him about the day of the storm and the tumult that had occurred, then probed further, attempting to determine if anything hidden might lie within the house.
 

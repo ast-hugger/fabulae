@@ -81,8 +81,6 @@ Crispus, animum suum colligens, inquit, “Proelia audivisti? Quid putas factum 
 
 “Non directe,” miles respondit, “sed in tumultu, sonitus et clamor tum fiebant. Ego, vir veteris, non fallor; aliquid in tenebris actum est.”
 
-Crispus, verba eius meditans, se vertit ad me. “Flavi, quod dicit miles non est sine veritate. Tempestas magis de proelio et contentione videtur quam de natura ipsa.”
-
 “Verum est,” inquam. “Sed quid potes, Crispus, ex his rebus colligere?”
 
 “Multa sunt signa quae non audita, et miles hanc suspicionem solam detulit. Tempestatis non solum natura, sed aliquid maius hic inest. Debemus in quaerendo pergere,” Crispus respondit, et mox cogitavit de purpureo panno, quem in Campus Martius repererat.
@@ -103,9 +101,7 @@ Crispus, frustulum purpureum diu spectans, sensim supercilia contraxit. “Hoc c
 
 “Sed Fabricius in prodigium ipsum, ut multi senatores, credidisse videtur,” respondi. “Cur nos cum eo convenire oportet, nisi de fide eius quaerere velimus?”
 
-Crispus subrisit. “Non sum totus de fide miraculorum certus, Flavi. Fabricius forsan, sive rumores sive alia indicia perscrutans, aliquid de eo quod accidit ex cognitis aliis civibus possit indicare. Ad eius domum eamus; forsitan illuc quoque haec purpura deducta fuerit.”
-
-Fabricius erat vir acer ac gravis, qui magni momenti munera senatoria iam diu obtinuerat. Fama erat eum cum Romulo consilia arcana saepe communicare, et nonnulli suspicabantur eum partem occultam in rebus publicis habere. Ad domum Fabricii igitur iter fecimus.
+Crispus subrisit. “Non sum totus de fide miraculorum certus, Flavi. Potior est mihi non senatoris ipsius quaestio, sed alicui ex eius familiae loqui. Forsitan aliquid sciant de eventibus qui ad Romuli discessum praecesserunt. Ad eius domum eamus; forsitan haec purpura illuc quoque deducta fuerit.”
 
 Cum advenissemus, Crispus, servum quaerens, quaestionibus perspicacibus eum alloqui coepit, sed indirecte, ne suspiciones excitaret. Interrogavit eum de die tempestatis et de tumultu; deinde etiam altius perscrutatus est, explorans utrum quidpiam secretum intus latere posset.
 
