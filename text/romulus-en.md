@@ -76,10 +76,6 @@ Crispus, gathering his thoughts, replied, “Did you hear battles? What do you t
 
 “Surely,” the soldier responded. “From my experience in battles, when the wind stirs violently and the thunder resounds in the garden, fights often break out. I would rather believe that this was the case than a natural event. Something violent occurred here.”
 
-“But what did you see?” Crispus interjected, trying to learn more.
-
-“Not much,” the soldier admitted. “But I saw flashes of lightning, and everything was greatly disturbed. The people were fleeing in chaos, and I lay alone, seeking refuge. I could see the lightning, and when one struck, I heard a horrible noise. Whatever happened could not be without conflict.”
-
 “The storm was indeed terrible,” Crispus said, contemplating. “But did you never see men fighting?”
 
 “Not directly,” the soldier replied, “but amidst the turmoil, there were sounds and shouts of battle. I, an old man, do not err; something happened in the darkness.”
@@ -102,11 +98,11 @@ Crispus, connecting his thoughts to the garment, responded, “Let us proceed to
 
 ## Chapter V: The Purple Cloth
 
-Crispus, holding the purple cloth in his hand and gazing intently at it, murmured, “I believe this cloth is a clue. It didn’t simply fall here in the Campus Martius by accident; it’s a garment of dignity, one that could only be found in a senator’s household.”
+Crispus, gazing intently at the fragment of purple cloth, slowly furrowed his brow. “This was certainly part of Romulus’s garment,” he said gravely, “but the question now is: how did it end up in this place?” Looking around as if piecing something together, he added, “Fabricius, a wise and distinguished senator, is often skilled at unraveling delicate political matters. It wouldn’t be surprising if he had learned something about these events, even about this so-called miracle. Shouldn’t we question him?”
 
-“What are you thinking, then?” I asked, a bit unsettled.
+“But Fabricius, like many senators, seems to believe in the miracle itself,” I replied. “Why should we meet with him, unless we mean to question his faith in it?”
 
-“Something significant. Perhaps this cloth was torn from the robe of some senator. Fabricius, a shrewd senator and confidant of Romulus, might provide us with valuable information. Let’s go.”
+Crispus smiled. “I’m not entirely convinced about the truth of these miracles, Flavius. Fabricius, either by scrutinizing rumors or other evidence, may know something about what happened from other citizens. Let’s go to his house; perhaps this piece of purple cloth ended up there as well.”
 
 Fabricius was a keen and serious man who had long held important senatorial offices. He was rumored to have often shared secret plans with Romulus, and some suspected he had an influential, hidden hand in political affairs. So, we made our way to Fabricius’s house.
 

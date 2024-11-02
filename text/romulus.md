@@ -77,10 +77,6 @@ Crispus, animum suum colligens, inquit, “Proelia audivisti? Quid putas factum 
 
 “Certum est,” miles respondit, “ex experientia mea in proeliis, cum ventus sic turbat et caeli tonitrua in horto resonant, saepe pugnæ fiunt. Ego potius credam, quod hoc sit, quam rerum naturalium eventus. Aliquod violentum hic accidit.”
 
-“Sed quid vidisti?” Crispus interpellavit, conans magis cognoscere.
-
-“Non multa,” miles confitens inquit. “Sed lucem fulgurantium tunc vidi, et admodum commota omnia erant. Populus in tumultu fugiebat, et ego solo iacebam, quaerens refugium. Fulgura videre potui, et cum unum concussum pervenit, sonitus horribilis audivi. Quidquid accidit, non potuit esse sine contentione.”
-
 “Tempestas quidem terribilis,” inquit Crispus, contemplans. “Sed numquam visum est homines pugnantes?”
 
 “Non directe,” miles respondit, “sed in tumultu, sonitus et clamor tum fiebant. Ego, vir veteris, non fallor; aliquid in tenebris actum est.”
@@ -103,11 +99,11 @@ Crispus, mentes suas in vestimentum coniungens, “Ad purpureum panno pergamus, 
 
 ## Caput V: Vestis Purpurea
 
-Crispus, purpureum pannum in manu tenens et oculos in eum defixus, submurmuravit, “Hoc pannum indicium esse reor. Non simpliciter hic in Campus Martius delapsus est; est vestimentum dignitatis, quod solum in domibus senatorum inveniri solet.”
+Crispus, frustulum purpureum diu spectans, sensim supercilia contraxit. “Hoc certe Romuli vestimenti pars fuit,” inquit graviter, “sed quaestio nunc est: quomodo in hunc locum pervenerit.” Circumspiciens quasi aliquid penitus conligeret, adiecit: “Fabricius, senator prudens et clarus, saepe ad res civiles subtiliter dirimendas aptus est. Non tam mirum esset, si quid de his eventibus, etiam de prodigiis istis, comperisset. Nonne oportet eum interrogarimus?”
 
-“Quid ergo censes?” quaesivi, paulum perturbatus.
+“Sed Fabricius in prodigium ipsum, ut multi senatores, credidisse videtur,” respondi. “Cur nos cum eo convenire oportet, nisi de fide eius quaerere velimus?”
 
-“Aliquid magnum. Fortasse hunc pannum quis e vestitu alicuius senatoris abripuit. Fabricius senator, homo callidus et familiaris Romuli, nobis investigationem perutilem praebere poterit. Eamus.”
+Crispus subrisit. “Non sum totus de fide miraculorum certus, Flavi. Fabricius forsan, sive rumores sive alia indicia perscrutans, aliquid de eo quod accidit ex cognitis aliis civibus possit indicare. Ad eius domum eamus; forsitan illuc quoque haec purpura deducta fuerit.”
 
 Fabricius erat vir acer ac gravis, qui magni momenti munera senatoria iam diu obtinuerat. Fama erat eum cum Romulo consilia arcana saepe communicare, et nonnulli suspicabantur eum partem occultam in rebus publicis habere. Ad domum Fabricii igitur iter fecimus.
 
