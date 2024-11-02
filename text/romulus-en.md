@@ -164,7 +164,7 @@ Crispus, chillingly calm in a mysterious way, followed up: “And I will tell yo
 
 As Fabricius and Valerius gradually regained their composure, they observed Crispus with incredulous gazes, but eventually, recognizing that nothing could escape his sharp intellect, they ceased to withhold the truth.
 
-“Crispus, you speak the truth—nothing escapes you,” Fabricius said, his voice heavy with gravity. “But the matter is not as many believe. Romulus did not kill Remus; rather, he imposed exile upon him.”
+“Crispus, you speak the truth—nothing escapes you,” Fabricius said, his voice heavy with gravity. “History is not as many believe. Romulus did not kill Remus; rather, he imposed exile upon him.”
 
 Valerius, with a troubled expression, added, “That rumor, which Romulus himself spread, reported the situation in such a way as to instill fear among his adversaries. The truth, however, lies hidden: Remus was driven from the city, and some had nearly forgotten that he was Romulus’s brother.”
 

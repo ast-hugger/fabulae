@@ -165,7 +165,7 @@ Crispus, nescio quo modo arcano frigidus, secutus est: “Et adhuc vobis etiam p
 
 Fabricius et Valerius, animis paulatim revocatis, Crispum observaverunt quasi increduli, sed tandem, cognoscentes nihil latere posse ab ingenio eius acuto, veritatem reticere desierunt.
 
-“Crispe, verum dicis—nil te fallit,” inquit Fabricius, voce gravitate onusta. “Sed res aliter est quam multi credunt. Non Romulus Remum necavit; potius, exsilium ei imposuit.”
+“Crispe, verum dicis—nil te fallit,” inquit Fabricius, voce gravitate onusta. “Res aliter est quam multi credunt. Non Romulus Remum necavit; potius, exsilium ei imposuit.”
 
 Valerius, vultu conturbato, subiecit: “Fama illa quam ipse Romulus disseminavit, rem ita esse perhibebat ut adversarios suos terrorem inter suos imprimeret. Veritas autem hoc texit: Remus a civitate pulsus abiit, et nonnulli paene obliti erant eum fratrem Romuli fuisse.”
 
