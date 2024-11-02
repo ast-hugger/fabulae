@@ -92,8 +92,6 @@ Crispus, resolute, replied, “Yes, if this garment relates to this matter, we m
 
 “Beware, young man,” the soldier warned. “The storm often conceals the truth, and dangers lurk in the shadows. Be cautious.”
 
-Crispus, connecting his thoughts to the garment, responded, “Let us proceed to the purple cloth, and perhaps the truth will reveal itself.”
-
 ## Chapter V: The Purple Cloth
 
 Crispus, gazing intently at the fragment of purple cloth, slowly furrowed his brow. “This was certainly part of Romulus’s garment,” he said gravely, “but the question now is: how did it end up in this place?” Looking around as if piecing something together, he added, “Fabricius, a wise and distinguished senator, is often skilled at unraveling delicate political matters. It wouldn’t be surprising if he had learned something about these events, even about this so-called miracle. Shouldn’t we question him?”
@@ -152,7 +150,7 @@ Early the next morning, with the first light of dawn, Crispus and I returned to 
 
 Fabricius’s face changed slightly, his eyes fixed intently on Crispus. "What are you saying, Crispus?" he replied coldly, but suddenly a flicker of fear crossed his face. "Who led you to the crypt? This is… impossible. There was no crime."
 
-Crispus had not yet responded when suddenly we heard a faint sound from the garden. Out of the shadows, a figure emerged—it was Valerius, pale but steadfast, who had been hiding in the darkness of the garden. He stepped toward us and gave Fabricius a nod of appeal. “The truth, Fabricius, must come to light at some point,” he said gravely. “Crispus already knows much. Nor do I believe he is the sort of man to deceive his fellow citizens.”
+Crispus had not yet responded when suddenly we heard a faint sound from the garden. Out of the shadows, a figure emerged—it was Valerius, pale but steadfast, who had been hiding in the darkness of the garden. He stepped toward us and gave Fabricius a nod of appeal. “The truth, Fabricius, must come to light at some point,” he said gravely. “Crispus already knows much. Nor do I believe he is the sort of man who divulges truth rashly.”
 
 Crispus and I watched Valerius in silence, and after a long pause, he revealed his heart to us.
 

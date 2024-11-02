@@ -93,8 +93,6 @@ Crispus, cum animo firmo, respondit, “Ita, cum hoc vestimentum huc pertineat, 
 
 “Cave, iuvenis,” miles admonuit. “Tempestas saepe veritatem occultat, et in tenebris pericula latent. Cautus esto.”
 
-Crispus, mentes suas in vestimentum coniungens, “Ad purpureum panno pergamus, et fortasse veritas se revelabit,” respondit.
-
 ## Caput V: Vestis Purpurea
 
 Crispus, frustulum purpureum diu spectans, sensim supercilia contraxit. “Hoc certe Romuli vestimenti pars fuit,” inquit graviter, “sed quaestio nunc est: quomodo in hunc locum pervenerit.” Circumspiciens quasi aliquid penitus conligeret, adiecit: “Fabricius, senator prudens et clarus, saepe ad res civiles subtiliter dirimendas aptus est. Non tam mirum esset, si quid de his eventibus, etiam de prodigiis istis, comperisset. Nonne oportet eum interrogarimus?”
@@ -153,7 +151,7 @@ Mane postero, cum primis lucis radiis, ego et Crispus ad domum Fabricii denuo ac
 
 Fabricius, vultu paulum mutato, in Crispum oculos defixit. "Quid tu loqueris, Crispus?" dixit frigidus, sed subito in vultu eius suspicio timoris apparuit. "Quis te ad cryptam duxit? Istud est… impossibile. Nullum crimen est."
 
-Nondum Crispus responderat cum subito sonum levem ex horto audivimus. In umbris illis, figura emersit—erat Valerius, facie pallida sed constanti, qui in horti obscuritate delituerat. Cum ad nos accessisset, Fabricio deprecando annuit. “Veritas, Fabrici, aliquando revelanda est,” dixit voce gravi. “Crispus iam multa novit. Nec ego crediderim eum hominem temerarium esse qui cives suos fallat.”
+Nondum Crispus responderat cum subito sonum levem ex horto audivimus. In umbris illis, figura emersit—erat Valerius, facie pallida sed constanti, qui in horti obscuritate delituerat. Cum ad nos accessisset, Fabricio deprecando annuit. “Veritas, Fabrici, aliquando revelanda est,” dixit voce gravi. “Crispus iam multa novit. Nec credo eum esse talem virum qui veritatem temere prodat.”
 
 Crispus et ego taciti Valerium aspeximus, et post longum silentium, is animum suum nobis aperuit.
 
