@@ -1,6 +1,6 @@
 # The Final Mystery of Romulus
 
-## Chapter I: Rumor and Doubt
+## Chapter I: The Departure of Romulus
 
 In the thirty-seventh year after the founding of the city, a wondrous rumor spread through all of Rome like wildfire: Romulus, founder and king of the city, had been taken by the god Mars, ascending into the heavens! The people, from the commoners to the senators, received this news in the streets and forums, some cheering in exultation, others shedding tears in reverence. The Senate itself confirmed this story with official declarations, asserting that Romulus had now become a god and would forever watch over his city.
 
@@ -16,7 +16,7 @@ Crispus’s words made me uneasy; it was true, now that I considered it, that th
 
 After a brief silence, Crispus added, in a slightly more serious tone, “This, Flavius, which has been impressed so firmly upon the people, sounds to me less like the intervention of Mars and more like the craft of the Senate. If we seek not what is spoken but what is concealed, we may be led to the hidden truth.”
 
-## Chapter II: The Beginning of the Investigation
+## Chapter II: Traces in the Campus Martius
 
 Afterward, as dawn broke with the arrival of a new day, Crispus and I, now filled with suspicion and concern, set out to Campus Martius. This place, vast and beautiful, was full of history and glorious deeds. Here, once, the Roman army would gather for games and celebrations, and in its midst, the temples of the gods would rise prominently. The shade of the trees and the sweet fragrance of the air now stirred doubt and anxiety in our hearts.
 
@@ -42,7 +42,7 @@ When Crispus heard this, his spirit became more resolute. He placed diligence an
 
 After much inquiry, Crispus sat beneath the shade of a tree and, contemplating in his mind, considered what was just. “Flavi,” he said, “this brings not only an incredible tale; rather, wisdom yields a better release. The truth seems to hide here, and I shall watch over it, perhaps in vain.”
 
-## Chapter III: Valerius and the Truth
+## Chapter III: Senator Valerius
 
 After Crispus had reached his investigation in Campus Martius, a plan quickly formed in his mind. “Flavi,” he said, “it seems reasonable to speak with Valerius, the senator. His testimony about Romulus’s ascension could aid us in this inquiry. Some sense must be gleaned from this.”
 
@@ -76,7 +76,7 @@ After we left Valerius, Crispus raised his face, turned to me, and, softly murmu
 
 “Very well,” Crispus replied, “together we will bring the truth into the light.”
 
-## Chapter IV: The Old Soldier and the Storm
+## Chapter IV: The Veteran's Testimony
 
 As Crispus left the house of Valerius, he directed his thoughts toward other matters. Walking in the Campus Martius, he scanned the area, hoping to find other witnesses. He noticed an old soldier sitting under the trees where soldiers had once gathered, his hair gray and his body showing the signs of many battles.
 
@@ -112,7 +112,7 @@ Crispus, resolute, replied, “Yes, if this garment relates to this matter, we m
 
 Crispus, connecting his thoughts to the garment, responded, “Let us proceed to the purple cloth, and perhaps the truth will reveal itself.”
 
-## Chapter V: Hidden Traces
+## Chapter V: The Purple Cloth
 
 Crispus, holding the purple cloth in his hand and gazing intently at it, murmured, “I believe this cloth is a clue. It didn’t simply fall here in the Campus Martius by accident; it’s a garment of dignity, one that could only be found in a senator’s household.”
 
@@ -164,3 +164,26 @@ A heavy silence filled our investigation. Then Crispus, slowly and reverently, b
 
 “This place,” he said, “is more of a testament than a grave. Some have acted to ensure that history remains veiled in mystery. For the safety of the Roman people, the truth shall remain here, buried.”
 
+## Chapter VII: The Final Truth
+
+Early the next morning, with the first light of dawn, Crispus and I returned to Fabricius’s house. This time, Crispus looked resolute and determined; something in his mind drove him on, as if he was convinced we were already near the truth. We found Fabricius seated in the atrium, his expression calm but betraying a hint of anxiety he could barely hide.
+
+“Fabricius,” Crispus began in a cool tone, “we have come to learn the truth. Romulus… is dead. He lies hidden in the crypt beneath your house. Why do you insist on concealing the truth?”
+
+Fabricius’s face changed slightly, his eyes fixed intently on Crispus. "What are you saying, Crispus?" he replied coldly, but suddenly a flicker of fear crossed his face. "Who led you to the crypt? This is… impossible. There was no crime."
+
+Crispus had not yet responded when suddenly we heard a faint sound from the garden. Out of the shadows, a figure emerged—it was Valerius, pale but steadfast, who had been hiding in the darkness of the garden. He stepped toward us and gave Fabricius a nod of appeal. “The truth, Fabricius, must come to light at some point,” he said gravely. “Crispus already knows much. Nor do I believe he is the sort of man to deceive his fellow citizens.”
+
+Crispus and I watched Valerius in silence, and after a long pause, he revealed his heart to us.
+
+“Crispus,” Valerius said, “Romulus, while ruling our nation under the guise of a benevolent king, was amassing too much power for himself. Laws, policies, even the treasury he considered his own; our decrees were ignored, and the state—Rome itself—was coming under the feet of a single man. Who would defend our liberty, if not us?”
+
+Fabricius lowered his gaze, nodding slightly in affirmation, supporting Valerius’s words. “Romulus was not a king; he was bound to become a tyrant. If we had not removed him, he would have corrupted the republic—and all of Rome—beneath him.”
+
+Crispus stood silently for a moment, weighing what he had heard. Finally, turning to Valerius with a grave expression, he asked, “And the people? Do you realize how this truth would disturb them?”
+
+“Some must know, Crispus,” Valerius replied slowly, “but not the people. They want to believe in a divine fate.”
+
+Crispus then turned to me, his face calm but intent. Timidly, I asked him, “So, what are we to do? Reveal it or hide it?”
+
+Then Crispus solemnly replied, “This place—this house—shall be Romulus’s monument, as well as to what befell him. The truth of this affair, Flavius, would endanger everyone, serving only to spread unrest. For the city’s safety, we must preserve that silence forever.”

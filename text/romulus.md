@@ -1,7 +1,7 @@
 
 # ROMVLI MYSTERIVM VLTIMVM
 
-## Caput I: Rumor et Dubium
+## Caput I: Discessus Romuli
 
 Anno trigesimo septimo ab urbe condita, nova fama per totam Romam quasi ignis flamma diffundebatur: Romulus, urbis conditor et rex, numine Martis raptus, in caelum ascenderat! Plebs, patresque conscripti, per vias et fora nuntium hunc excepere, alii exsultantes, alii lacrimis reverentiam suam ostendentes. Senatus ipse hanc fabulam confirmaverat, edicto et auctoritate, affirmans ipsum Romulum nunc deum factum esse, urbem suam aeternum tutaturum.
 
@@ -17,7 +17,7 @@ His verbis Crispus me anxium reddidit; quod senatus ipse tam stabiliter, tam uno
 
 Cum paulisper siluissem, Crispus addidit, voce paulum graviore: “Hoc, Flavi, quod tam firmiter in populo persuasum est, mihi quidem magis quam Maris visum astutiam senatoriam sonat. Si res quae dicuntur potius latentem rationem sequitur, forte nos ipsi in arcana veritatis deducemur.”
 
-## Caput II: Investigationis Initium
+## Caput II: Vestigia in Campo Martio
 
 Postea, cum aurora novum diem exoriente, Crispus et ego, nunc repletis suspicione et curis, ad Campus Martius profecti sumus. Hic locus, spatii latissimi et pulcherrimi, erat plenus historia et gloriosis factis. Hic, olim, exercitus Romanus se congregabat ad ludos et celebrationes, et in medio eius templa deorum conspicuae se extollent. Arborum umbrae et aëris dulcis fragrantia, tamen nunc in corde nostro dubium et anxietatem creabant.
 
@@ -43,7 +43,7 @@ Cum Crispus haec audivit, animus eius plenius formabatur. Diligentiam et cogitat
 
 Postquam multa indagavit, Crispus sedit sub umbra arboris et, in animo cogitans, consideravit quid iustum esset. “Flavi,” inquit, “non solum incredibilem fabulam hoc adducit; remissio sapienti potius profertur. Veritas hic delitescere videtur, et ego eo spectabo, nequiquam.”
 
-## Caput III: Valerius et Veritas
+## Caput III: Senator Valerius
 
 Postquam Crispus investigationem suam in Campus Martius pervenerat, consilium in animo eius ortum est. “Flavi,” inquit, “credibile videtur loqui cum Valerio, senatore. Eius testimonium de ascensu Romuli potest adiuvari in hoc quaerendo. Sensus aliquis a nobis intellegitur.”
 
@@ -77,7 +77,7 @@ Postquam nos ab Valerio discessimus, Crispus vultum suum tollens, ad me se verti
 
 “Optime,” Crispus respondit, “una veritatem in luce ponemus.”
 
-## Caput IV: Miles Veteris et Tempestas
+## Caput IV: Testimonium Veterani
 
 Dum Crispus ex domo Valerii discedit, animum suum ad alia verba coniungit. In Campus Martius ambulans, oculos per loca circumfert, spe ductus ut alios testes inveniret. Ad arborem sub qua milites olim consederant, veterem militem, cuius caput canum erat et corpus vires bellicas ostendebat, animadvertit.
 
@@ -113,7 +113,7 @@ Crispus, cum animo firmo, respondit, “Ita, cum hoc vestimentum huc pertineat, 
 
 Crispus, mentes suas in vestimentum coniungens, “Ad purpureum panno pergamus, et fortasse veritas se revelabit,” respondit.
 
-## Caput V: Vestigia Occulta
+## Caput V: Vestis Purpurea
 
 Crispus, purpureum pannum in manu tenens et oculos in eum defixus, submurmuravit, “Hoc pannum indicium esse reor. Non simpliciter hic in Campus Martius delapsus est; est vestimentum dignitatis, quod solum in domibus senatorum inveniri solet.”
 
@@ -165,7 +165,7 @@ Quies momenti nostram investigationem implebat. Tum Crispus, lente et reverenter
 
 “Hic locus,” dixit, “est testamentum potius quam sepulcrum. Agerent ipsi quidam ut historia quidem mysteriis tecta remaneret. Pro salute populi Romani, veritas hic subiecta manebit.”
 
-## Caput VII: Veritas Occulta
+## Caput VII: Veritas Ultima
 
 Mane postero, cum primis lucis radiis, ego et Crispus ad domum Fabricii denuo accessimus. Hoc tempore, Crispus firmus ac determinatus videbatur; aliquid in animo suo erat quod explorare non desineret, utpote qui persuasus esset nos veritati iam adpropinquavisse. Fabricium, in atrio sedens, invenimus, vultu sereno sed anxietatem vix dissimulantem.
 
