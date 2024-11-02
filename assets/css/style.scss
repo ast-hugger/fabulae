@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+.markdown-body {
+    font-family: serif;
+}
+
 .container-lg {
-    max-width: 800px;
+    max-width: 700px;
 }
