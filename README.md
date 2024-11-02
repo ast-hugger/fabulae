@@ -14,6 +14,7 @@ and hallucinations intact.
 
 [Romuli Mysterium Ultimum](text/romulus.md) What if Holmes and Watson
 were named Crispus and Flavius, living in Rome in the year AUC 37?
-For the curious but less classically inclined, there is an [Engish version](text/romulus-en.md).
+For the curious but less classically inclined, there is an 
+[Engish translation](text/romulus-en.md).
 
 [De Viatore Sapiente](text/de-viatore.md) ChatGPT sensum vitae XLII esse non putat.
