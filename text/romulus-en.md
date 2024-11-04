@@ -2,19 +2,25 @@
 
 ## Chapter I: Rumor and Doubt
 
-In the thirty-seventh year after the founding of the city, a wondrous rumor spread through all of Rome like wildfire: Romulus, founder and king of the city, had been taken by the god Mars, ascending into the heavens! The people, from the commoners to the senators, received this news in the streets and forums, some cheering in exultation, others shedding tears in reverence. The Senate itself confirmed this story with official declarations, asserting that Romulus had now become a god and would forever watch over his city.
+In the thirty-seventh year since the founding of the city, a new rumor spread through all of Rome like wildfire: Romulus, the city’s founder and king, had been taken by the power of Mars and ascended to heaven! The common people and the senators received this news in the streets and forums—some exulting, others showing their reverence through tears. The Senate itself confirmed this story, by decree and with authority, declaring that Romulus had now become a god and would protect his city for eternity.
 
-I, Gaius Flavius, was recounting these events to my friend Marcus Terentius Crispus when I noticed a faint hint of doubt on his face. “Crispus,” I said, “does this not seem marvelous to you? I can imagine it now: Romulus, lifted through a break in the clouds, surrounded by flashes of light; the people prostrate on the ground, averting their eyes from the divine radiance. And since Marcellus himself, the tribune, claimed to have seen the cloud rise to the heavens, who could doubt it?”
+I, Gaius Flavius, set out the next day to visit my friend Marcus Terentius Crispus. The news of the miraculous ascension filled me with excitement, but at the same time I felt something was amiss. Crispus was a man of sharp intellect, well-known throughout the city for his skill in solving questions and mysteries. I wanted to know what he thought about this matter.
 
-Crispus, however, raised his gaze and fixed his perceptive eyes on me. In a low voice, he replied, “Flavius, the story is indeed remarkable, but why has it spread so quickly throughout the city? Nothing on its own could take root in public opinion so swiftly or with such unshakable confidence. Yet here we are, with all of Rome united in belief, as though no one could conceive of it being anything but the truth.”
+As the servant led me from the vestibule to the peristyle, I heard the sounds of a lyre. Crispus had long ago taken up the habit of playing the lyre while immersed in thought. Though to be honest, he didn’t so much play as pluck the strings at random, as if disordered sounds might somehow illuminate obscure thoughts. Worse yet, recently he had devised a new method: instead of plucking the strings, he would rub them gently with a smooth stick, saying that the soft sound was more conducive to his process of thinking.
 
-Somewhat uncertain, I replied, “But surely this is a sign of divinity, Crispus—that with no delay, no hesitation, this vision is set firmly in the people’s minds.” Yet I noticed him watching me more closely, a faint, ironic smile barely concealed.
+“Musicians,” Crispus would say, “will someday discover how much more pleasing this sound is to the ears.” But as I listened to the sounds, I doubted whether anyone would ever favor this invention.
 
-“Flavius,” he said, “Rome is inclined to believe rumors, but a sudden ascension like this, of their own king, would never have been so quickly accepted without some delay, unless the Senate itself had urged the people toward faith in it. There is no proof at all except the senators’ words. And none but those nearest to him in the Senate even saw this ‘ascension.’”
+When Crispus saw me, he immediately greeted me and asked at once what I knew about Romulus’s fate.
 
-Crispus’s words made me uneasy; it was true, now that I considered it, that the Senate had proclaimed this story to the people so swiftly, so immediately, and so unanimously, almost as if to extinguish any questions in the minds of the people. Yet Crispus still smiled faintly, as though more were left unsaid.
+I replied, hesitating a little, “The rumors indeed seem almost unbelievable, Crispus. An ascension to heaven! And yet, the Senate itself has confirmed it. Surely we can trust the senators? Perhaps, since Romulus was not just any man, it is indeed a divine deed.”
 
-After a brief silence, Crispus added, in a slightly more serious tone, “This, Flavius, which has been impressed so firmly upon the people, sounds to me less like the intervention of Mars and more like the craft of the Senate. If we seek not what is spoken but what is concealed, we may be led to the hidden truth.”
+I saw a faint smile cross Crispus’s face, as if content in the shadow of a mystery. Then he said, “I have investigated quite a few mysterious cases where divine will was assumed. Yet, in every case, when I examined it closely, I found only human deeds. Perhaps the gods are not as interested in mortal affairs as people think. Still, I grant that Romulus was not an ordinary man—a son of Mars, as that story goes. Yet if Mars really did take his son, he could hardly have chosen a worse time. I hear the Etruscans are stirring once again and secretly plotting. Even among the Sabines, some still bitterly remember the outrage of the abduction. These are troubled times, and surely Romulus could strengthen our city better by leading the army rather than wandering in the heavens.”
+
+Crispus’s words illuminated my mind like a flash of lightning. I suddenly realized what I had never before comprehended. What had previously seemed like a miraculous tale now appeared doubtful and full of suspicion. Turning to Crispus, I said, “I understand now how questionable this matter is. But, Crispus, what can we do? By what path shall we follow the truth?”
+
+Crispus replied with a serious expression: "It seems there is no benefit in asking people what they saw, since everyone repeats what the senators proclaimed. All as one tell the same tale. The first thing to be done is this: let us go to the Campus Martius and carefully examine whether anything remains there that could lead us to the truth."
+
+With an eager spirit, I exclaimed, “Crispus, I will help you in every way I can! May Minerva be our guide and the light shining on our path!”
 
 ## Chapter II: Traces in the Campus Martius
 

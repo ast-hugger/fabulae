@@ -5,17 +5,23 @@
 
 Anno trigesimo septimo ab urbe condita, nova fama per totam Romam quasi ignis flamma diffundebatur: Romulus, urbis conditor et rex, numine Martis raptus, in caelum ascenderat! Plebs, patresque conscripti, per vias et fora nuntium hunc excepere, alii exsultantes, alii lacrimis reverentiam suam ostendentes. Senatus ipse hanc fabulam confirmaverat, edicto et auctoritate, affirmans ipsum Romulum nunc deum factum esse, urbem suam aeternum tutaturum.
 
-Ego, Gaius Flavius, dum haec narrabam amico meo Marco Terentio Crispo, animadverti in vultu eius levem dubitationem. “Crispe,” inquam, “nonne hoc spectaculum mirabile tibi videtur? Imaginem concipere possum: Romulus, inter nubium aperturas et fulgura rapitur; populus in terram prostratus, oculos avertit propter radium divinum. Cum Marcellus ipse, tribunus, affirmet oculis se vidisse nubem raptam in caelum, quis possit dubitare?”
+Ego, Gaius Flavius, postera die ad amicum meum Marcum Terentium Crispum visitandum profectus sum. Nuntius de mirabili ascensu me plenus excitamenti replebat, sed simul sentiebam aliquid non rectum esse. Crispus vir acutissimi ingenii erat, per totam urbem notus ob facultatem quaestiones et arcana solvere. Volebam scire quid de eo sentiret.
 
-Crispus autem vultum suum levavit, oculos subtiles fixos, et submissa voce dixit: “Flavi, certo haec fabula mirabilis est, sed cur tam celeriter per urbem vagatur? Nulla res sola sine fluctuatione tam longe, tam stabiliter fama sua sine dubitatione accipit. Cito tamen Roma universa in unum consensum ducta est, quasi nullus civis aliud quam verum audiverit.”
+Dum servus me per vestibulum ad peristylium ducebat, sonos lyram resonantis audivi. Crispus iam pridem sibi morem induerat lyram pulsandi dum in cogitationibus immersus erat. At vere dicam: non tam canebat quam chordas temere percutiebat, quasi sonitus sine ordine factus mentes obscuras illuminare posset. Peius tamen, nuper novum sibi excogitaverat artificium; pro chorda plectenda, chordas leniter bacillo levi fricare coepit, dicens illum sonum lenem processui cogitandi utiliorem esse.
 
-Ego paulum dubitabundus respondi: “Hoc, mihi quidem videtur, signum divinitatis est, Cripse, quod nullo intervallo, nullo tempore haesitationis visio ista in populi animo fixa est.” Vidi autem Crispum magis intente ad me spectantem, et oculis suis subrisum vix retinentem.
+‘Musici,’ inquit Crispus, ‘olim invenient quantopere hic sonus iucundior sit auribus.’ Ego autem, cum sonos audirem, dubitabam an ulli umquam huic inventioni faverent.
 
-“Flavi,” inquit ille, “Roma ad rumores credulos est, sed Romulus, regem suum subitamque ascensionem numquam tam cito sine aliqua mora accepisset, nisi senatus ipse cives ad fidem hanc impelleret. Nulla omnino probatio est nisi verba senatorum. Nec ullus alius testis praeter senatores proximos ascensum ipsum vidit.”
+Crispus, ubi me vidit, extemplo salutavit et statim quaesivit quid de Romuli fato cognovissem.
 
-His verbis Crispus me anxium reddidit; quod senatus ipse tam stabiliter, tam uno tempore, et tam unanimiter hanc fabulam populo nuntiasset, quidem suscipere cogitavit in populi animis quidam dubitationes extinxisse. Sed Crispus rem adhuc subridet.
+Ego autem respondi, paulum haesitans, “Rumores quidem fere incredibiles videntur, Crispi. Ascensio ad caelos! Et tamen, senatus ipse eam comprobavit. Nonne senatoribus fidem habere possumus? Fortasse, cum Romulus non vir communis fuerit, res ipsa revera divina est.”
 
-Cum paulisper siluissem, Crispus addidit, voce paulum graviore: “Hoc, Flavi, quod tam firmiter in populo persuasum est, mihi quidem magis quam Maris visum astutiam senatoriam sonat. Si res quae dicuntur potius latentem rationem sequitur, forte nos ipsi in arcana veritatis deducemur.”
+Vidi Crispum leviter subridere, quasi sub umbra mysterii contentus. Tum dixit: “Multas res arcanas investigavi in quibus homines voluntatem divinam suspicabantur. Quae autem omnia, cum diligenter inspicerem, non nisi humana opera esse inveni. Forsitan di non tam multum in res mortalium intersunt, quam homines arbitrantur. Attamen, concedo, Romulus profecto vir communis non erat—Martis filius, ut ea fabula narrat. Atqui Mars, si vere filium suum eripuit, pessimum tempus elegit. Audio Etruscos iterum tumultuari et consilia occulte texere. Etiam apud Sabinos nonnulli adhuc acerbe recordantur illius raptus iniuriae. Tempora haec sunt plena turbarum, et certe Romulus exercitum ducendo urbem nostram firmare potius posset quam cum in caelis vagaret.”
+
+Tum ego, verbis Crispi quasi fulgure quodam mentem meam illuminante, repente cognovi quae antea numquam animo comprehenderam. Res, quae prius fabulam mirabilem videbatur, nunc dubia et plena suspicionis apparuit. Ad Crispum conversus, dixi: “Equidem nunc intellego quam suspiciosa haec res sit. Sed, mi Crispe, quid agere possumus? Quo itinere veritatem sequamur?”
+
+Crispus autem, vultu serio, respondit: “Nulla, ut videtur, utilitas est homines interrogare quid viderint, cum omnes eadem repetant quae senatores pronuntiaverunt. Omnes quasi unum idemque dicunt. Hic primum ad faciendum est: ad Campum Martium eamus et diligenter inspiciamus an aliquid ibi remaneat quod nos ad veritatem ducere possit.”
+
+Alacri animo exclamavi: “Tibi, Crispe, in omnibus modis auxilium meum praebebo! Sit nobis Minerva dux et lumen viam nostram illuminans!”
 
 ## Caput II: Vestigia in Campo Martio
 
