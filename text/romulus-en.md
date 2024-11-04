@@ -6,7 +6,7 @@ In the thirty-seventh year since the founding of the city, a new rumor spread th
 
 I, Gaius Flavius, set out the next day to visit my friend Marcus Terentius Crispus. The news of the miraculous ascension filled me with excitement, but at the same time I felt something was amiss. Crispus was a man of sharp intellect, well-known throughout the city for his skill in solving questions and mysteries. I wanted to know what he thought about this matter.
 
-As the servant led me from the vestibule to the peristyle, I heard the sounds of a lyre. Crispus had long ago taken up the habit of playing the lyre while immersed in thought. Though to be honest, he didn’t so much play as pluck the strings at random, as if disordered sounds might somehow illuminate obscure thoughts. Worse yet, recently he had devised a new method: instead of plucking the strings, he would rub them gently with a smooth stick, saying that the soft sound was more conducive to his process of thinking.
+As the servant led me from the vestibule to the peristyle, I heard the sounds of a lyre. Crispus had long ago taken up the habit of playing the lyre while immersed in thought. Though to be honest, he didn’t so much play as pluck the strings at random, as if disordered sounds might somehow illuminate obscure thoughts. Worse yet, recently he had devised a new method: instead of plucking the strings, he would rub them gently with a smooth stick, explaining that the soft sound was more conducive to his process of thinking.
 
 “Musicians,” Crispus would say, “will someday discover how much more pleasing this sound is to the ears.” But as I listened to the sounds, I doubted whether anyone would ever favor this invention.
 

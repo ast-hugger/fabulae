@@ -7,7 +7,7 @@ Anno trigesimo septimo ab urbe condita, nova fama per totam Romam quasi ignis fl
 
 Ego, Gaius Flavius, postera die ad amicum meum Marcum Terentium Crispum visitandum profectus sum. Nuntius de mirabili ascensu me plenus excitamenti replebat, sed simul sentiebam aliquid non rectum esse. Crispus vir acutissimi ingenii erat, per totam urbem notus ob facultatem quaestiones et arcana solvere. Volebam scire quid de eo sentiret.
 
-Dum servus me per vestibulum ad peristylium ducebat, sonos lyram resonantis audivi. Crispus iam pridem sibi morem induerat lyram pulsandi dum in cogitationibus immersus erat. At vere dicam: non tam canebat quam chordas temere percutiebat, quasi sonitus sine ordine factus mentes obscuras illuminare posset. Peius tamen, nuper novum sibi excogitaverat artificium; pro chorda plectenda, chordas leniter bacillo levi fricare coepit, dicens illum sonum lenem processui cogitandi utiliorem esse.
+Dum servus me per vestibulum ad peristylium ducebat, sonos lyram resonantis audivi. Crispus iam pridem sibi morem induerat lyram pulsandi dum in cogitationibus immersus erat. At vere dicam: non tam canebat quam chordas temere percutiebat, quasi sonitus sine ordine factus mentes obscuras illuminare posset. Peius tamen, nuper novum sibi excogitaverat artificium; pro chorda plectenda, chordas leniter bacillo levi fricare coepit, dicens quod sonus illius lenis mentes ad cogitandum adiuvaret.
 
 ‘Musici,’ inquit Crispus, ‘olim invenient quantopere hic sonus iucundior sit auribus.’ Ego autem, cum sonos audirem, dubitabam an ulli umquam huic inventioni faverent.
 
