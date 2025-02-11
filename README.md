@@ -1,7 +1,7 @@
-During the golden age of classical literature, modern popular literary genres did not exist.
-There were never a Roman Arthur Conan Doyle or Stephen King.
-A student of Latin seeking extensive reading material is stuck with Gallic wars
-and lives of saints. But what if classical or mediaeval writers were more inventive?
+Aetate aurea litterarum antiquarum, genera litterarum popularia hodierna non exstabant. 
+Discipulus Latinitatis materiam amplam legendi quaerens bellis Gallicis
+vitisque sanctorum contentus esse cogitur. 
+Quid autem si scriptores antiqui magis ingeniosi fuissent?
 
 [Mysteria Campi Martii](text/mysteria.md)
 
