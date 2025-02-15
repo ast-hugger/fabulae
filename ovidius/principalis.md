@@ -9,6 +9,7 @@ title: "Thesaurus Poeticus Ovidianus"
 - [III](amores-1-3.md)
 - [IV](amores-1-4.md)
 - [V](amores-1-5.md)
+- [VI](amores-1-6.md)
 
 ## Amores Liber III
 
