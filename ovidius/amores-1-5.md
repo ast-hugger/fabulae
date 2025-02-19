@@ -4,91 +4,92 @@
 > quale fere silvae lumen habere solent,<br/>
 > qualia sublucent fugiente crepuscula Phoebo,<br/>
 > aut ubi nox abiit, nec tamen orta dies.<br/>
-
-*It was hot, and the day had driven past its middle hour; I laid my weary limbs on the middle of the bed. One part of the window was open, the other part closed; just as woods typically have a certain kind of light, like twilight gleams when Phoebus is fleeing, or when night has gone but day has not yet risen.*
-
-- exigere (exegerat) - to drive out, complete, pass through (pluperfect)
-- adponere (adposui) - to place near, lay down upon
-- levandus - requiring relief, needing rest (gerundive)
-- adapertus - partially open
-- sublucere - to gleam faintly, shine dimly
-- fugere - to flee, hasten away (used poetically of the setting sun)
-- orior (orta) - to rise, emerge, be born
-
-The passage evokes a common scene from Roman daily life during the hottest part of the day. The "middle hour" refers to the sixth hour by Roman reckoning, around noon. Romans, like other Mediterranean peoples, often rested during these hot hours. Windows in Roman houses were typically openings that could be covered with wooden shutters or cloth, lacking glass panes as we know them. The poetic personification of the sun as Phoebus (Apollo) was a standard literary device. The description of half-light creates a dreamy atmosphere between sleep and wakefulness. The torus was a Roman couch or bed, often placed in a cubiculum (bedroom), and would have been elevated on legs with a stuffed mattress. The careful observation of natural light conditions reflects the importance of daylight in a pre-industrial society where artificial lighting was limited to oil lamps and candles.
 > illa verecundis lux est praebenda puellis,<br/>
 > qua timidus latebras speret habere pudor.<br/>
+
+*It was hot, and the day had passed its middle hour; I laid my limbs down to rest on my bed. Part of the window was open, part was closed; like the kind of light woods usually have, like twilight glimmers when Phoebus is fleeing, or when night has departed but day has not yet risen. That light is suitable for modest girls, where timid modesty might hope to find hiding places.*
+
+- verecundus, -a, -um - modest, shy, bashful
+- praebere - to offer, provide, furnish, display
+- timidus, -a, -um - fearful, timid, shy
+- latebra, -ae (f.) - hiding place, concealment (often plural)
+- pudor, -oris (m.) - shame, modesty, sense of honor
+- sperare - to hope, expect, trust
+
+This passage explores Roman attitudes toward feminine modesty (pudor), a crucial virtue in ancient Roman society. The imagery of half-light and concealment reflects the cultural expectations placed on well-bred Roman women, particularly young unmarried girls (puellae), who were expected to maintain a demure and modest demeanor.
+
+The description of light conditions serves both a practical and metaphorical purpose. Practically, Roman homes often managed light through adjustable window coverings, as glass windows were rare and expensive. Metaphorically, the half-light represents the ideal state of feminine visibility in Roman society - neither completely hidden nor fully exposed.
+
+The concept of pudor was central to Roman morality, especially for women of the upper classes. It encompassed not just sexual modesty but also proper behavior, dress, and social conduct. The poet's appreciation of the dim light's ability to provide "hiding places" for modesty reflects the Roman preoccupation with maintaining appropriate boundaries between public and private life, particularly for women.
+
 > ecce, Corinna venit, tunica velata recincta,<br/>
 > candida dividua colla tegente coma—<br/>
 > qualiter in thalamos famosa Semiramis isse<br/>
 > dicitur, et multis Lais amata viris.<br/>
-
-*That light must be provided for modest girls, in which timid modesty might hope to have hiding places. Look! Corinna comes, veiled in an ungirded tunic, her white neck covered by parted hair—just as the famous Semiramis is said to have gone to her chambers, and Lais, beloved by many men.*
-
-- verecundus, -a, -um - modest, bashful, shy
-- praebere - to offer, provide, furnish
-- latebra, -ae (f.) - hiding place, retreat (here plural)
-- velatus, -a, -um - veiled, covered
-- recinctus, -a, -um - ungirded, loosely bound
-- dividuus, -a, -um - divided, parted
-- collum, -i (n.) - neck
-- thalamus, -i (m.) - bedchamber, marriage bed
-- qualiter - just as, in what way
-
-The passage contains several cultural references that require explanation. The mention of "modest girls" and "timid modesty" reflects Roman social values regarding female virtue and propriety. The description of clothing is significant: the "ungirded tunic" (tunica recincta) suggests a state of undress, as women typically wore their tunics belted. Parted hair falling over the neck was considered sensual in Roman culture.
-
-Semiramis was a legendary Assyrian queen known for her beauty and power, often associated with luxury and seduction in classical literature. Lais refers to one of two famous Greek courtesans of that name (from Corinth or Hyccara), known for their extraordinary beauty and numerous lovers among the elite. Both historical references would have been immediately recognized by educated Roman readers as examples of famously seductive women, setting up a complex interplay between modesty and sensuality in the passage.
-
-The attention to lighting conditions reflects Roman architectural concerns with privacy, as most Roman houses had few windows and carefully controlled light for both practical and social reasons.
 > Deripui tunicam—nec multum rara nocebat;<br/>
 > pugnabat tunica sed tamen illa tegi.<br/>
 > quae cum ita pugnaret, tamquam quae vincere nollet,<br/>
 > victa est non aegre proditione sua.<br/>
+
+*Look, Corinna comes, veiled in an ungirt tunic, her fair neck covered by parted hair—just as the famous Semiramis is said to have gone to her chambers, and Lais, beloved by many men. I tore off her tunic—the thin fabric wasn't much hindrance; yet she fought to stay covered by the tunic. Though she fought thus, like one who didn't wish to win, she was conquered without difficulty by her own betrayal.*
+
+- recinctus, -a, -um - ungirdled, loosened
+- dividuus, -a, -um - divided, parted
+- thalamus, -i (m.) - bedroom, marriage bed, chamber
+- Semiramis, -idis (f.) - legendary Assyrian queen
+- Lais, -idis (f.) - famous Greek courtesan
+- deripere - to tear off, snatch away (deripui - perfect)
+- rarus, -a, -um - thin, loose-woven (of fabric)
+- nocere - to harm, hinder
+- proditio, -onis (f.) - betrayal, treachery
+
+The passage draws on complex literary and cultural references to frame an erotic encounter. Semiramis was a legendary Assyrian queen known for her beauty and sexual appetite, while Lais was a famous courtesan of Corinth whose name became synonymous with sophisticated courtesans. These comparisons elevate the scene by placing it within a tradition of famous seductions.
+
+The description of clothing is significant. The tunica recincta (ungirt tunic) was considered improper dress for a Roman woman - normally, the tunic would be belted to provide proper shape and modesty. The thin, loose fabric (rara) suggests a expensive, possibly imported material like silk or fine linen, marking Corinna as a woman of means. The parted hair covering her neck presents another sensual detail, as a woman's neck was considered particularly alluring in Roman culture.
+
+The mock battle that follows employs the common literary trope of militia amoris (love as warfare), but with a knowing wink at the convention of "token resistance" - the woman's apparent reluctance that actually signals consent. This complex interplay of resistance and acquiescence reflects Roman attitudes about female sexuality, where direct expression of desire was considered unbecoming.
+
 > ut stetit ante oculos posito velamine nostros,<br/>
 > in toto nusquam corpore menda fuit.<br/>
-
-*I tore off her tunic—though being sheer it wasn't much hindrance; yet that tunic fought to stay in place. Though she fought thus, as one who didn't wish to win, she was easily conquered by her own betrayal. When she stood before our eyes with her covering removed, there was not a single flaw anywhere on her body.*
-
-- deripere - to tear off, snatch away (deripui - perfect)
-- rarus, -a, -um - thin, loose, scattered, rare
-- nocere - to harm, hinder, be troublesome
-- proditio, -onis (f.) - betrayal, treachery
-- velamen, -inis (n.) - covering, garment, veil
-- menda, -ae (f.) - fault, blemish, defect
-- nusquam - nowhere, in no place
-- aegre - with difficulty, reluctantly (non aegre - easily)
-
-This passage describes the removal of a woman's tunic, a basic garment in Roman dress. The tunica was a simple, knee-length garment worn by both men and women, though women's versions were typically longer. The description of it as "rara" (sheer) suggests it was made of fine, possibly imported fabric like silk or very thin wool, which was considered luxurious. The theme of mock resistance ("pugnare") was a common literary trope in Roman love poetry, reflecting complex attitudes toward female sexuality and consent in Roman society. The detailed attention to the absence of physical flaws ("menda") reflects Roman aesthetic ideals and the culture's emphasis on physical beauty. The scene's intimate nature is characteristic of Roman elegiac poetry, which often dealt with private, erotic themes that would have been shocking to more conservative Romans.
 > quos umeros, quales vidi tetigique lacertos!<br/>
 > forma papillarum quam fuit apta premi!<br/>
 > quam castigato planus sub pectore venter!<br/>
 > quantum et quale latus! quam iuvenale femur!<br/>
-> Singula quid referam? nil non laudabile vidi<br/>
-> et nudam pressi corpus ad usque meum.<br/>
 
-*What shoulders, what arms I saw and touched! How suitable was the shape of her breasts to be caressed! How flat her stomach beneath her trim chest! What a side, both in size and beauty! How youthful her thigh! Why should I describe each detail? I saw nothing that was not praiseworthy, and I pressed her naked body right against mine.*
+*As she stood before my eyes with her covering removed, there was not a flaw anywhere on her whole body. What shoulders, what arms I saw and touched! How suitable for caressing was the shape of her breasts! How flat her stomach beneath her trim chest! What size and beauty of hip! How youthful her thigh!*
 
-- umerus, -i (m.) - shoulder
+- velamen, -inis (n.) - covering, garment, veil
+- menda, -ae (f.) - fault, blemish, defect
 - lacertus, -i (m.) - upper arm, muscle
 - papilla, -ae (f.) - breast, nipple
-- castigatus, -a, -um - controlled, trim, disciplined
-- planus, -a, -um - flat, level, smooth
-- femur, femoris (n.) - thigh
-- singula, -orum (n. pl.) - individual items, details
-- laudabilis, -e - praiseworthy, commendable
-- usque (adv.) - continuously, all the way, right up to
-- premere - to press, squeeze, caress (in erotic contexts)
+- castigatus, -a, -um - controlled, trim, restrained
+- planus, -a, -um - flat, level, even
+- iuvenalis, -e - youthful, juvenile
 
-The passage is an example of Latin erotic poetry, following conventions of the genre in its detailed description of the female form. The aesthetic ideals described reflect Roman standards of beauty: a trim, athletic figure was considered attractive. The term "castigatus" for the chest suggests controlled, well-proportioned features rather than excess. The progression of the description follows a traditional top-to-bottom pattern common in ancient literature. The frank sensuality of the piece is characteristic of Roman love poetry, which was more explicit than most modern poetry. The first-person narrative voice and the present recollection of a past encounter is a typical device of Roman elegiac poetry. The mention of pressing bodies together (premere) uses a common euphemism in Latin erotic vocabulary.
+The passage presents a male gaze assessment of the female form that reflects Roman aesthetic ideals. The systematic head-to-toe description (shoulders to thighs) follows conventions of ancient erotic poetry, but also mirrors artistic practices in sculpture where proportional perfection was paramount. 
+
+The emphasis on physical flawlessness (nusquam menda) reflects both literary convention and actual Roman beauty standards. Women of means used various cosmetics and treatments to maintain smooth, unblemished skin. The "trim" chest (castigato pectore) and flat stomach (planus venter) indicate an ideal of controlled, athletic femininity rather than softness - quite different from some later European ideals of feminine beauty.
+
+The term lacertus specifically refers to the upper arm, considered an especially attractive feature when well-formed. The attention to the firmness of the breasts (papillarum) and youthfulness of the thigh (iuvenale femur) emphasizes the subject's youth and fertility, key components of Roman concepts of female beauty.
+
+> Singula quid referam? nil non laudabile vidi<br/>
+> et nudam pressi corpus ad usque meum.<br/>
 > Cetera quis nescit? lassi requievimus ambo.<br/>
 > proveniant medii sic mihi saepe dies!<br/>
 
-*Who doesn't know the rest? We both rested, exhausted. May my midday hours often turn out this way!*
+*Why should I describe each detail? I saw nothing that wasn't praiseworthy, and I pressed her naked body against my own. Who doesn't know the rest? We both rested, exhausted. May such middays often come to me!*
 
+- singula, -orum (n. pl.) - individual details, particulars
+- referre - to report, relate, tell
+- laudabilis, -e - praiseworthy, commendable
+- premere - to press, push against (pressi - perfect)
+- usque - up to, continuously, all the way
+- provenire - to come forth, arise, turn out
 - lassus, -a, -um - tired, weary, exhausted
-- requiescere - to rest, repose (requievimus - perfect tense)
-- ambo, -ae, -o - both
-- provenire - to come forth, turn out, result (proveniant - present subjunctive)
-- medius dies - midday, noon (literally "middle day")
 
-The passage refers to events during the middle of the day, which was a common time for rest in Roman society. The siesta culture was well-established in ancient Rome, particularly during the hot summer months when many activities would pause during the warmest hours. The use of "ambo" (both) suggests an intimate scene between two people, while the rhetorical question "cetera quis nescit?" ("who doesn't know the rest?") is a literary device known as aposiopesis - a deliberate trailing off that leaves the unsaid to the reader's imagination. This was a common technique in Roman love poetry. The subjunctive mood in "proveniant" expresses a wish or hope for future occasions, another typical feature of Roman poetry. The reference to midday (medii dies) reflects the Roman division of the day into twelve hours between sunrise and sunset, with the sixth hour corresponding to noon.
+The deliberate discretion shown in this erotic scene ("Cetera quis nescit?") reflects Roman literary conventions about explicit sexual content. While Romans weren't prudish about sexuality, educated poetry maintained certain boundaries of taste and decorum. The rhetorical questions engage the reader while tactfully drawing a veil over the more intimate details.
+
+The mention of midday (medii dies) places this encounter during the traditional Roman siesta time, when businesses closed and people retired to their homes during the hottest part of the day. This timing was practical for assignations, as it was normal for people to be in bed at this hour, and the usual activities of daily life were suspended.
+
+The final line's optative subjunctive (proveniant) transforms a personal experience into a prayer-like wish, a common poetic device that elevates the mundane to the realm of divine favor. This reflects the Roman tendency to find religious resonance even in thoroughly human activities.
+
