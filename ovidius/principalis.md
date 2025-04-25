@@ -4,6 +4,7 @@ title: "Thesaurus Poeticus Ovidianus"
 
 ## Amores Liber I
 
+- [Epigramma Ipsius](amores-0.md)
 - [I - Arma gravi numero violentaque bella parabam...](amores-1-1.md)
 - [II - Esse quid hoc dicam, quod tam mihi dura videntur...](amores-1-2.md)
 - [III - Iusta precor: quae me nuper praedata puella est...](amores-1-3.md)
