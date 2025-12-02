@@ -1,3 +1,5 @@
+# Chloratic Society Papers
+
 # **The Chloratic Society Club**
 
 _A Wellsian-style description_
