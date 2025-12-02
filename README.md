@@ -8,3 +8,7 @@ Quid autem si scriptores antiqui magis ingeniosi fuissent?
 [De Viatore Sapiente](text/de-viatore.md) ChatGPT sensum vitae XLII esse non putat.
 
 [Thesaurus Poeticus Ovidianus](ovidius/principalis.md)
+
+## Opera Anglica
+
+[The Chloratic Society Papers](text/chloratic.md)
