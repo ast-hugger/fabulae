@@ -1080,7 +1080,9 @@ It has been said—by men much older and wider of brow than myself—that the hi
 > _A Steam-Driven Platform Promising Class Paths, Portable Jars, and “Run-Anywhere” Pneumo-Elastic Execution_  
 > **“WRITE ONCE — RUN EVERYWHERE”**
 
-I found Sherlock Holmes reading by the fire in the Chloratic Society’s common room when I presented him with the card. He regarded it with a tightening of the eyes familiar to all who have observed him in moments of professional foreboding. “Sumatra,” he murmured slowly, as if tasting something suspicious on the tongue, “how very apt. One does not approach anything bearing that name without anticipating danger, confusion, and possibly toothmarks.” 
+I found Holmes seated by the fire in the Chloratic Society’s common room when I handed him the invitation card. He regarded it with that peculiar narrowing of the eyes which always signified the arrival of some fresh mechanical calamity. “Sumatra,” he said at last, allowing the word to roll from his tongue with a tone of clinical distaste. “I cannot but admire the candour of the choice, Pennington. A contrivance so named prepares one most honestly—after all, Sumatra is a place where the inhabitants will fall prostrate before any humming piece of modern apparatus, however ill-wired or menacing. Thripp’s machine, with its excessive piping and that characteristic brooding rumble he mistakes for intellectual gravitas, will be quite at home among such terrified primitives.”
+
+He turned the card over once more, as though expecting it to bite, and added, “Indeed, the Professor could scarcely have warned us more plainly unless he had titled it ‘The Island of Unfortunate Endings.’”
 
 Dr. Watson, to whom the invitation was afterwards passed, ventured that perhaps the new machine would prove safer than its predecessors. Holmes merely shook his head. “My dear Watson, any contrivance that promises to execute steam instructions on every platform—from a phaeton boiler to a battleship turbine—invites calamity. The broader the promise, the broader the failure.”
 
@@ -1115,7 +1117,7 @@ He concluded that the Mark III should be dismantled, preferably by someone weari
 
 # Afterword
 
-Though shaken, Professor Thripp insisted that the Mark III had merely suffered “teething difficulties,” and vowed to produce a successor that would resolve these trifling shortcomings while incorporating, as he put it, “several bold new idioms.” Holmes, upon hearing this, declared he must investigate lodging outside London for the foreseeable future. As for myself, I resolved never again to trust a machine named after an island known chiefly for its unpredictable wildlife, its tangled undergrowth, and its unfortunate habit of devouring the unwary.
+Though shaken, Professor Thripp insisted that the Mark III had merely suffered “teething difficulties,” and vowed to produce a successor that would resolve these trifling shortcomings while incorporating, as he put it, “several bold new idioms.” Holmes, upon hearing this, declared he must investigate lodging outside London for the foreseeable future. As for myself, I resolved never again to trust a machine named after an island where tribes form instantly and quarrel eternally, which is not unlike the behaviour of engineers defending a hopeless design.
 
 
 # The Pneumatic Prototype Pandemonium
