@@ -1,6 +1,26 @@
 # Chloratic Society Papers
 
-# **The Chloratic Society Club**
+- [The Chloratic Society Club](#the-chloratic-society-club)
+- [The St. Alban's Vigilance Club](#the-st-albans-vigilance-club)
+- [The So-Called Green Lamp Disturbance](#the-so-called-green-lamp-disturbance)
+- [The Luminous Displacement of Mr. Sugden](#the-luminous-displacement-of-mr-sugden)
+- [The Perambulating Atmosphere](#the-perambulating-atmosphere)
+- [The Runaway Mechanical Raincloud](#the-runaway-mechanical-raincloud)
+- [The World’s Smallest Tidal Wave](#the-worlds-smallest-tidal-wave)
+- [The Steam-Operated Thinking Engine](#the-steam-operated-thinking-engine)
+- [The Clockwork Mind of the Vigilance Club](#the-clockwork-mind-of-the-vigilance-club)
+- [The Pneumatic Ambitions of the Mark I](#the-pneumatic-ambitions-of-the-mark-i)
+- [The Recursive Pneumatic Imbroglio](#the-recursive-pneumatic-imbroglio)
+- [The Sumatra Steam Debacle](#the-sumatra-steam-debacle)
+- [The Pneumatic Prototype Pandemonium](#the-pneumatic-prototype-pandemonium)
+- [The Promissory Engine](#the-promissory-engine)
+- [The Turbulence of ‘Sea’](#the-turbulence-of-sea)
+- [The Meticulous Meltdown of the Mark VII](#the-meticulous-meltdown-of-the-mark-vii)
+- [The Curse of the Monad](#the-curse-of-the-monad)
+- [Holmes’s Closing Monologue at the Chloratic Society Fireplace](#holmess-closing-monologue-at-the-chloratic-society-fireplace)
+- [Epilogue: The Catastrophe of the P.P.A. Mark Ω](#epilogue-the-catastrophe-of-the-ppa-mark-ω)
+
+# The Chloratic Society Club
 
 _A Wellsian-style description_
 
@@ -12,7 +32,7 @@ The members pride themselves on being **men of chloratic temperament**—a phras
 
 The reading room, with its green-shaded lamps and deep, amphibian hush, contains newspapers from every continental capital, many of which remain unread for weeks on end except by one elderly barrister who has privately vowed to outlive the Ottoman Empire and checks its obituary daily. The smoking room is a perpetual fogbank of Latakia and earnest, muddled talk about municipal drainage. The club’s **Green Salon**, a smaller chamber overlooking a courtyard of captive plane trees, is reserved for the discussion of scientific matters, although the science tends to be of a speculative, Wellsian sort—martian canals, anti-gravity notions, and peculiar machines that a member is “quite certain will revolutionise omnibus propulsion, if only the authorities would take him seriously.”
 
-# **The St. Alban’s Vigilance Club**
+# The St. Alban’s Vigilance Club
 
 _A Conan Doyle–style description_
 
@@ -28,7 +48,7 @@ The **Reading Room**, with its tall windows overlooking Pall Mall, is a handsome
 
 The club’s **Vigilant Lounge**, so named for its tradition of late-hours conversation, is well known among its members as the scene of many quietly decisive meetings: a young officer dispatched to an obscure but necessary post; a civil engineer entrusted with surveys in a distant territory; a discreet whisper that some rising crisis “might be managed” by the right man in the right place.
 
-# **The So-Called Green Lamp Disturbance**
+# The So-Called Green Lamp Disturbance
 
 _From the private notes of Mr. Horace Pennington, Fellow of the Chloratic Society Club_
 
@@ -75,7 +95,7 @@ The Vigilance Club, of course, has behaved as though they heroically intercepted
 
 In truth, I cannot help but think the entire episode a lesson in the dangers of cross-street illumination rivalry. Yet it has given us, at least, a lively topic for quiet conversation, and for that alone the incident may have been worth the trouble.
 
-# **The Luminous Displacement of Mr. Sugden**
+# The Luminous Displacement of Mr. Sugden
 
 _Being a continuation of the events commonly referred to as the Green Lamp Disturbance_  
 _Recorded by Horace Pennington, F.C.S., Chloratic Society_
@@ -167,7 +187,7 @@ Watson has suggested—though I cannot tell whether he is serious—that Holmes 
 
 For my part, I should feel safer already.
 
-# **The Perambulating Atmosphere**
+# The Perambulating Atmosphere
 
 _Being an Account of an Ill-Advised Demonstration at the Chloratic Society Club_  
 _Recorded by Horace Pennington, Fellow of the Chloratic Society_
@@ -262,7 +282,8 @@ Holmes later provided the Committee with a written assessment. I extract from it
 > — S. Holmes, Consultant
 
 This, I believe, is the most useful advice ever given to the Chloratic Society.
-## **Afterword**
+
+## Afterword
 
 Professor Cusp has vowed to revise his invention, but Holmes has declared that any apparatus promising to “discipline the elements” must undergo prior review—and preferably destruction.
 
@@ -270,7 +291,7 @@ We Chloratic members now approach scientific demonstrations with Holmesian prude
 
 I no longer take air for granted. Not since the day it nearly left the room without me.
 
-# **The Runaway Mechanical Raincloud**
+# The Runaway Mechanical Raincloud
 
 _Being a Chronicle of Another Unfortunate Demonstration at the Chloratic Society_  
 _By Horace Pennington, Fellow of the Chloratic Society_
@@ -368,7 +389,7 @@ Holmes delivered his official consultation to the Committee the next morning, st
 > 
 > — S. Holmes, Consultant
 
-## **Afterword**
+## Afterword
 
 The courtyard now bears a permanent dampness, as though remembering the event. Members step cautiously, umbrellas at the ready even on clear days. Sugden, fortunately uninjured, now surveys the heavens with quiet suspicion.
 
@@ -376,7 +397,7 @@ Holmes, for his part, advised the Committee that his fees would increase if furt
 
 And I—well, I have developed profound respect for clouds. They may drift. They may sulk. They may ruin picnics. But they do _not_ take orders. Not even from the Chloratic Society.
 
-# **The World’s Smallest Tidal Wave**
+# The World’s Smallest Tidal Wave
 
 _Being a Further Account of Misguided Hydrological Research at the Chloratic Society_  
 _By Horace Pennington, Fellow of the Chloratic Society_
@@ -466,7 +487,8 @@ Holmes addressed the Committee the next morning (now in dry socks):
 > I also advise placing sandbags along the corridor until the floorboards dry.
 > 
 > — S. Holmes, Consultant
-## **Afterword**
+
+## Afterword
 
 The Green Salon now emits a faint scent of low tide, which we attempt to mask with bowls of potpourri (to no effect). Members approach water pitchers with suspicion. Sugden has taken to wearing waterproof galoshes indoors.
 
@@ -474,7 +496,7 @@ And I—a man who once believed in the harmless nature of scale—have developed
 
 Even a tidal wave, if given half a chance, will try to go places.
 
-# **The Steam-Operated Thinking Engine**
+# The Steam-Operated Thinking Engine
 
 _Being an Account of the Chloratic Society’s Foray Into Mechanical Intelligence_  
 _Recorded by Horace Pennington, Fellow of the Chloratic Society_
@@ -634,7 +656,8 @@ The next morning Holmes delivered his assessment:
 > The machine should not be permitted to philosophize, speculate, introspect, or participate in any topic requiring the continued structural integrity of the building.
 > 
 > — S. Holmes, Consultant
-## **Afterword**
+
+## Afterword
 
 The ceiling has been repaired; the walls are drying; Sugden has recovered from a minor steam-based existential crisis. Grimbly has vowed to produce a “Safer, Kinder Engine.” Holmes has vowed to retire if he does.
 
@@ -642,7 +665,7 @@ As for me, I now regard all boilers with suspicion. A kettle that whistles too t
 
 Intelligence—like steam—should be well contained. And not, under any circumstances, pressurized.
 
-# **The Clockwork Mind of the Vigilance Club**
+# The Clockwork Mind of the Vigilance Club
 
 _Being an Account of Competitive Mechanized Intelligence Between Two Respectable Institutions_  
 _By Horace Pennington, Fellow of the Chloratic Society_
@@ -794,7 +817,8 @@ The following day, Holmes delivered his official evaluation to the Vigilance Clu
 > — S. Holmes, Consultant
 
 Sir Hilary Barkstone thanked Holmes with a handshake of such stiffness that I believe it slightly sprained them both.
-## **Afterword**
+
+## Afterword
 
 The Vigilance Club has since shuttered its mechanical laboratory. Several members have sworn to return to simpler pursuits such as fencing, cartography, and glaring at their counterparts across the street.
 
@@ -802,7 +826,7 @@ As for the Chloratic Society, we take no pleasure in their misfortune. Well—no
 
 Holmes has warned us that intelligence—whether steamed, geared, or otherwise—should be handled with supreme caution. Watson has advised that no machine should be capable of locomotion unless absolutely necessary. And I have concluded that humanity does not need help being clever. What we need—desperately—is help being sensible.
 
-# **The Pneumatic Ambitions of the Mark I**
+# The Pneumatic Ambitions of the Mark I
 
 _Being an Account of the First Pneumatic Processing Apparatus, in which Linear Tape, Loops Without Boundaries, and a Certain Overexpansion of Bellows Conspired to Produce General Dismay. 
 Set Down, with humility and a towel nearby, by Horace Pennington, Fellow of the Chloratic Society_
@@ -908,7 +932,7 @@ The next morning, in the stern, precise handwriting that invariably accompanied 
 > 
 > — S. Holmes, Consultant
 
-## **Afterword**
+## Afterword
 
 Sugden, whose experience in mechanical calamity increases with each such demonstration, has since adopted the practice of positioning himself near the exit whenever Professor Thripp begins to speak. This precaution has served him well.
 
@@ -921,7 +945,7 @@ Holmes, in his final remark on the matter, summarized it thus:
 The Mark I, alas, very nearly did.
 
 
-# **The Recursive Pneumatic Imbroglio**
+# The Recursive Pneumatic Imbroglio
 
 _Being an Account of the P.P.A. Mark II, in which Self-Modifying Tape, Parenthetical Profusion, and Certain Lispian Follies Conspired Against Reason_  
 _Set Down, with no little reluctance, by Horace Pennington, Fellow of the Chloratic Society_
@@ -1035,7 +1059,8 @@ The following morning Holmes presented his report:
 > Recommendation: it should not be used, displayed, studied, imitated, or mentioned in polite society.
 > 
 > — S. Holmes, Consultant
-## **Afterword**
+
+## Afterword
 
 Thripp, astonishingly, was not discouraged. I overheard him speaking of imaginary future devices capable of “true abstraction,” by which he appeared to mean abstractions from abstraction itself. Holmes, upon hearing only the faintest whisper of that plan, declared firmly that he would not be present at the unveiling unless armed with both a sledgehammer and a judicial warrant.
 
@@ -1043,7 +1068,6 @@ As for me, I have learned to fear parentheses. I see them now in my sleep, assem
 
 For in the Steam Age, as Holmes says,  
 **A machine that contemplates its own thoughts soon contemplates nothing else.**
-
 
 # The Sumatra Steam Debacle
 
@@ -1088,12 +1112,13 @@ Holmes later submitted a brief but incisive summary to the Club:
 - **Its claim to run anywhere** succeeds chiefly in failing everywhere with admirable consistency.
 
 He concluded that the Mark III should be dismantled, preferably by someone wearing gloves and a pith helmet.
-# **Afterword**
+
+# Afterword
 
 Though shaken, Professor Thripp insisted that the Mark III had merely suffered “teething difficulties,” and vowed to produce a successor that would resolve these trifling shortcomings while incorporating, as he put it, “several bold new idioms.” Holmes, upon hearing this, declared he must investigate lodging outside London for the foreseeable future. As for myself, I resolved never again to trust a machine named after an island known chiefly for its unpredictable wildlife, its tangled undergrowth, and its unfortunate habit of devouring the unwary.
 
 
-# **The Pneumatic Prototype Pandemonium**
+# The Pneumatic Prototype Pandemonium
 
 _Being an Account of the P.P.A. Mark IV and Certain Advancements in Steam-Age Abstraction_  
 _Set Down by Horace Pennington, Fellow of the Chloratic Society_
@@ -1189,7 +1214,8 @@ Holmes’s report—read aloud with appropriate gravity—concluded:
 > Recommendation: bury the machine in wet cement, place the cement inside a crate, then drop the crate into the deepest part of the Channel.
 > 
 > — S. Holmes, Consultant
-## **Afterword**
+
+## Afterword
 
 Professor Thripp, undaunted, now speaks of a Mark V which will use “promissory computation,” an apparatus that begins many tasks at once and resolves none. Holmes has already arranged to be out of London on the day of its demonstration.
 
@@ -1197,7 +1223,7 @@ As for myself, I have come to regard abstraction—particularly when expressed i
 
 I fear we shall learn otherwise.
 
-# **The Promissory Engine**
+# The Promissory Engine
 
 _Being an Account of the P.P.A. Mark V, in which Deferred Computations, Unresolved Intentions, and the Vapours of Hope Conspired Against Reason_  
 _Set Down by Horace Pennington, Fellow of the Chloratic Society_
@@ -1322,7 +1348,8 @@ Holmes submitted his findings the next morning:
 > Recommendation: The device should be dismantled; its promises cancelled; its Deferred Execution Drum repurposed as a waste-paper basket.
 > 
 > — S. Holmes, Consultant
-## **Afterword**
+
+## Afterword
 
 Sugden, ever discreet, now crosses himself whenever he passes a machine containing more than one valve. Dr. Watson has begun writing a monograph titled _“On the Medical Risks of Proximity to Abstract Machinery.”_ Holmes has refused to attend any demonstration involving the phrase “eventual resolution.”
 
@@ -1335,7 +1362,7 @@ In the end, the Mark V taught us a lesson we might have known from the start:
 Hope, in brass, is the enemy of action.
 
 
-# **The Turbulence of ‘Sea’**
+# The Turbulence of ‘Sea’
 
 _Being an Account of the P.P.A. Mark VI and the Perils of Unmoored Pointers, Repeating Asterisks, and the Fatal Confidence of Address Operators_  
 _Set down by Horace Pennington, Fellow of the Chloratic Society_
@@ -1515,14 +1542,14 @@ Holmes’s report, delivered the following morning, combined his customary preci
 > 
 > — S. Holmes, Consultant
 
-# **Afterword**
+# Afterword
 
 Professor Thripp insists that a Mark VII shall at last eliminate all pointer-related dangers by adding “guards,” “lifeboats,” and “protective railings,” though Holmes has expressed grave doubt that any number of safeguards will restrain a machine whose fundamental philosophy is perilous by design. Sugden has begun attending each demonstration wearing a reinforced helmet of his own devising, and Watson has made notes toward a medical monograph on “Injuries Peculiar to Experimental Computation.”
 
 As for myself, I am convinced more firmly than ever that any language named after a body of water is best approached with a lifejacket, a telescope, and a map that leads firmly away from the coast.
 
 
-# **The Immutable Folly of Dust**
+# The Meticulous Meltdown of the Mark VII
 
 _Being an Account of the P.P.A. Mark VII, in which Borrow Checking, Lifetimes, Closures, and Other Allegedly Safe Practices Conspire toward New Perils_  
 _Set down by Horace Pennington, Fellow of the Chloratic Society_
@@ -1689,14 +1716,14 @@ Holmes’s official report, delivered with a mixture of pity and exhaustion, sta
 > 
 > — S. Holmes, Consultant
 
-# **Afterword**
+# Afterword
 
 Thripp insists that the Mark VIII shall solve the remaining problems by introducing “multiple threads of execution,” which Holmes described as “multiple avenues of failure running simultaneously.” Sugden has already declined to attend the unveiling, citing prior engagements with his continued survival.
 
 As for myself, I have concluded that a machine designed to prevent all dangers inevitably prevents all activity as well. If safety is defined strictly enough, the only perfectly safe computation is one that is never performed.
 
 
-# **Sherlock Holmes and the Curse of the Monad**
+# The Curse of the Monad
 
 _Being an Account of the P.P.A. Mark VIII, whose Laziness, Purity, and Monadic Abstractions Entangled Brass and Steam in Philosophical Confusion_  
 _Set down by Horace Pennington, Fellow of the Chloratic Society_
@@ -1768,13 +1795,14 @@ Holmes’s formal report, delivered the following morning with an air of resigna
 > I conclude that Whiskell is admirably suited for monasteries, academies of abstract philosophy, and other institutions where inactivity is indistinguishable from contemplation.
 > 
 > — S. Holmes, Consultant
-# **Afterword**
+
+# Afterword
 
 Professor Thripp, restored to enthusiasm after only a short interval, now proposes a **Mark IX**, which he claims shall distribute purity across many machines simultaneously—an idea Holmes describes as “the exportation of inefficiency on an industrial scale.” Sugden has quietly informed me that he will attend no further demonstrations unless they take place outdoors and preferably behind a blast shield.
 
 As for myself, I remain convinced that any machine which places philosophy above practicality, purity above usefulness, and monads above all else is destined never to compute anything except its own regret.
 
-# **Holmes’s Closing Monologue at the Chloratic Society Fireplace**
+# Holmes’s Closing Monologue at the Chloratic Society Fireplace
 
 _Set down by Horace Pennington, F.C.S._
 
@@ -1801,7 +1829,7 @@ At that moment, Holmes seemed prepared to rest his case—but instead leaned for
 And with that, he leaned back, exhaling a plume of smoke that curled upward like a diagram whose meaning had been forgotten by its draftsman.
 
 
-# **Epilogue: The Catastrophe of the P.P.A. Mark Ω**
+# Epilogue: The Catastrophe of the P.P.A. Mark Ω
 
 _Set down by Horace Pennington, Fellow of the Chloratic Society_
 
@@ -1864,7 +1892,8 @@ Holmes, stepping forward with the melancholy steadiness of a man whose pessimism
 Thripp, to his credit, accepted this with grace, though he could be heard afterward muttering that See±± might be improved by “just one more feature.”
 
 Holmes whispered to me, “My dear Pennington, if ever you hear an engineer utter those words, take shelter immediately.”
-## **Conclusion of the Entire Affair**
+
+## Conclusion of the Entire Affair
 
 Thus ends the long chronicle of the pneumatic engines—from the runaway enthusiasm of the Mark I to the metaphysical pretensions of the Mark VIII, and finally to the catastrophic ambition of the Mark Ω. Each machine was distinct in principle, unique in folly, and ruinous in execution; each was a testament not to the perfection of engineering, but to the engineer’s fatal attraction to complexity for its own sake. If this record serves no other purpose, may it at least guide future generations of the Chloratic Society to approach any device promising universality with enough skepticism to fill a boiler.
 
