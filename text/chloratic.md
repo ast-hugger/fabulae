@@ -1,4 +1,4 @@
-# Chloratic Society Papers
+# The Chloratic Society Papers
 
 - [The Chloratic Society Club](#the-chloratic-society-club)
 - [The St. Alban's Vigilance Club](#the-st-albans-vigilance-club)
