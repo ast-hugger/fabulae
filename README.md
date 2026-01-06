@@ -5,7 +5,7 @@ Quid autem si scriptores antiqui magis ingeniosi fuissent?
 
 [Mysteria Campi Martii](text/mysteria.md) (fabula imperfecta)
 
-[De Viatore Sapiente](text/de-viatore.md) ChatGPT sensum vitae XLII esse non putat.
+[De Viatore Sapiente](text/de-viatore.md)
 
 [Thesaurus Poeticus Ovidianus](ovidius/principalis.md)
 
