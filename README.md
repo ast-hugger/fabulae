@@ -8,9 +8,3 @@ Quid autem si scriptores antiqui magis ingeniosi fuissent?
 [De Viatore Sapiente](text/de-viatore.md)
 
 [Thesaurus Poeticus Ovidianus](ovidius/principalis.md)
-
-## Opera Anglica
-
-[The Chloratic Society Papers](text/chloratic.md)
-
-[The Adventure of the Pressurised Thought](text/pressurised.md)
