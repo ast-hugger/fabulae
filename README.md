@@ -8,3 +8,9 @@ Quid autem si scriptores antiqui magis ingeniosi fuissent?
 [De Viatore Sapiente](text/de-viatore.md)
 
 [Thesaurus Poeticus Ovidianus](ovidius/principalis.md)
+
+## Fabulae Anglicae
+
+[The Adventure of the Pressurised Thought](text/pressurised.md)
+
+[Distances](text/distances.md)
