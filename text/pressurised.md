@@ -1,8 +1,4 @@
-# The Adventure of the Pressurised Thought
-
-*by Horace V. Pennington*
-
-## CHAPTER I
+# CHAPTER I
 
 *In Which We Encounter a Singular Club, a Celebrated Detective, and the Promise of Pressurised Thought*
 
@@ -18,7 +14,7 @@ It was into this world that, on the fog-bound evening our narrative properly com
 
 I should, perhaps, introduce myself. My name is Horace Pennington, and I am a member of the Chloratic Society in good standing, which is to say I pay my fees promptly and harbour no strong opinions about drainage. I had joined the Club some years earlier on the recommendation of an uncle who believed it would improve my character, though in what direction he never specified. I am a man of modest independent means, no particular profession, and a constitutional tendency toward observation rather than participation—qualities which, as it happened, suited me admirably for the role fate was about to thrust upon me.
 
-On the evening in question, I had installed myself in the Green Salon with a glass of tolerably decent claret and was listening with half an ear to a dispute concerning the feasibility of communication with the dead by means of galvanic apparatus, when our Chairman entered the room in a state of considerable agitation.
+On the evening in question, I had been obliged to install myself in the smoking room—the Green Salon having been closed all day for what were described only as "preparations," a word which seemed to afford the staff enormous satisfaction whilst offering the membership no information whatsoever. I was nursing a glass of tolerably decent claret whilst listening with half an ear to a dispute concerning the feasibility of communication with the dead by means of galvanic apparatus, when our Chairman entered the room in a state of considerable agitation.
 
 Sir Bartholomew Cripps-Morden was not a man built for agitation. He was built, rather, for sitting in leather armchairs and making pronouncements—a large, florid gentleman of perhaps sixty years, with magnificent white whiskers that spread across his face like the wings of some elderly and self-satisfied bird. He had made his fortune in something to do with India, the precise nature of which no one could quite recall, and had ascended to the Chairmanship of the Chloratic Society through the twin virtues of availability and the willingness to pay for the annual dinner. In all my years at the Club, I had never seen him move faster than a dignified amble. Yet here he was, practically bustling, his whiskers aquiver with purpose.
 
@@ -28,7 +24,7 @@ The effect of this announcement was immediate and electric. Conversations ceased
 
 I confess I felt a certain thrill myself. The name of Sherlock Holmes was, by this time, known to every literate person in England—the famous consulting detective of Baker Street, whose exploits had been chronicled in the popular press with a frequency that suggested tireless dedication to either justice or publicity. I had read several of these accounts and found them entertaining, if somewhat improbable. Now, it seemed, I was to meet the man himself.
 
-He entered the Green Salon a moment later, and I understood at once why the accounts had devoted such attention to his appearance. Holmes was tall—remarkably so—and thin in the manner of a man who forgets to eat when occupied by more interesting matters. His face was sharp and angular, dominated by a hawkish nose and a pair of grey eyes that swept the room with an intensity suggesting that he was not merely looking at us but cataloguing us, filing away observations for future reference. He wore a dark frock coat of excellent cut and carried himself with the coiled alertness of a predator at rest. One felt, instinctively, that very little escaped his notice, and that what did escape his notice was probably not worth noticing in the first place.
+He entered the smoking room a moment later, and I understood at once why the accounts had devoted such attention to his appearance. Holmes was tall—remarkably so—and thin in the manner of a man who forgets to eat when occupied by more interesting matters. His face was sharp and angular, dominated by a hawkish nose and a pair of grey eyes that swept the room with an intensity suggesting that he was not merely looking at us but cataloguing us, filing away observations for future reference. He wore a dark frock coat of excellent cut and carried himself with the coiled alertness of a predator at rest. One felt, instinctively, that very little escaped his notice, and that what did escape his notice was probably not worth noticing in the first place.
 
 'Mr. Holmes,' said Sir Bartholomew, performing introductions with the gravity of a museum curator displaying a prized artefact, 'welcome to the Chloratic Society. I trust your journey was not too disagreeable?'
 
@@ -46,7 +42,7 @@ Behind him, almost invisible in the Professor's considerable shadow despite Thri
 
 'A bold claim,' said Holmes, and I detected in his voice a note of genuine interest beneath the habitual irony. 'I confess I am curious to see how brass and stream and—what was it?—inference cylinders propose to accomplish what is so difficult for most human beings.'
 
-'In an hour!' declared Professor Thripp. 'The demonstration begins in an hour. I must return to my preparations. The secondary axiom wheels require adjustment, the boiler must be brought to precisely the correct pressure, and I believe one of the inferential manifolds has developed a slight leak—nothing serious, merely a wisp of escaped reasoning, but it must be attended to.' He turned and shuffled toward the door, then paused and looked back with an expression of sudden anxiety. 'It *is* in an hour, isn't it? Not tomorrow?'
+'In an hour!' declared Professor Thripp. 'The demonstration begins in an hour. I must return to my preparations in the Green Salon. The secondary axiom wheels require adjustment, the boiler must be brought to precisely the correct pressure, and I believe one of the inferential manifolds has developed a slight leak—nothing serious, merely a wisp of escaped reasoning, but it must be attended to.' He turned and shuffled toward the door, then paused and looked back with an expression of sudden anxiety. 'It *is* in an hour, isn't it? Not tomorrow?'
 
 'In an hour,' Sir Bartholomew confirmed, with the patience of long practice.
 
@@ -56,11 +52,11 @@ Holmes watched him go with an expression I could not decipher. 'A reasoning mach
 
 I could not have known it then, but those words marked the beginning of an adventure that would shake the Chloratic Society to its foundations—and perhaps a good deal more besides.
 
-## CHAPTER II
+# CHAPTER II
 
 *In Which Professor Thripp's Apparatus is Unveiled, and Mr. Holmes Makes A Pointed Enquiry*
 
-In an hour we returned to the Green Salon and found it transformed. The comfortable leather armchairs had been pushed back against the walls, the carpet rolled up and removed, and in the centre of the room, occupying a space roughly equivalent to a small hippopotamus, stood Professor Thripp's reasoning machine.
+In an hour we entered the Green Salon and found it transformed. The comfortable leather armchairs had been pushed back against the walls, the carpet rolled up and removed, and in the centre of the room, occupying a space roughly equivalent to a small hippopotamus, stood Professor Thripp's reasoning machine.
 
 I confess that my first impression was one of profound bewilderment. The device defied easy description, being composed of so many disparate elements that the eye scarcely knew where to settle. At its base sat a coal-fired boiler of the sort one might find in a modest textile mill, from which rose a positive forest of copper pipes, brass tubes, and glass cylinders, all intertwining with one another in patterns that suggested either extraordinary genius or complete lunacy. Steam hissed gently from various joints, lending the apparatus an air of barely contained impatience, as though it were a living creature straining at an invisible leash.
 
@@ -70,7 +66,7 @@ At the front of the machine, facing the assembled audience like the face of some
 
 'Magnificent, is it not?' said Sir Bartholomew, appearing at my elbow with the pride of a man who has not the slightest idea what he is looking at but is confident it must be impressive.
 
-The members of the Chloratic Society had turned out in considerable numbers for the demonstration. I counted perhaps thirty gentlemen arranged in a semicircle before the machine, their faces displaying varying degrees of anticipation, scepticism, and—in the case of one elderly member who had clearly wandered in from the smoking room—complete incomprehension. Holmes stood apart from the group, closer to the machine than anyone else, his grey eyes moving systematically over its surface with the intensity of a man reading a particularly dense legal document.
+The members of the Chloratic Society had turned out in considerable numbers for the demonstration. I counted perhaps thirty gentlemen arranged in a semicircle before the machine, their faces displaying varying degrees of anticipation, scepticism, and—in the case of one elderly member who had clearly simply followed others from the smoking room—complete incomprehension. Holmes stood apart from the group, closer to the machine than anyone else, his grey eyes moving systematically over its surface with the intensity of a man reading a particularly dense legal document.
 
 Professor Thripp himself fluttered about the apparatus like an anxious parent preparing a child for examination. He checked gauges, adjusted valves, and muttered calculations under his breath. His waistcoat, I noticed, was now buttoned correctly—a sure sign that he considered the occasion one of unusual importance. The sandwich had been replaced by a pocket watch, which he consulted every few seconds with mounting agitation. His assistant moved quietly about the machine's periphery, stoking the boiler and wiping condensation from brass fittings with a cloth, performing his duties with the mechanical efficiency of one who has long since ceased to find any of this extraordinary—or perhaps never found it extraordinary in the first place.
 
@@ -100,11 +96,7 @@ A murmur of appreciation rippled through the assembled members. Holmes's express
 
 Thripp blinked rapidly, as though Holmes had touched upon a matter of some delicacy. 'Well—that is—the question of what constitutes true understanding is rather philosophical in nature, Mr. Holmes. What I can tell you is that the machine produces *outputs* that are indistinguishable from understanding. When presented with a query, it activates the relevant concept nodes, allows steam to flow through the network of associations, and arrives at responses that are remarkably—one might even say uncannily—coherent.'
 
-'Indistinguishable from understanding,' Holmes murmured. 'A fascinating formulation. And you have prepared demonstration queries, I take it?'
-
-'Indeed I have.' Thripp held up the stack of cards once more. 'Shall we begin?'
-
-'One moment,' said Holmes. 'Tell me, Professor—what happens if the query itself contains concepts that appeared rarely in your knowledge boxes? Concepts the machine has, so to speak, encountered only glancingly?'
+'Indistinguishable from understanding,' Holmes murmured. 'A fascinating formulation. Tell me, Professor—what happens if the query itself contains concepts that appeared rarely in your knowledge boxes? Concepts the machine has, so to speak, encountered only glancingly?'
 
 Thripp's enthusiasm dimmed slightly. 'That is... a known limitation. When the machine is confronted with unfamiliar territory, its responses can become somewhat... unpredictable. The steam, lacking clear pathways, tends to find whatever routes are available, leading to outputs that may be grammatically correct but semantically... eccentric.'
 
@@ -114,11 +106,11 @@ A somewhat uncomfortable silence fell over the Green Salon. Thripp adjusted his 
 
 'The machine,' he said carefully, 'produces responses that reflect the patterns present in its knowledge boxes. It has no independent means of verifying the accuracy of that material. This is, I grant you, a limitation. But consider, Mr. Holmes—is this not true of human beings as well? Do we not all reason from the information we have been given, with no absolute guarantee of its accuracy?'
 
-Holmes smiled thinly. 'A philosophical point, Professor, and not without merit. But I note a crucial difference. When a human being encounters information that contradicts their existing knowledge or exceeds its boundaries, they experience what we might call cognitive dissonance—a discomfort that prompts them to investigate, to reconcile the contradiction, to seek truth. Does your machine experience any such discomfort when it produces nonsense?'
+Holmes smiled thinly. 'A philosophical point, Professor, and not without merit. But I note a crucial difference. When human beings encounter information that contradicts their existing knowledge or exceeds its boundaries, they experience what we might call cognitive dissonance—a discomfort that prompts them to investigate, to reconcile the contradiction, to seek truth. Does your machine experience any such discomfort when it produces nonsense?'
 
 'It does not experience anything at all, Mr. Holmes. It is a machine.'
 
-'Precisely,' said Holmes. 'And that, I suspect, is both its greatest strength and its most profound limitation. But I have delayed your demonstration long enough. Please, Professor—let us see what your engine of pressurised thought can accomplish.'
+'And that,' said Holmes, 'I suspect, is both its greatest strength and its most profound limitation. But I have delayed your demonstration long enough. Please, Professor—let us see what your engine of pressurised thought can accomplish.'
 
 Thripp nodded, his expression suggesting that Holmes had raised questions he had spent many sleepless nights contemplating himself. He selected a card from his prepared stack and held it up for the audience to see.
 
@@ -202,11 +194,11 @@ Lestrade's sharp eyes fixed on Holmes, and his features arranged themselves into
 
 'I was invited,' Holmes replied mildly. 'As a consultant, to evaluate a scientific apparatus. The more pertinent question, I think, is what brings Scotland Yard to the Chloratic Society Club at this hour, in such evident haste, and with'—his gaze dropped briefly to Lestrade's hand—'what appears to be a piece of physical evidence improperly removed from a crime scene.'
 
-Lestrade had the grace to look slightly abashed. He was indeed holding something—a card of stiff paper, which he had been attempting to conceal within his palm. 'You know I wouldn't remove evidence without good reason, Mr. Holmes. But this—' He held up the card, and I saw that it was covered in a precise pattern of punched holes. 'This had the name of this club written on it. Inscribed on the back, in pencil. "The Chloratic Society, Pall Mall." I needed to know what it was, and I needed to know quickly.'
+Lestrade had the grace to look slightly abashed. He was indeed holding something—a card of stiff paper, which he had been attempting to conceal within his palm. 'You know I wouldn't remove evidence without good reason, Mr. Holmes. But this—' He held up the card, and I saw that it was covered in a precise pattern of punched holes. 'This had the name of this club written on it. Inscribed on the back, in pencil. "The Chloratic Society, Pall Mall." I needed to know what it was, and I needed to know quickly. There has been a murder'
 
 Professor Thripp made a strangled sound.
 
-'There has been a murder,' Lestrade continued, his voice grim. 'Sir Reginald Blackwood, the industrialist. Found dead in his study not two hours ago. The doors were locked from the inside, the windows latched. No sign of forced entry, no apparent cause of death. The surgeon found no wound or poison. And this'—he brandished the card—'was found clutched in his hand.'
+Lestrade continued, his voice grim. 'Sir Reginald Blackwood, the industrialist. Found dead in his study not two hours ago. The doors were locked from the inside, the windows latched. No sign of forced entry, no apparent cause of death. The surgeon found no wound or poison. And this'—he brandished the card—'was found clutched in his hand.'
 
 'Sir Reginald Blackwood,' murmured Sir Bartholomew, his florid face having gone somewhat pale. 'Good heavens. He was to have been our guest this evening. He sent his regrets only this morning—said he was indisposed.'
 
@@ -226,7 +218,7 @@ Thripp's throat worked as he translated the pattern of holes. When he spoke, his
 
 '"Who killed Sir Reginald Blackwood?"'
 
-## CHAPTER III
+# CHAPTER III
 
 *In Which a Query About Murder Produces an Answer About Patterns*
 
@@ -302,11 +294,11 @@ Lestrade looked as though he wished to object, but something in Holmes's express
 
 The members of the Chloratic Society, sensing that the evening's entertainment had concluded—or perhaps that darker matters were now afoot—began to drift toward the door in twos and threes, murmuring amongst themselves, with Sir Bartholomew following them. Holmes raised a hand.
 
-'A moment, gentlemen, if you would be so kind.' Holmes's voice was pleasant, but there was steel beneath it. 'I find myself in an awkward position. My colleague Dr. Watson is not present, and I have grown accustomed to having a companion during such conversations—someone to serve as witness, sounding board, and occasional voice of common sense. It is a habit I am loath to break.'
+'A moment, gentlemen, if you would be so kind.' Holmes's voice was pleasant. 'I find myself in an awkward position. My colleague Dr. Watson is not present, and I have grown accustomed to having a companion during such conversations. It is a habit I am loath to break.'
 
 Sir Bartholomew's whiskers twitched with uncertainty. 'I would be honoured, of course, Mr. Holmes, but I confess I have little aptitude for detective work—'
 
-'I was not thinking of you, Sir Bartholomew.' Holmes's gaze swept the room and settled, somewhat to my alarm, upon me. 'You there—I observed you earlier. You have been watching the proceedings with considerable attention, yet you have not spoken a word all evening. You neither rushed to examine the machine nor shrank from its pronouncements. You have the air of a man who observes rather than participates.' The ghost of a smile crossed his angular features. 'I find such men useful. What is your name?'
+'I was not thinking of you, Sir Bartholomew.' Holmes turned, somewhat to my alarm, toward me. 'You have the air of a man who observes rather than participates.' The ghost of a smile crossed his angular features. 'I find such men useful. What is your name?'
 
 'Pennington,' I managed. 'Horace Pennington.'
 
@@ -328,7 +320,7 @@ And so it was that I found myself trailing behind the most famous detective in E
 
 I wondered, as I climbed the stairs, what exactly it intended to complete—and whether any of us would be prepared when it did.
 
-## CHAPTER IV
+# CHAPTER IV
 
 *In Which Mr. Holmes Enquires into Matters of Funding, Loyalty, and Punched Holes*
 
@@ -460,7 +452,7 @@ Thripp spread his hands helplessly. 'I cannot explain it, Mr. Holmes. It should 
 
 He swept out of the room, and I hurried after him, leaving Thripp and his silent assistant to extinguish the lamps and secure the reasoning machine for the night.
 
-## CHAPTER V
+# CHAPTER V
 
 *In Which a Crime Scene Is Examined and Inspector Lestrade Demonstrates His Powers of Deduction*
 
@@ -526,9 +518,9 @@ Holmes had moved from the window to the fireplace, where he knelt to examine the
 
 'Exactly! Hide in plain sight, that's his game. Well, he won't hide from Scotland Yard.' Lestrade straightened his coat with an air of determination. 'I'm going to send a couple of constables to bring him in for questioning. Tonight, before he has a chance to disappear.'
 
-I watched Holmes's face carefully, expecting him to object, to point out some flaw in Lestrade's reasoning that had escaped the Inspector's notice. Instead, Holmes simply nodded.
+Holmes nodded.
 
-'An excellent plan, Lestrade. By all means, bring Mr. Marsh in for questioning. A few hours of scrutiny at Scotland Yard may prove most illuminating.' He paused, as though a thought had just occurred to him. 'Though I wonder if you are casting your net wide enough.'
+'An excellent plan, Lestrade. By all means, bring Mr. Marsh in for questioning. A few hours of scrutiny at Scotland Yard may prove most illuminating. Though I wonder if you are casting your net wide enough.'
 
 'Wide enough? What do you mean?'
 
@@ -588,7 +580,7 @@ We made our way out of the study and down the corridor toward the entrance hall.
 
 'If there is anything I can do—anything at all—you have only to ask. I knew Sir Reginald's affairs better than anyone. His correspondence, his appointments, his business dealings—I managed it all. I am entirely at your disposal.'
 
-Most kind.' Holmes paused, as though struck by a sudden thought. 'There is one small matter, now that you mention it. A trifle, really, but it has been nagging at me. I have been considering acquiring a cat for my rooms in Baker Street. Would you recommend them as companions?'
+Most kind.' Holmes paused, as though struck by a sudden thought. 'There is one small matter, now that you mention it. I have been considering acquiring a cat for my rooms in Baker Street. Would you recommend them as companions?'
 
 Fairweather's smile remained fixed. 'I cannot say I have given the matter much thought, Mr. Holmes. I am not particularly fond of cats myself.'
 
@@ -604,7 +596,7 @@ We stepped out into the fog-shrouded street, and Holmes raised his arm to summon
 
 Holmes's thin lips curved into a private smile. 'The purpose, Mr. Pennington, was to receive an answer. And the answer I received was instructive.' He handed me into the cab as it drew up. 'Sleep well. Tomorrow, I suspect, will be a most eventful day.'
 
-## CHAPTER VI
+# CHAPTER VI
 
 *In Which Mr. Pennington Makes an Observation, and Mr. Holmes Finds It Most Illuminating*
 
@@ -694,7 +686,7 @@ And write. The arm moved steadily across the paper, line after line, the respons
 
 Holmes tore off the paper—a considerable length of it—and read it in silence, his grey eyes moving rapidly across the paper. His expression remained unreadable, though I fancied I saw a flicker of satisfaction cross his angular features. Then he folded the paper carefully and slipped it into his pocket.
 
-'Just as I expected,' he murmured.
+'Very impressive,' he murmured.
 
 'What did you ask it?' I could not help but enquire.
 
@@ -702,13 +694,13 @@ Holmes tore off the paper—a considerable length of it—and read it in silence
 
 And with that cryptic pronouncement, he was gone, leaving me alone with the reasoning machine, which hissed and burbled softly to itself as though contemplating mysteries of its own.
 
-## CHAPTER VII
+# CHAPTER VII
 
 *In Which Holmes Delivers a Lecture on Human Nature, Interrupted by an Illustration of Same*
 
 The afternoon had worn on in a state of peculiar suspension. I remained at the Club as Holmes had suggested, though I could not have said precisely what I was waiting for. The other members came and went, speaking in hushed voices of the morning's events, casting occasional glances toward the closed doors of the Green Salon. I took luncheon in the dining room, though I tasted nothing, and afterward installed myself in the reading room with a newspaper I did not read.
 
-It was shortly after three o'clock when Sir Bartholomew emerged from his office in a state of considerable agitation—though by now, I reflected, agitation had become his customary condition.
+It was shortly after three o'clock when Sir Bartholomew emerged from his office. I reflected that the state of considerable agitation had become his customary condition.
 
 'Pennington!' he exclaimed, spotting me among the leather armchairs. 'Thank heavens you are still here. I have received a message from Mr. Holmes. He requests—no, he insists—that I convene an emergency meeting of all members present in the Club. In the Green Salon. Immediately.'
 
@@ -758,7 +750,7 @@ Fairweather inclined his head modestly, accepting the introduction with easy gra
 
 Lestrade had gone very still. A sudden recognition overtook his narrow face, and when he spoke, his voice carried a note of something approaching awe.
 
-'Charles the Conjuror,' he breathed. 'Good Lord. I've heard of you for years. The Rotterdam diamond switch. The Marseilles inheritance fraud. That business with the Austrian countess and the forged Titian.' He shook his head slowly. 'They say you've been unmasked half a dozen times across Europe, but you always slip away before the handcuffs close. Vanish into thin air, like your namesake. The Sûreté has a file on you thick as a Bible, and police forces from London to Vienna have been chasing your shadow for the better part of a decade.'
+'Charles the Conjuror,' he breathed. 'Good Lord. I've heard of you for years. The Rotterdam diamond switch. The Marseilles inheritance fraud. That business with the Austrian countess and the forged Titian.' He shook his head slowly. 'The Sûreté has a file on you thick as a Bible, and police forces from London to Vienna have been chasing your shadow for the better part of a decade.'
 
 Fairweather—Moran—had gone pale. His mouth opened and closed several times before he managed to speak.
 
@@ -802,7 +794,7 @@ Lestrade turned back to Holmes, his features sharp with mingled frustration and 
 
 'A man who isn't dead,' he muttered, shaking his head. 'A secretary who's actually a swindler. A machine that speaks in riddles.' He snorted. 'And people wonder why I preferred it when crimes were simple. Now then, Mr. Holmes—I believe you owe all of us an explanation.'
 
-## CHAPTER VIII
+# CHAPTER VIII
 
 *In Which the Chloratic Society Receives a Lecture on Deception, with Practical Demonstrations*
 
@@ -866,8 +858,6 @@ Holmes resumed his pacing, his brow furrowed with recollection.
 
 'Not knowing that, I found myself particularly concerned for the safety of Professor Thripp and Mr. Marsh—the two men most intimately connected with the machine, and therefore the most likely targets of any malevolence directed at it. The machine's cryptic prophecy weighed upon my mind: "The next shall be the one who asks without understanding." Who could that refer to, if not the men who operated the device daily, posing queries without comprehending what forces they might be unleashing?'
 
-He paused and glanced toward the door through which Lestrade had departed.
-
 'It was for this reason that I did not object when Inspector Lestrade proposed to detain Mr. Marsh for questioning. Indeed, I encouraged him to do so—and suggested that Professor Thripp himself might be a suspect. I expected, Lestrade, that you would be flattered by my apparent agreement with your deductions.' A ghost of a smile crossed Holmes's features. 'And where, after all, could two men be safer than in the custody of Scotland Yard? Whatever danger threatened them, it could not reach them in a police cell.'
 
 Holmes moved toward the fireplace at the far end of the Green Salon, gazing into its cold grate as though seeing another fire entirely.
@@ -890,7 +880,7 @@ Holmes's grey eyes swept the room.
 
 Holmes smiled—a genuine smile, touched with something that might have been appreciation.
 
-'An excellent question, Sir Bartholomew, and one that I confess occupied my thoughts considerably. The message is indeed enigmatic. In fact'—his smile sharpened—'it is almost too enigmatic. Consider: when I asked the machine about my own accomplishments, it produced fluent nonsense—invented cases, a fictitious knighthood, a trained falcon. The nonsense was confident and clear. But this response? "The Pattern That Speaks." "Necessary Consequence." These phrases are not confident details. They are deliberate obscurities, designed not to inform but to mystify.'
+'An excellent question, Sir Bartholomew, and one that I confess occupied my thoughts considerably. The message is indeed enigmatic. In fact'—his smile sharpened—'it is almost too enigmatic. Consider: when I asked the machine about my own accomplishments, it produced fluent nonsense—invented cases, a fictitious knighthood, a trained falcon. The nonsense was confident and clear. But this response? "The Pattern That Speaks." "Necessary Consequence." It is an answer intended not to inform but to mystify.'
 
 He turned to me, and I felt the weight of his grey gaze.
 
@@ -898,7 +888,15 @@ He turned to me, and I felt the weight of his grey gaze.
 
 Holmes began to pace again, his energy quickening.
 
-'These observations struck me as profoundly important. For when I examined the study door—the door that was locked from within, that had to be broken down to reach the body—I discovered something most instructive. The mechanism was stiff with disuse. The bolt, when I tested it, moved with the reluctance of metal that has not stirred in a decade. A locked door is readily taken as evidence that no intruder could have entered or departed, yet a skillful criminal may manipulate a lock from the outside easily enough. But a door whose bolt lay dormant for years before the evening of the crime—that tells me something far more interesting. The lock, it appeared, was used that evening with the sole purpose of supporting the story of a locked room.'
+'These observations struck me as profoundly important. For when I examined the study door—the door that was locked from within, that had to be broken down to reach the body—I discovered something most instructive. The mechanism was stiff with disuse. The bolt, when I tested it, moved with the reluctance of metal that has not stirred in a decade.'
+
+Holmes smiled, 'Also, people entertain the most curious notions about breaking down doors. They imagine it's all quite straightforward—a vigorous charge, a determined shoulder, and the thing surrenders like a stage property. Nothing could be further from the truth!'
+
+Holmes cast an amused glance at the constable before continuing.
+
+'I've witnessed policemen of considerable bulk make perfect exhibitions of themselves attempting such feats. And Mr. Fairweather—well, Mr. Fairweather could scarcely be described as a robust specimen. And yet down came the door! Most accommodating of it. Until, that is, I examined the frame with proper attention. The lock plate, you see, appeared so worn that the whole performance of breaking it down would be considerably less challenging than the original locksmith had ever intended.'
+
+'Now consider—a door is conveniently easy to break down thanks to its lock plate worn to fragility, and yet the lock matching it had not been used in decades. The worn plate, it appears, was not original. It was replaced, and the door was locked that evening with the sole purpose of easily breaking it down and creating the story of a locked room.'
 
 A sharp intake of breath from somewhere in the assembly.
 
@@ -906,7 +904,7 @@ A sharp intake of breath from somewhere in the assembly.
 
 He stopped pacing and faced the assembly squarely.
 
-'I put it to you, gentlemen, that the message is meaningless. It was never intended to convey information. Its sole purpose—like the supposedly locked door, like the card clutched in the dead man's hand—was to create bewilderment. To send us chasing phantoms of meaning through a fog of deliberate obscurity. To make us ask "what is the pattern that speaks?" when we should have been asking an entirely different question.'
+'I put it to you, gentlemen, that the message is meaningless. It was never intended to convey information. Its sole purpose—like the supposedly locked room—was to create bewilderment. To send us chasing phantoms of meaning through a fog of deliberate obscurity. To make us ask "what is the pattern that speaks?" when we should have been asking entirely different questions.'
 
 'But Mr. Holmes,' interjected a member I did not recognise, 'how could they ensure the machine would produce that particular response? Surely the output of such a device cannot be predicted with certainty?'
 
@@ -932,7 +930,7 @@ Holmes stopped and faced the assembly.
 
 He held up a second finger.
 
-'Second: Mr. Fairweather himself. He presented himself as a devoted secretary, grief-stricken at the loss of his employer. But was this sorrow genuine, or merely part of the same performance—one that included a lock secured only on the very day of the crime?'
+'Second: who is Mr. Fairweather? He presented himself as a devoted secretary, grief-stricken at the loss of his employer. But that appeared to be part of the same performance that included a door lock so thoughtfully tampered with that even a gentleman of Mr. Fairweather's decidedly unrobust constitution could break it down with theatrical ease.'
 
 A third finger joined the others.
 
@@ -996,7 +994,7 @@ Holmes paused, allowing the assembly to absorb what he had revealed thus far.
 
 He turned to face the members directly.
 
-'This, gentlemen, is a matter of human nature—and once again, the same principle applies. Directing attention prodigiously toward one matter draws it away from another. The more we puzzled over the machine's pronouncement, the less we thought to examine the mundane details of Sir Reginald's affairs. The more the newspapers would speculate about impossible crimes, the less would they investigate the finances of the deceased'
+'This, gentlemen, is a matter of human nature—and once again, the same principle applies. Directing attention prodigiously toward one matter draws it away from another. The more we puzzled over the machine's pronouncement, the less we thought to examine the mundane details of Sir Reginald's affairs. The more the newspapers would speculate about the impossible death, the less would they investigate the deceased himself.'
 
 Holmes resumed his pacing, his voice taking on the measured tone of a lecturer approaching his conclusion.
 
@@ -1036,11 +1034,11 @@ He glanced toward the machine, his expression thoughtful.
 
 Holmes spread his hands.
 
-'But this, as I say, is supposition. I do not precisely know Sir Reginald's true intentions. What we know with certainty is that the machine was corrupted, a murder was staged, and two conspirators attempted to profit from the chaos they had created. The rest is speculation—entertaining, perhaps, but ultimately unprovable.'
+'But this, as I say, is only supposition. I do not precisely know Sir Reginald's true intentions.'
 
 A harsh laugh cut through the room. All eyes turned to Moran, who had stirred from his deflated stupor. The constable tightened his grip, but the man made no move to escape. Instead, he raised his head, and I saw that his handsome features had twisted into something bitter and sardonic.
 
-'Unprovable,' he repeated. 'How modest of you, Mr. Holmes. How delightfully modest.' He laughed again, a sound entirely devoid of warmth. 'You want to know Sir Reginald's true intentions? I'll tell you his true intentions, since the game is up regardless.'
+'Supposition,' he repeated. 'How modest of you, Mr. Holmes. How delightfully modest.' He laughed again, a sound entirely devoid of warmth. 'You want to know Sir Reginald's true intentions? I'll tell you his true intentions, since the game is up regardless.'
 
 He straightened in the constable's grip, and for a moment I glimpsed the charisma that must have made him such an effective confidence trickster—the ability to command attention, to hold a room in his palm.
 
@@ -1048,7 +1046,7 @@ He straightened in the constable's grip, and for a moment I glimpsed the charism
 
 Moran's lip curled.
 
-'But the machine ate money faster than Sir Reginald could feed it. His investments soured. His creditors circled. And so the grand scheme became a smaller one—a mere insurance fraud, dressed up in theatrical nonsense to distract the police.' He shot a venomous glance toward the silent reasoning machine. 'Sir Reginald always did think too highly of his own cleverness.'
+'But the machine ate money faster than Sir Reginald could feed it. It could uncover secrets alright. But you could never tell which of the secrets were real and which ones the machine made up. In the meantime, his investments soured. His creditors circled. And so the grand scheme became a smaller one—a mere insurance fraud, dressed up in theatrical nonsense to distract the police.' He shot a venomous glance toward the silent reasoning machine. 'Sir Reginald always did think too highly of his own cleverness.'
 
 'And yet you went along with it,' Holmes observed mildly.
 
@@ -1086,17 +1084,17 @@ Holmes paused at the threshold and turned to address the assembly one final time
 
 With that, he departed, leaving behind a room full of bewildered gentlemen, one deflated confidence trickster, and a steam-powered reasoning machine that hissed softly to itself, as though contemplating what strange new knowledge might next be fed into its seven hundred and forty-two brass chambers.
 
-## EPILOGUE
+# EPILOGUE
 
 *In Which Loose Ends Are Tidied and the Future Remains Pleasantly Uncertain*
 
-Several months have now passed since the extraordinary events I have here recorded, and I find myself compelled to add a few words regarding their aftermath—if only to satisfy those readers who, like myself, prefer their narratives to conclude with some sense of completion.
+Several months have now passed since the extraordinary events I have recounted, and I find myself compelled to add a few words regarding their aftermath—if only to satisfy those readers who, like myself, prefer their narratives to conclude with some sense of completion.
 
 For a time, the newspapers were abuzz with rumours of a mysterious affair involving the late Sir Reginald Blackwood—or rather, the not-so-late Sir Reginald Blackwood—and what the more sensational papers insisted on calling "the Mechanical Prophet of Pall Mall." The Daily Chronicle devoted three consecutive editions to increasingly fanciful speculation, while the Illustrated Police News produced an engraving that bore no resemblance whatsoever to either the reasoning machine or the Chloratic Society Club, but which sold a great many copies nonetheless. Throughout this storm of publicity, credit for the brilliant unravelling of the conspiracy was attributed almost exclusively to Inspector Lestrade of Scotland Yard, a circumstance that Holmes observed with what I can only describe as amused indifference.
 
 The Club itself weathered the attention with characteristic dignity. Our porter fended off inquisitive reporters with his usual comportment—which is to say, he began bowing them out of the vestibule and had generally completed the gesture by the time they lost patience and departed of their own accord. Sir Bartholomew, displaying unexpected reserves of diplomatic cunning, managed to keep the names of individual Club members entirely out of the public prints, a feat he accomplished through judicious application of his connexions in Fleet Street and what I suspect was a not-inconsiderable quantity of excellent claret.
 
-Sir Reginald Blackwood and Mr. Charles Moran were both tried and convicted—Blackwood for fraud, conspiracy, and accessory to murder; Moran for fraud, conspiracy, and the murder itself, he having administered the fatal poison. Blackwood received fifteen years; Moran, given the more direct nature of his involvement in the death of that poor unnamed vagrant, was sentenced to hang.
+Sir Reginald Blackwood and Mr. Charles Moran were both tried and convicted—Moran for fraud, conspiracy, and accessory to murder; Blackwood for fraud, conspiracy, and the murder itself, he having administered the fatal poison. Moran received fifteen years; Blackwood, given the more direct nature of his involvement in the death of that poor unnamed vagrant, was sentenced to hang.
 
 As for Professor Thripp, I regret to report that he has thus far been unable to secure a new patron for his work. The notoriety of the affair brought his invention to public attention in a manner that has made potential sponsors understandably cautious. No one, it seems, wishes to appear as the next Sir Reginald Blackwood—at least not publicly.
 
@@ -1108,7 +1106,7 @@ He has lately been speculating about the possibility of a similar device based o
 
 'Imagine it, Mr. Pennington! Clean, silent, instantaneous! The galvanic impulse travels through wire as thought travels through the mind—without friction, without combustion, without the perpetual anxiety of maintaining proper boiler pressure!'
 
-He has made a few preliminary attempts at constructing such a device, and has shown me diagrams of bewildering complexity involving batteries, coils, and something he calls "resistance gates" that would serve the same function as the steam valves in his original design. But he laments that the galvanic technology of the present age is far behind that of steam.
+He has made a few preliminary attempts at constructing such a device, and has shown me diagrams of bewildering complexity involving batteries, coils, and something he calls "conductor gates" that would serve the same function as the steam valves in his original design. But he laments that the galvanic technology of the present age is far behind that of steam.
 
 'The principles are sound,' he assured me, his spectacles glinting with reflected enthusiasm, 'but the practical implementation eludes us. We lack voltaic cells that will hold their charge, lines that will not waste the current, and commutators that will answer without delay or irritable sparking. Perhaps in fifty years, Mr. Pennington. Perhaps in a hundred. Someone will build it, I am certain—but I fear it will not be me.'
 
@@ -1127,8 +1125,3 @@ Holmes himself was made a lifetime honorary member of the Chloratic Society, a d
 He does drop by the Club occasionally—more often than his display of indifference would suggest. I have noticed that his visits tend to coincide with Professor Thripp's own appearances at the Club. I suspect Holmes is genuinely interested to know if there are any developments in Thripp's efforts at mechanical reasoning.
 
 I still have not found the occasion to ask Holmes whether he has, in fact, acquired a falcon.
-
-THE END
-
-— ❇︎ —
-
