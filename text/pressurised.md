@@ -198,7 +198,7 @@ Lestrade's sharp eyes fixed on Holmes, and his features arranged themselves into
 
 'I was invited,' Holmes replied mildly. 'As a consultant, to evaluate a scientific apparatus. The more pertinent question, I think, is what brings Scotland Yard to the Chloratic Society Club at this hour, in such evident haste, and with'—his gaze dropped briefly to Lestrade's hand—'what appears to be a piece of physical evidence improperly removed from a crime scene.'
 
-Lestrade had the grace to look slightly abashed. He was indeed holding something—a card of stiff paper, which he had been attempting to conceal within his palm. 'You know I wouldn't remove evidence without good reason, Mr. Holmes. But this—' He held up the card, and I saw that it was covered in a precise pattern of punched holes. 'This had the name of this club written on it. Inscribed on the back, in pencil. "The Chloratic Society, Pall Mall." I needed to know what it was, and I needed to know quickly. There has been a murder'
+Lestrade had the grace to look slightly abashed. He was indeed holding something—a card of stiff paper, which he had been attempting to conceal within his palm. 'You know I wouldn't remove evidence without good reason, Mr. Holmes. But this—' He held up the card, and I saw that it was covered in a precise pattern of punched holes. 'This had the name of this club written on it. Inscribed on the back, in pencil. "The Chloratic Society, Pall Mall." I needed to know what it was, and I needed to know quickly. There has been a murder.'
 
 Professor Thripp made a strangled sound.
 
@@ -364,7 +364,7 @@ Thripp shifted uncomfortably in his chair. 'He believed—and I confess I came t
 
 'No one else? No servants at your workshop? No colleagues at the Club?'
 
-'Sir Reginald provided me with a private workshop in one of his properties—a disused carriage house not far from my residence in Clerkenwell, quite secluded. I have worked there alone, save for Mr. Marsh, for the past three years. And I have been deliberately vague with my colleagues here at the Chloratic Society. They knew I was working on something, of course—I am not skilled at dissembling—but the details remained obscure. Sir Bartholomew himself learned the full nature of my work only last week, when Sir Reginald and I approached him about hosting the demonstration.'
+'Sir Reginald provided me with a private workshop in one of his properties—a disused carriage house not far from my residence in Clerkenwell, quite secluded. I have worked there alone, save for Mr. Marsh, for the past four years. And I have been deliberately vague with my colleagues here at the Chloratic Society. They knew I was working on something, of course—I am not skilled at dissembling—but the details remained obscure. Sir Bartholomew himself learned the full nature of my work only last week, when Sir Reginald and I approached him about hosting the demonstration.'
 
 Holmes had stopped pacing. He stood very still, his gaze fixed on some point in the middle distance.
 
@@ -584,7 +584,7 @@ We made our way out of the study and down the corridor toward the entrance hall.
 
 'If there is anything I can do—anything at all—you have only to ask. I knew Sir Reginald's affairs better than anyone. His correspondence, his appointments, his business dealings—I managed it all. I am entirely at your disposal.'
 
-Most kind.' Holmes paused, as though struck by a sudden thought. 'There is one small matter, now that you mention it. I have been considering acquiring a cat for my rooms in Baker Street. Would you recommend them as companions?'
+'Most kind.' Holmes paused, as though struck by a sudden thought. 'There is one small matter, now that you mention it. I have been considering acquiring a cat for my rooms in Baker Street. Would you recommend them as companions?'
 
 Fairweather's smile remained fixed. 'I cannot say I have given the matter much thought, Mr. Holmes. I am not particularly fond of cats myself.'
 
@@ -970,11 +970,7 @@ I could not help myself. 'Mr. Holmes—the question you asked Mr. Fairweather la
 
 Holmes smiled. 'It was indeed, Mr. Pennington, though not through any chain of logical deduction.' He began to pace slowly, his hands clasped behind his back. 'Mr. Fairweather's possible involvement in this matter was suggested by the condition of the door. However, I wanted to assess what sort of man he was. How skilled was he at controlling his reactions and keeping an artificial composure? To test this, I decided to ask him a question entirely unexpected. A person whose manner is natural and unaffected will show visible confusion when confronted with a non sequitur. He might frown, or laugh, or ask what on earth you mean. But a master of wearing a mask will suppress such responses. The mask remains in place even when the question makes no sense.'
 
-He paused in his pacing. 'The scars upon his ear suggested cats as a subject, though any unexpected topic would have served just as well. I grant you, this is not the sort of test one finds in treatises on criminal investigation. It is more intuition than deduction, more art than science. But I have found such tests instructive nonetheless.'
-
-'And what did Mr. Fairweather's reaction tell you?'
-
-'That he was indeed wearing a mask—and wearing it very well. When I asked whether he would recommend cats as companions, there was no confusion, no surprise, no natural human bewilderment at such an odd question in the midst of a murder investigation. His composure never wavered. He simply produced a smooth answer—that he was not fond of cats himself—without ever betraying any sense that the question was peculiar.'
+He paused in his pacing. 'The scars upon his ear suggested cats as a subject, though any unexpected topic would have served just as well. I grant you, this is not the sort of test one finds in treatises on criminal investigation. It is more intuition than deduction, more art than science. When I asked whether he would recommend cats as companions, there was no confusion, no surprise, no natural human bewilderment at such an odd question in the midst of a murder investigation. His composure never wavered. He simply produced a smooth answer—that he was not fond of cats himself—without ever betraying any sense that the question was peculiar.'
 
 He turned back to the assembly.
 
